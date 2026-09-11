@@ -1,0 +1,2036 @@
+OrderID,CustomerID,Gender,Age,City,ProductCategory,ProductName,Quantity,Price,DiscountPercent,OrderDate,ShippingCost,DeliveryDays,Rating,PaymentMethod
+100197,1304,Male,47.0,Chennai,Books,Cookbook,2,727.3,30,2024-02-27,65.94,5,3.0,Cash on Delivery
+101557,1030,Male,54.0,Kolkata,Fashion,Jacket,1,1016.17,0,2023-05-16,143.4,6,1.0,UPI
+100573,1263,Female,35.0,Ahmedabad,Home & Kitchen,Bedsheet,1,2758.36,30,2023-11-03,71.16,4,5.0,Net Banking
+101717,1063,Male,24.0,Kolkata,Home & Kitchen,Bedsheet,1,3563.96,10,2024-10-20,73.36,6,5.0,UPI
+100201,1341,Male,20.0,Kolkata,Beauty,Hair Dryer,2,814.48,0,2024-03-07,65.06,9,5.0,Credit Card
+101949,1456,Male,42.0,Kolkata,Fashion,Sneakers,1,1061.47,5,2024-06-11,111.88,5,4.0,Credit Card
+100913,1218,Male,59.0,Bangalore,Home & Kitchen,Mixer Grinder,4,2329.65,10,2023-07-30,57.1,7,3.0,UPI
+100842,1474,Male,18.0,Pune,Electronics,Laptop,1,14382.74,10,2024-06-29,67.87,6,2.0,UPI
+100475,1498,Male,31.0,Hyderabad,Beauty,Face Cream,1,929.18,0,2024-09-30,0.0,4,4.0,Cash on Delivery
+100373,1280,Female,61.0,Pune,Sports,Football,1,1514.77,10,2023-09-09,78.75,2,5.0,Credit Card
+101445,1024,Male,35.0,Chennai,Books,Textbook,5,522.3,0,2024-11-04,155.29,4,5.0,Net Banking
+101103,1156,Female,45.0,Jaipur,Home & Kitchen,Bedsheet,2,4638.6,0,2024-01-05,76.11,5,5.0,Debit Card
+100242,1154,Female,46.0,Chennai,Sports,Running Shoes,1,3160.16,20,2024-03-01,88.46,3,3.0,Cash on Delivery
+100904,1039,Male,38.0,Chennai,Home & Kitchen,Vacuum Cleaner,1,4979.98,20,2023-12-20,120.12,6,3.0,Debit Card
+101600,1321,Female,40.0,mumbai,Electronics,Smartwatch,2,17109.78,10,2023-08-20,135.71,1,5.0,UPI
+101979,1294,Female,39.0,Chennai,Beauty,Lipstick,1,719.44,20,2024-06-08,52.12,1,5.0,Cash on Delivery
+100207,1355,Male,31.0,Pune,Fashion,Handbag,1,1076.85,5,2024-03-18,55.18,1,1.0,Debit Card
+100128,1063,Female,16.0,Jaipur,Beauty,Face Cream,1,18487.05821779402,10,2024-12-05,138.94,7,4.0,Cash on Delivery
+100977,1292,Male,36.0,Kolkata,Beauty,Shampoo,1,672.57,10,2023-02-02,,6,5.0,Net Banking
+101799,1284,Female,45.0,Jaipur,Electronics,Headphones,2,7634.18,30,2024-01-18,30.25,6,5.0,Credit Card
+101166,1336,Female,34.0,Mumbai,Beauty,Hair Dryer,1,605.17,10,2023-03-30,48.74,8,5.0,Cash on Delivery
+101753,1178,Male,32.0,Bangalore,Books,Cookbook,1,433.63,10,2024-12-18,78.68,6,5.0,Debit Card
+101178,1339,Male,31.0,Jaipur,Fashion,Handbag,1,1436.72,5,2023-12-28,,6,4.0,Debit Card
+100299,1102,Female,22.0,Delhi,Electronics,Tablet,1,12455.16,15,2023-11-15,116.37,2,2.0,Debit Card
+101361,1273,Male,37.0,Chennai,Beauty,Perfume,1,1041.05,20,2023-03-28,96.84,7,4.0,Credit Card
+100230,1259,Male,37.0,Patna,Books,Cookbook,1,514.14,5,2024-11-15,123.63,9,4.0,Debit Card
+101486,1361,Male,35.0,Patna,Books,Textbook,4,146.95,10,2024-10-02,136.49,7,5.0,Net Banking
+101756,1336,Male,45.0,Kolkata,Fashion,Handbag,1,2256.32,0,2024-08-07,101.62,3,,UPI
+100703,1208,Male,34.0,chennai,Books,Comic,2,344.64,10,2024-12-19,114.06,4,,Debit Card
+101199,1166,Male,34.0,Chennai,Home & Kitchen,Vacuum Cleaner,4,1382.13,15,2023-05-19,43.65,2,5.0,Cash on Delivery
+101689,1086,Female,23.0,Ahmedabad,Home & Kitchen,Mixer Grinder,1,4463.36,5,2023-10-14,83.1,5,4.0,Credit Card
+100864,1311,Male,25.0,Hyderabad,Home & Kitchen,Lamp,1,2707.91,0,2024-05-06,64.69,5,2.0,Cash on Delivery
+100821,1273,Female,29.0,bangalore,Sports,Cricket Bat,1,1650.15,0,2024-11-24,,5,4.0,Debit Card
+101751,1469,Male,26.0,Bangalore,Home & Kitchen,Vacuum Cleaner,3,3869.63,30,2023-02-13,67.36,6,4.0,UPI
+100111,1389,Female,53.0,Mumbai,Sports,Cricket Bat,1,1820.34,0,2023-12-13,30.88,3,3.0,UPI
+101764,1142,Female,33.0,Delhi,Fashion,Sneakers,1,420.36,30,2023-12-02,50.39,9,5.0,Credit Card
+100472,1217,Female,47.0,Mumbai,Books,Novel,1,405.12,0,2024-12-12,69.6,6,4.0,Cash on Delivery
+100279,1232,Female,39.0,Kolkata,Home & Kitchen,Vacuum Cleaner,2,2442.09,30,2023-04-05,96.08,3,4.0,UPI
+101927,1020,Male,40.0,Patna,Electronics,Headphones,2,18200.26,0,2024-10-28,71.53,6,3.0,UPI
+100300,1048,Male,38.0,Delhi,Books,Biography,2,447.17,15,2023-05-27,87.43,7,4.0,Cash on Delivery
+100962,1304,Male,28.0,Patna,Electronics,Smartwatch,1,18829.49,0,2023-09-06,11.29,4,3.0,Net Banking
+101040,1047,Male,16.0,Kolkata,Beauty,Face Cream,2,737.03,0,2023-06-18,89.03,7,4.0,Net Banking
+101946,1087,Female,35.0,Kolkata,Fashion,T-Shirt,2,2305.63,30,2023-10-09,139.58,6,4.0,
+101418,1075,Female,16.0,Delhi,Beauty,Shampoo,1,1516.38,25,2024-11-19,44.09,6,4.0,Net Banking
+101028,1339,Male,25.0,Mumbai,Home & Kitchen,Bedsheet,1,1386.6,25,2024-01-18,146.6,2,3.0,Net Banking
+100416,1183,Female,17.0,Hyderabad,Books,Comic,1,216.93,30,2023-04-22,109.98,2,4.0,Cash on Delivery
+101936,1433,Female,18.0,Pune,Electronics,Smartphone,1,15188.79,25,2024-02-26,107.74,4,5.0,Debit Card
+100186,1051,Male,19.0,Ahmedabad,Electronics,Tablet,1,18458.69,0,2024-06-13,86.37,4,2.0,Cash on Delivery
+100611,1329,Female,22.0,Patna,Home & Kitchen,Bedsheet,1,3927.52,5,2023-03-06,108.79,2,4.0,UPI
+101284,1429,Male,45.0,Pune,Beauty,Perfume,1,715.66,0,2023-12-09,130.85,2,4.0,UPI
+100780,1462,Male,49.0,Hyderabad,Beauty,Perfume,1,860.05,0,2023-04-05,114.02,6,4.0,Debit Card
+100803,1132,Female,36.0,Chennai,Fashion,Jacket,2,2233.25,0,2023-05-25,27.59,3,4.0,Debit Card
+100285,1403,Male,21.0,Mumbai,Electronics,Smartphone,3,12257.33,5,2024-07-20,43.79,5,5.0,Cash on Delivery
+101230,1439,Male,37.0,Pune,Beauty,Lipstick,2,736.93,25,2024-09-18,79.34,2,1.0,Credit Card
+100003,1033,Female,29.0,Jaipur,Sports,Yoga Mat,1,2372.62,0,2024-06-26,165.67,4,4.0,Net Banking
+101481,1459,Female,38.0,Hyderabad,Beauty,Shampoo,1,383.07,10,2024-06-03,174.1,6,4.0,Credit Card
+100834,1464,Female,39.0,Delhi,Sports,Running Shoes,1,3492.12,5,2023-06-10,101.01,3,3.0,Net Banking
+101988,1233,Female,31.0,Kolkata,Fashion,Jeans,1,1248.87,20,2023-11-11,120.89,4,5.0,Credit Card
+100376,1319,Female,34.0,Bangalore,Electronics,Smartwatch,1,3369.78,10,2023-10-19,136.64,2,5.0,UPI
+100398,1452,Female,35.0,Chennai,Home & Kitchen,Vacuum Cleaner,1,3272.59,0,2024-06-05,93.05,5,5.0,Net Banking
+100420,1096,Male,16.0,Bangalore,Fashion,Handbag,1,1796.47,0,2024-04-29,129.71,5,2.0,UPI
+100978,1305,Male,50.0,Patna,Electronics,Smartwatch,2,10574.46,20,2023-11-03,9.26,5,3.0,Net Banking
+101152,1261,Male,18.0,,Beauty,Lipstick,2,990.22,10,2024-02-12,110.99,5,4.0,Credit Card
+100342,1178,Female,20.0,Chennai,Beauty,Face Cream,1,550.37,0,2024-05-16,70.71,4,4.0,Debit Card
+100387,1064,Male,39.0,Hyderabad,Books,Novel,1,348.54,30,2024-10-20,112.88,6,,Net Banking
+101834,1052,Female,40.0,Hyderabad,Books,Biography,1,309.68,20,2024-09-22,157.58,7,5.0,Cash on Delivery
+100218,1436,Female,53.0,Patna,Books,Comic,1,350.68,10,2023-09-12,124.78,4,2.0,Credit Card
+101846,1426,Female,19.0,Delhi,Sports,Dumbbells,2,1765.37,15,2024-11-13,103.19,6,4.0,Cash on Delivery
+100109,1191,Female,30.0,Ahmedabad,Beauty,Face Cream,1,478.22,5,2023-07-30,,1,4.0,UPI
+101258,1241,Male,53.0,Ahmedabad,Books,Comic,1,385.03,15,2024-01-14,35.96,6,,Debit Card
+100035,1087,Female,37.0,chennai,Beauty,Lipstick,5,803.2,15,2024-09-09,102.16,9,4.0,Cash on Delivery
+100876,1122,Male,19.0,Kolkata,Home & Kitchen,Mixer Grinder,4,5702.72,5,2024-01-01,78.29,5,5.0,Debit Card
+101574,1179,Female,49.0,Bangalore,Sports,Dumbbells,4,1892.15,0,2024-02-16,40.89,8,,Debit Card
+101892,1174,Female,,Kolkata,Electronics,Smartwatch,1,5527.03,5,2023-06-30,148.37,7,4.0,Net Banking
+101899,1387,Female,21.0,Bangalore,Beauty,Hair Dryer,1,605.34,10,2024-10-12,102.07,4,3.0,Debit Card
+101421,1175,Male,44.0,Patna,Electronics,Headphones,1,15794.12,5,2024-02-12,143.97,6,3.0,Debit Card
+100729,1014,Female,25.0,Kolkata,Home & Kitchen,Bedsheet,1,2391.1,0,2024-08-11,33.84,2,3.0,Debit Card
+100238,1496,Female,,Delhi,Beauty,Shampoo,1,906.76,10,2024-03-25,134.89,3,5.0,Debit Card
+101174,1478,Female,43.0,Kolkata,Fashion,Sneakers,1,1530.42,10,2024-11-26,162.71,5,3.0,
+100659,1320,Male,42.0,Hyderabad,Home & Kitchen,Lamp,1,1271.93,25,2024-11-07,64.34,3,2.0,UPI
+101038,1137,Male,31.0,Chennai,Sports,Cricket Bat,1,1302.88,25,2023-06-15,24.99,5,5.0,Debit Card
+101406,1042,Female,19.0,Ahmedabad,Beauty,Perfume,2,818.76,10,2024-04-17,56.72,9,4.0,Credit Card
+100650,1307,Female,49.0,Mumbai,Sports,Football,1,2537.14,30,2024-10-01,87.88,4,1.0,Net Banking
+100331,1123,Male,42.0,Hyderabad,Home & Kitchen,Cookware Set,1,3082.37,10,2024-10-06,39.05,5,4.0,Debit Card
+101650,1155,Male,42.0,Bangalore,Electronics,Smartphone,1,21594.11,0,2024-04-13,135.23,4,4.0,UPI
+100893,1077,Female,36.0,Chennai,Sports,Running Shoes,2,1634.24,15,2024-12-02,118.13,6,3.0,Net Banking
+100393,1221,Male,52.0,Ahmedabad,Sports,Football,3,1696.6,15,2024-09-18,119.24,1,5.0,Cash on Delivery
+101043,1452,Female,41.0,Mumbai,Sports,Dumbbells,2,859.5,10,2023-08-06,55.17,7,3.0,Cash on Delivery
+101959,1216,Female,40.0,Chennai,Sports,Dumbbells,1,2622.78,0,2023-07-27,102.44,6,,Cash on Delivery
+101050,1298,Female,17.0,Hyderabad,Sports,Yoga Mat,1,1197.07,20,2023-10-06,53.65,3,5.0,Net Banking
+100539,1039,Female,41.0,Mumbai,Books,Textbook,2,753.97,5,2023-09-12,88.35,5,4.0,Net Banking
+100811,1041,Female,28.0,Delhi,Fashion,Jacket,1,1267.64,15,2024-11-19,12.82,1,3.0,Cash on Delivery
+100756,1272,Male,30.0,Patna,Home & Kitchen,Bedsheet,1,2244.48,15,2024-01-31,30.49,3,4.0,UPI
+101042,1167,Female,55.0,kolkata,Sports,Football,1,2231.71,5,2023-07-07,74.84,3,4.0,Net Banking
+101381,1330,Male,46.0,Hyderabad,Sports,Running Shoes,2,168.28,10,2024-07-27,87.49,2,2.0,UPI
+101992,1138,Male,41.0,Ahmedabad,Fashion,Sneakers,1,2003.61,0,2023-06-10,88.75,3,,Cash on Delivery
+100301,1289,Female,30.0,Bangalore,Sports,Yoga Mat,1,1546.78,5,2023-09-01,84.3,2,4.0,UPI
+101232,1438,Male,27.0,,Home & Kitchen,Cookware Set,1,1894.38,5,2024-03-12,143.45,8,,Credit Card
+101224,1052,Male,26.0,Delhi,Home & Kitchen,Cookware Set,2,2444.8,10,2023-03-17,74.66,7,4.0,Credit Card
+100607,1420,Male,27.0,Patna,Electronics,Smartphone,1,18297.78,0,2023-07-02,79.7,1,5.0,Debit Card
+100830,1240,Female,35.0,Pune,Home & Kitchen,Lamp,1,888.05,10,2024-04-09,0.0,5,4.0,Debit Card
+101367,1197,Male,,Jaipur,Beauty,Face Cream,2,1419.33,0,2024-02-13,70.71,5,1.0,UPI
+100946,1373,Female,49.0,Mumbai,Fashion,T-Shirt,1,1892.83,5,2024-10-03,77.95,7,5.0,Net Banking
+101279,1386,Female,33.0,Pune,Books,Textbook,1,345.99,10,2024-09-09,58.56,8,2.0,UPI
+101049,1296,Female,47.0,Bangalore,Beauty,Lipstick,2,983.34,5,2023-11-15,1.18,3,5.0,Debit Card
+100427,1355,Male,58.0,Ahmedabad,Sports,Cricket Bat,3,1533.79,5,2024-04-10,39.89,10,5.0,Debit Card
+100684,1107,Male,20.0,Patna,Beauty,Hair Dryer,1,591.36,5,2023-04-14,0.0,6,5.0,
+101197,1226,Male,29.0,hyderabad,Fashion,Jeans,1,1781.89,5,2024-05-02,72.84,4,4.0,Credit Card
+101904,1119,Female,45.0,Hyderabad,Sports,Cricket Bat,1,2440.34,20,2023-06-27,71.17,4,4.0,Credit Card
+100260,1461,Male,30.0,Mumbai,Electronics,Headphones,1,12197.57,0,2023-05-23,111.19,6,4.0,Credit Card
+100341,1330,Female,66.0,Ahmedabad,Home & Kitchen,Lamp,2,3754.27,30,2024-04-27,131.31,3,3.0,Credit Card
+100926,1123,Male,28.0,Kolkata,Beauty,Hair Dryer,1,649.01,0,2024-09-03,100.64,5,3.0,Debit Card
+101910,1293,Female,37.0,Ahmedabad,Home & Kitchen,Lamp,1,2201.15,5,2023-11-15,25.41,7,,Net Banking
+100624,1404,Male,18.0,Jaipur,Fashion,Jacket,2,1091.46,15,2024-08-15,101.0,5,3.0,Cash on Delivery
+101437,1039,Female,33.0,Ahmedabad,Home & Kitchen,Mixer Grinder,1,2880.89,0,2024-09-25,54.89,4,5.0,Cash on Delivery
+101247,1397,Female,41.0,Jaipur,Books,Cookbook,5,352.76,25,2024-05-10,111.12,5,5.0,Debit Card
+100641,1142,Male,32.0,Patna,Books,Cookbook,1,395.77,0,2024-08-05,49.72,5,4.0,Debit Card
+100141,1450,Female,26.0,Bangalore,Home & Kitchen,Bedsheet,2,2669.07,30,2023-12-11,70.63,4,5.0,Net Banking
+100596,1040,Male,53.0,Patna,Books,Cookbook,2,428.79,0,2024-03-20,136.78,6,1.0,Cash on Delivery
+100038,1340,Male,26.0,Ahmedabad,Home & Kitchen,Mixer Grinder,1,3206.61,25,2023-07-30,69.37,4,2.0,Net Banking
+100880,1229,Female,28.0,Patna,Sports,Running Shoes,1,2324.21,25,2023-10-30,76.84,3,5.0,Cash on Delivery
+101511,1317,Male,17.0,Hyderabad,Books,Novel,1,481.45,10,2024-02-03,69.18,7,5.0,Credit Card
+101699,1474,Male,28.0,Kolkata,Home & Kitchen,Bedsheet,3,3933.66,30,2023-04-09,60.67,7,,Credit Card
+100515,1292,Female,25.0,Jaipur,Home & Kitchen,Vacuum Cleaner,1,4408.17,20,2024-04-30,114.58,4,5.0,UPI
+101632,1080,Male,36.0,Pune,Books,Textbook,1,336.91,0,2024-12-30,136.92,7,4.0,Net Banking
+100059,1221,Female,27.0,Delhi,Beauty,Face Cream,3,650.63,15,2023-07-05,0.0,8,5.0,Debit Card
+101009,1104,Female,38.0,Jaipur,Books,Novel,2,261.92,0,2023-08-22,63.49,5,3.0,Debit Card
+101795,1227,Female,47.0,Jaipur,Books,Comic,1,641.0,10,2024-05-02,63.75,8,5.0,Debit Card
+100205,1015,Female,33.0,Mumbai,Electronics,Smartwatch,1,7200.8,15,2023-11-22,48.24,2,1.0,Net Banking
+101737,1285,Male,26.0,Patna,Electronics,Tablet,1,18969.84,0,2023-11-25,25.16,9,3.0,Credit Card
+101153,1199,Female,33.0,Mumbai,Fashion,Jacket,1,1233.23,0,2024-10-05,92.52,2,5.0,Debit Card
+101562,1452,Female,,Jaipur,Fashion,Jacket,1,2094.57,30,2024-12-05,24.24,1,2.0,Credit Card
+100263,1296,Female,27.0,Delhi,Beauty,Shampoo,1,641.04,15,2023-03-28,73.79,7,5.0,UPI
+100638,1071,Male,46.0,Delhi,Books,Textbook,1,347.57,15,2023-03-09,45.99,5,5.0,Net Banking
+101181,1203,Male,35.0,Kolkata,Electronics,Headphones,1,20843.25,0,2024-07-11,65.4,1,5.0,Cash on Delivery
+101204,1070,Male,20.0,Kolkata,Fashion,T-Shirt,1,2102.48,0,2024-09-06,63.38,6,5.0,Credit Card
+100489,1448,Female,23.0,Bangalore,Beauty,Face Cream,1,1059.63,0,2023-04-03,93.56,9,4.0,Cash on Delivery
+101548,1001,Female,28.0,Chennai,Home & Kitchen,Vacuum Cleaner,2,432.79,15,2023-04-18,122.88,2,5.0,UPI
+100008,1252,Female,31.0,Pune,Home & Kitchen,Vacuum Cleaner,1,2304.98,0,2024-07-17,99.48,4,4.0,Net Banking
+101426,1406,Female,39.0,Ahmedabad,Home & Kitchen,Mixer Grinder,90,2202.81,15,2024-06-18,139.93,3,5.0,Debit Card
+100721,1226,Other,33.0,Jaipur,Sports,Dumbbells,4,2820.07,15,2023-12-15,104.92,3,2.0,Cash on Delivery
+101512,1234,Female,35.0,Hyderabad,Fashion,Sneakers,2,1677.49,25,2023-10-28,114.52,6,5.0,
+101830,1147,Male,22.0,Hyderabad,Sports,Yoga Mat,1,1978.09,25,2023-10-15,90.53,3,5.0,Cash on Delivery
+100021,1156,Male,26.0,Jaipur,Home & Kitchen,Mixer Grinder,1,3254.62,0,2024-06-12,,10,4.0,Credit Card
+101377,1283,Male,32.0,Bangalore,Home & Kitchen,Cookware Set,1,4521.41,0,2024-12-14,80.61,6,5.0,Debit Card
+100432,1326,Female,50.0,Jaipur,Home & Kitchen,Vacuum Cleaner,1,4945.51,15,2023-09-13,62.15,6,1.0,Credit Card
+101578,1118,Female,30.0,Delhi,Fashion,Handbag,1,1275.65,0,2024-09-06,48.54,2,4.0,UPI
+100717,1021,Female,26.0,Bangalore,Sports,Dumbbells,1,2911.96,10,2023-04-09,92.46,4,3.0,Debit Card
+100833,1361,Other,16.0,Mumbai,Electronics,Laptop,1,9596.74,20,2024-10-22,72.02,4,4.0,Cash on Delivery
+101829,1009,Female,24.0,Delhi,Sports,Yoga Mat,1,2140.56,20,2024-07-12,97.98,6,5.0,Net Banking
+101428,1478,Female,26.0,,Beauty,Shampoo,3,1214.31,15,2023-02-01,147.47,4,5.0,Credit Card
+101095,1320,Female,26.0,Ahmedabad,Home & Kitchen,Cookware Set,2,2286.5,10,2024-06-14,80.34,6,5.0,UPI
+100541,1306,Female,52.0,Patna,Beauty,Face Cream,4,789.72,10,2024-04-16,21.81,3,5.0,Credit Card
+100789,1295,Female,32.0,Patna,Electronics,Laptop,1,18393.12,20,2024-07-27,84.01,3,3.0,Net Banking
+101006,1209,Male,26.0,Hyderabad,Fashion,T-Shirt,1,-1299.9,0,2023-09-08,80.35,7,1.0,Debit Card
+100673,1133,Female,,Kolkata,Fashion,Sneakers,2,966.2,0,2023-09-17,50.39,7,1.0,Net Banking
+100572,1373,Male,25.0,Chennai,Fashion,Sneakers,2,131.13,5,2023-07-13,2.35,4,5.0,UPI
+101605,1132,Male,32.0,Patna,Home & Kitchen,Bedsheet,1,3301.57,15,2023-10-04,102.77,2,,Credit Card
+101969,1085,Male,30.0,Kolkata,Beauty,Shampoo,1,856.8,10,2024-01-16,127.26,8,5.0,UPI
+100928,1415,Female,16.0,Jaipur,Sports,Cricket Bat,1,712.98,0,2023-08-31,72.36,2,2.0,Cash on Delivery
+101921,1348,Male,27.0,Delhi,Beauty,Hair Dryer,1,352.41,20,2023-05-09,41.67,3,5.0,Debit Card
+101039,1300,Male,16.0,,Books,Biography,1,227.37,5,2023-12-29,126.09,6,4.0,Cash on Delivery
+100597,1249,Male,35.0,Pune,Electronics,Smartphone,1,23515.1,10,2023-05-13,112.02,5,5.0,Cash on Delivery
+101981,1285,Male,32.0,Jaipur,Home & Kitchen,Bedsheet,1,2460.83,0,2023-04-01,62.93,5,3.0,UPI
+101671,1083,Female,43.0,Delhi,Sports,Yoga Mat,2,2358.28,15,2023-01-20,,8,5.0,Debit Card
+100695,1196,Female,26.0,Bangalore,Sports,Running Shoes,1,2679.04,0,2023-02-01,118.42,4,,UPI
+101387,1142,Other,40.0,Patna,Fashion,Jeans,1,2472.51,5,2023-06-21,99.01,2,4.0,Cash on Delivery
+101711,1345,Female,42.0,Mumbai,Home & Kitchen,Bedsheet,1,1629.1,0,2023-07-13,177.32,6,4.0,Cash on Delivery
+100173,1063,Male,43.0,Delhi,Home & Kitchen,Bedsheet,1,3247.35,15,2023-04-13,32.23,2,4.0,Net Banking
+100595,1282,Other,16.0,delhi,Fashion,Sneakers,1,1474.28,10,2023-08-13,129.69,4,2.0,Cash on Delivery
+101960,1478,Female,33.0,Chennai,Home & Kitchen,Mixer Grinder,1,4861.6,0,2024-03-31,89.63,4,4.0,Credit Card
+101773,1185,Male,36.0,Mumbai,Books,Biography,1,454.64,5,2023-12-21,,2,1.0,Cash on Delivery
+100052,1306,Male,43.0,Delhi,Books,Cookbook,1,453.91,20,2024-05-18,76.52,4,4.0,Cash on Delivery
+100037,1369,Male,16.0,Pune,Electronics,Tablet,2,12523.18,0,2024-04-30,53.51,5,,Cash on Delivery
+101826,1035,Male,26.0,Chennai,Books,Biography,1,591.58,0,2024-04-17,149.42,5,4.0,Credit Card
+101294,1498,Male,22.0,Patna,Sports,Dumbbells,1,2355.57,5,2024-10-30,83.93,4,5.0,Debit Card
+101151,1491,Male,21.0,Patna,Fashion,Handbag,1,1478.3,0,2023-12-30,91.84,10,3.0,Cash on Delivery
+100956,1320,Female,23.0,Mumbai,Fashion,Handbag,1,2429.55,20,2023-02-18,11.15,3,2.0,UPI
+100448,1336,Male,37.0,Pune,Electronics,Headphones,1,6935.55,0,2023-01-09,116.09,6,4.0,Debit Card
+101666,1014,Female,16.0,Chennai,Beauty,Shampoo,1,498.14,15,2024-12-19,155.7,2,3.0,Net Banking
+101139,1412,Female,39.0,Mumbai,Sports,Cricket Bat,5,2176.13,15,2024-07-23,87.46,6,5.0,Net Banking
+101976,1227,Female,32.0,Mumbai,Books,Novel,1,428.27,10,2024-03-18,75.81,3,4.0,Cash on Delivery
+100747,1330,Male,18.0,Pune,Home & Kitchen,Mixer Grinder,2,5246.67,5,2024-04-27,104.69,9,5.0,Debit Card
+101331,1376,Male,23.0,Patna,Books,Comic,1,264.9,5,2024-04-23,31.46,5,3.0,Cash on Delivery
+100361,1334,Male,16.0,Delhi,Electronics,Smartphone,1,9536.85,25,2023-10-29,60.97,2,4.0,Debit Card
+100984,1464,Male,35.0,Mumbai,Home & Kitchen,Bedsheet,1,562.98,15,2024-03-20,113.24,7,5.0,Credit Card
+101348,1040,Male,30.0,Chennai,Electronics,Laptop,3,16467.19,15,2024-07-28,59.97,3,1.0,Credit Card
+101667,1419,Male,38.0,Chennai,Beauty,Hair Dryer,3,760.08,5,2023-02-27,144.58,4,5.0,Net Banking
+100883,1093,Male,29.0,Mumbai,Sports,Football,1,2412.0,10,2023-09-28,0.0,5,4.0,Net Banking
+100456,1404,Male,52.0,Ahmedabad,Sports,Dumbbells,1,2478.54,0,2024-01-29,64.57,3,4.0,Cash on Delivery
+100147,1104,Female,41.0,Bangalore,Sports,Yoga Mat,2,1916.44,5,2023-06-22,40.6,4,,Credit Card
+100312,1018,Female,,Hyderabad,Electronics,Smartphone,2,18282.36,25,2023-05-26,89.03,5,4.0,Cash on Delivery
+100464,1486,Male,29.0,Chennai,Books,Cookbook,1,328.54,10,2024-02-14,123.74,4,5.0,Debit Card
+100439,1306,Male,33.0,Delhi,Electronics,Tablet,2,14013.0,15,2024-10-26,37.97,1,4.0,Credit Card
+101680,1214,Female,38.0,Pune,Electronics,Tablet,2,12209.48,20,2023-02-11,52.07,4,2.0,UPI
+100726,1022,Male,46.0,Kolkata,Beauty,Face Cream,2,910.73,10,2023-11-05,129.81,9,5.0,Cash on Delivery
+100870,1007,Female,39.0,Patna,Books,Textbook,84,187.43,5,2023-08-30,71.63,6,3.0,Net Banking
+101885,1251,Male,25.0,Chennai,Beauty,Perfume,2,888.6,25,2024-05-19,99.42,4,5.0,Debit Card
+100397,1024,Male,50.0,Patna,Home & Kitchen,Lamp,2,3473.64,20,2024-07-22,72.47,4,4.0,Net Banking
+100739,1420,Female,33.0,Bangalore,Fashion,T-Shirt,3,1573.41,5,2024-05-02,23.63,3,5.0,UPI
+100958,1296,Male,35.0,Bangalore,Electronics,Smartphone,1,23361.75,5,2023-05-13,25.18,3,4.0,Net Banking
+100675,1188,Female,,Patna,Home & Kitchen,Cookware Set,3,2763.83,10,2023-07-11,55.37,5,3.0,Cash on Delivery
+101939,1350,Male,39.0,Chennai,Fashion,Jacket,1,1406.71,0,2024-01-06,82.52,5,5.0,Debit Card
+100526,1167,Male,24.0,Patna,Fashion,Handbag,1,589.69,5,2023-12-29,44.16,8,4.0,Credit Card
+101337,1097,Male,36.0,Delhi,Electronics,Tablet,1,16294.67,0,2023-12-19,81.85,4,4.0,UPI
+101786,1367,Female,32.0,Delhi,Beauty,Shampoo,1,1478.7,5,2024-05-16,84.7,6,5.0,Cash on Delivery
+101556,1378,Male,31.0,Patna,Fashion,Jeans,1,2252.08,25,2023-01-05,15.72,6,4.0,Cash on Delivery
+100453,1377,Male,,Mumbai,Sports,Cricket Bat,1,2878.61,25,2023-09-29,82.82,5,4.0,Cash on Delivery
+100591,1077,Female,,Jaipur,Electronics,Tablet,1,10302.54,15,2024-11-21,162.98,7,5.0,Debit Card
+101068,1466,Male,35.0,Bangalore,Books,Cookbook,1,578.75,5,2024-03-17,66.12,6,4.0,Cash on Delivery
+101150,1330,Female,19.0,Patna,Sports,Football,1,2110.54,0,2024-04-02,47.54,4,5.0,UPI
+100741,1423,Female,32.0,Bangalore,Books,Cookbook,1,456.68,15,2023-07-30,46.01,7,5.0,Cash on Delivery
+101606,1366,Female,54.0,Ahmedabad,Beauty,Lipstick,1,281.79,15,2023-07-03,99.0,2,5.0,Debit Card
+101871,1082,Male,47.0,Mumbai,Books,Textbook,5,483.68,0,2023-06-24,119.82,6,5.0,Net Banking
+100142,1179,Male,32.0,Kolkata,Beauty,Lipstick,1,972.84,10,2024-07-11,33.41,9,,UPI
+100362,1398,Male,27.0,Mumbai,Fashion,Jeans,3,1707.47,0,2023-11-07,106.63,5,4.0,UPI
+100836,1291,Female,49.0,Pune,Fashion,Jeans,3,1230.91,5,2024-03-17,217.44,5,5.0,UPI
+101881,1409,Male,38.0,Delhi,Beauty,Face Cream,2,1109.56,0,2024-10-22,125.34,6,1.0,Credit Card
+101917,1348,Other,27.0,Delhi,Books,Cookbook,1,406.28,0,2023-07-12,169.69,4,5.0,Credit Card
+101386,1010,Female,42.0,Hyderabad,Sports,Cricket Bat,1,1606.39,25,2023-12-29,40.41,3,5.0,Credit Card
+101873,1102,Female,23.0,Delhi,Electronics,Laptop,3,20032.52,20,2023-02-27,35.97,4,4.0,Cash on Delivery
+100368,1499,Male,31.0,Mumbai,Home & Kitchen,Lamp,1,1563.86,10,2023-05-03,97.6,7,4.0,Debit Card
+101994,1497,Female,38.0,Mumbai,Fashion,T-Shirt,2,1368.47,10,2023-10-07,,2,5.0,Net Banking
+101188,1239,Male,39.0,Ahmedabad,Sports,Dumbbells,1,2504.99,5,2023-03-07,49.6,2,4.0,Net Banking
+100831,1140,Male,16.0,Bangalore,Home & Kitchen,Mixer Grinder,1,1848.08,5,2023-01-20,137.03,5,4.0,Credit Card
+101636,1092,Male,26.0,Jaipur,Fashion,Jeans,2,1169.71,20,2023-08-15,28.83,5,2.0,Cash on Delivery
+101978,1484,Female,37.0,Chennai,Home & Kitchen,Bedsheet,1,3323.91,0,2023-04-11,105.54,4,,Cash on Delivery
+100352,1371,Male,33.0,Patna,Beauty,Face Cream,2,874.91,15,2023-06-21,125.95,3,5.0,UPI
+100545,1363,Female,32.0,Mumbai,Home & Kitchen,Cookware Set,1,4791.24,0,2024-10-29,81.03,4,3.0,Cash on Delivery
+101168,1173,Male,32.0,Patna,Sports,Dumbbells,1,1709.33,15,2023-02-27,71.25,3,3.0,Cash on Delivery
+101924,1033,Female,33.0,Ahmedabad,Beauty,Lipstick,1,577.95,20,2024-01-30,77.95,6,5.0,Debit Card
+101677,1371,Male,43.0,Mumbai,Home & Kitchen,Cookware Set,1,2658.62,10,2024-01-04,89.06,6,,Credit Card
+101157,1433,Male,16.0,Bangalore,Books,Comic,1,244.25,10,2023-09-08,58.7,4,4.0,Credit Card
+101852,1343,Female,43.0,Kolkata,Home & Kitchen,Mixer Grinder,3,4886.66,20,2024-02-03,138.87,4,4.0,Credit Card
+101668,1134,Male,43.0,Chennai,Sports,Football,1,639.82,15,2024-12-16,100.59,4,,Net Banking
+100180,1047,Other,30.0,Hyderabad,Home & Kitchen,Mixer Grinder,1,2210.23,0,2023-10-31,82.26,5,4.0,UPI
+101446,1285,Female,59.0,Jaipur,Sports,Football,2,1567.97,0,2024-07-08,76.32,9,3.0,Debit Card
+101886,1044,Female,32.0,Kolkata,Electronics,Laptop,1,9938.79,0,2024-03-21,32.46,4,4.0,UPI
+101692,1008,Male,33.0,Chennai,Sports,Football,1,3423.91,10,2023-06-22,41.17,3,4.0,Debit Card
+100411,1063,Male,22.0,Pune,Home & Kitchen,Lamp,1,3020.29,5,2023-04-23,70.12,2,,Net Banking
+100661,1011,Male,24.0,Kolkata,Sports,Yoga Mat,3,1852.33,15,2024-02-01,118.92,5,3.0,Debit Card
+100351,1113,Other,22.0,Delhi,Sports,Running Shoes,1,1965.07,15,2023-12-19,92.04,6,4.0,UPI
+101274,1226,Male,26.0,Bangalore,Beauty,Hair Dryer,1,870.79,5,2024-10-18,67.77,4,4.0,UPI
+100378,1173,Female,44.0,Kolkata,Beauty,Face Cream,1,817.25,10,2023-06-22,9.42,6,5.0,Credit Card
+100740,1491,Male,40.0,Ahmedabad,Books,Comic,1,446.7,0,2023-11-30,61.96,5,5.0,UPI
+100451,1133,Male,20.0,Pune,Fashion,Jeans,1,1266.74,5,2024-02-17,36.04,3,5.0,Net Banking
+101719,1282,Female,36.0,Hyderabad,Sports,Running Shoes,1,2068.74,25,2023-02-01,16.03,5,1.0,Cash on Delivery
+100745,1241,Male,37.0,Mumbai,Electronics,Smartphone,1,13342.82,15,2024-03-19,,7,5.0,Cash on Delivery
+101781,1440,Male,40.0,Pune,Electronics,Laptop,1,16330.16,15,2023-07-18,,7,4.0,Credit Card
+100072,1411,Male,16.0,Delhi,Home & Kitchen,Mixer Grinder,2,2416.0,15,2023-08-09,134.37,5,4.0,Net Banking
+101277,1068,Female,31.0,Patna,Electronics,Tablet,1,13956.32,25,2024-10-31,92.19,5,,Credit Card
+101276,1324,Female,16.0,kolkata,Electronics,Laptop,1,17647.22,0,2024-11-20,52.24,3,5.0,Net Banking
+100588,1444,Female,32.0,Chennai,Sports,Yoga Mat,1,2006.25,10,2024-04-09,56.82,8,4.0,Net Banking
+101158,1262,Female,51.0,Hyderabad,Books,Novel,1,639.91,5,2024-06-23,58.03,5,3.0,UPI
+101535,1157,Male,,Delhi,Electronics,Smartwatch,1,19862.58,20,2024-11-06,94.71,1,4.0,UPI
+101970,1482,Other,45.0,Pune,Home & Kitchen,Lamp,2,1078.92,0,2024-04-10,4.47,4,,Credit Card
+101375,1045,Female,44.0,Bangalore,Electronics,Smartphone,3,9832.26,30,2023-02-14,60.61,6,2.0,Cash on Delivery
+101443,1171,Female,29.0,Mumbai,Books,Biography,1,253.62,15,2024-01-19,62.66,9,3.0,UPI
+101597,1219,Other,25.0,Pune,Fashion,Handbag,1,1412.48,15,2024-08-30,42.27,2,4.0,UPI
+101163,1363,Male,51.0,Patna,Fashion,Jeans,3,2739.07,20,2023-02-01,133.62,4,4.0,Debit Card
+101083,1459,Female,16.0,Kolkata,Books,Biography,1,230.39,30,2023-12-20,81.42,1,5.0,Credit Card
+100796,1463,Female,21.0,Ahmedabad,Home & Kitchen,Bedsheet,4,1593.89,5,2024-01-17,59.87,3,5.0,Cash on Delivery
+100766,1029,Female,31.0,Bangalore,Sports,Yoga Mat,1,2284.78,20,2024-05-22,72.81,6,5.0,Cash on Delivery
+100986,1067,Male,26.0,Pune,Beauty,Face Cream,3,442.44,25,2024-08-19,84.03,5,,Debit Card
+100117,1191,Female,26.0,kolkata,Home & Kitchen,Cookware Set,1,3813.22,0,2023-08-12,119.97,5,,Credit Card
+101691,1460,Female,45.0,Delhi,Home & Kitchen,Cookware Set,1,2886.74,10,2024-02-05,40.33,6,4.0,Credit Card
+100413,1250,Female,31.0,Patna,Sports,Dumbbells,1,1428.09,20,2024-10-31,115.47,3,,Credit Card
+100005,1420,Male,45.0,Patna,Beauty,Face Cream,1,990.1,20,2024-07-23,21.71,4,4.0,Net Banking
+100309,1032,Male,55.0,Pune,Fashion,Handbag,1,729.16,10,2023-09-10,101.57,3,5.0,Credit Card
+100047,1410,Male,,Delhi,Home & Kitchen,Mixer Grinder,2,3982.32,0,2023-11-15,20.2,7,3.0,Cash on Delivery
+101154,1261,Female,22.0,Mumbai,Beauty,Lipstick,1,1397.33,15,2024-09-18,56.42,5,5.0,Net Banking
+100639,1197,Male,22.0,Kolkata,Home & Kitchen,Mixer Grinder,2,2230.23,20,2023-10-15,38.96,5,5.0,Net Banking
+101206,1219,Male,32.0,Kolkata,Books,Novel,4,508.41,5,2024-09-03,68.22,3,5.0,Debit Card
+101400,1200,Female,45.0,Bangalore,Beauty,Shampoo,1,664.04,15,2024-06-23,109.43,5,4.0,Net Banking
+101398,1037,Male,16.0,Pune,Sports,Yoga Mat,4,2978.58,10,2023-01-16,61.84,5,5.0,Cash on Delivery
+101814,1024,Male,26.0,Patna,Books,Biography,2,462.29,5,2023-12-08,122.81,5,5.0,Cash on Delivery
+101629,1311,Male,32.0,Pune,Books,Comic,2,426.18,30,2023-06-29,84.18,1,5.0,Debit Card
+101107,1314,Male,53.0,kolkata,Books,Novel,1,414.06,0,2023-02-08,28.29,2,3.0,Credit Card
+101940,1476,Female,36.0,Jaipur,Sports,Dumbbells,1,1473.46,20,2023-10-21,108.2,4,5.0,Net Banking
+101021,1023,Female,36.0,Chennai,Books,Novel,1,581.7,0,2023-05-17,21.82,5,4.0,Net Banking
+100493,1478,Female,39.0,Jaipur,Electronics,Smartwatch,1,16594.65,15,2024-04-06,111.83,6,2.0,Credit Card
+100195,1369,Female,22.0,Pune,Home & Kitchen,Mixer Grinder,1,3221.96,0,2024-04-26,87.94,5,4.0,UPI
+100329,1356,Female,25.0,Delhi,Home & Kitchen,Mixer Grinder,1,3119.04,5,2023-07-18,147.06,6,3.0,Debit Card
+101793,1102,Male,20.0,Kolkata,Books,Cookbook,1,466.56,0,2023-06-17,81.88,5,4.0,UPI
+101517,1292,Female,61.0,jaipur,Electronics,Headphones,1,20840.79,25,2023-12-24,59.77,4,,Credit Card
+101648,1460,Male,31.0,Bangalore,Fashion,Jacket,1,2017.46,0,2023-10-26,37.84,5,5.0,Debit Card
+101147,1220,Male,21.0,Hyderabad,Electronics,Laptop,1,13191.55,5,2023-05-20,0.0,5,4.0,Net Banking
+100501,1007,Female,28.0,chennai,Beauty,Perfume,1,1181.05,15,2023-04-09,69.65,2,4.0,UPI
+101813,1143,Female,43.0,Hyderabad,Beauty,Shampoo,1,743.95,25,2024-10-21,30.6,5,5.0,Debit Card
+101134,1236,Male,51.0,Bangalore,Books,Textbook,1,578.19,0,2023-02-04,43.08,7,4.0,UPI
+100886,1019,Female,47.0,Kolkata,Home & Kitchen,Cookware Set,1,3058.85,30,2023-09-07,98.98,4,4.0,Credit Card
+101325,1292,Female,51.0,Ahmedabad,Home & Kitchen,Lamp,3,2926.06,0,2024-09-23,91.51,7,5.0,UPI
+101183,1003,Male,71.0,Pune,Home & Kitchen,Vacuum Cleaner,2,4407.19,0,2024-07-01,,3,2.0,UPI
+101071,1490,Female,47.0,Jaipur,Sports,Dumbbells,1,2725.86,20,2024-08-31,35.95,2,4.0,Credit Card
+101620,1497,Female,41.0,Pune,Fashion,Jeans,2,1792.87,15,2024-07-12,79.26,3,5.0,Debit Card
+100110,1078,Male,40.0,Patna,Electronics,Laptop,1,19487.1,0,2023-09-22,24.94,4,4.0,Credit Card
+100817,1353,Female,21.0,Patna,Electronics,Smartphone,1,15700.1,30,2024-04-27,0.34,2,,Debit Card
+101855,1118,Male,16.0,Kolkata,Sports,Football,1,2418.31,5,2023-12-08,108.27,5,3.0,Net Banking
+100877,1349,Female,23.0,Pune,Beauty,Lipstick,2,472.78,0,2024-04-20,84.38,1,5.0,UPI
+101986,1146,Male,39.0,Delhi,Home & Kitchen,Bedsheet,1,2740.21,25,2023-03-16,70.06,5,4.0,Cash on Delivery
+100562,1173,Male,23.0,Hyderabad,Home & Kitchen,Bedsheet,1,1601.25,0,2024-02-18,0.0,9,4.0,UPI
+100354,1386,Male,23.0,Kolkata,Fashion,Jeans,1,1406.64,10,2023-07-01,103.13,4,5.0,UPI
+101264,1483,Male,60.0,,Home & Kitchen,Vacuum Cleaner,4,2461.65,15,2023-05-03,,6,5.0,Cash on Delivery
+100096,1272,Other,16.0,Pune,Sports,Dumbbells,1,1996.76,30,2024-01-15,59.99,5,4.0,Debit Card
+100631,1491,Female,37.0,Hyderabad,Electronics,Smartphone,1,12164.19,5,2024-07-11,74.85,2,5.0,Cash on Delivery
+100424,1397,Male,44.0,Ahmedabad,Home & Kitchen,Bedsheet,1,4352.47,20,2023-12-15,,1,,Cash on Delivery
+100020,1208,Female,45.0,Mumbai,Electronics,Smartwatch,1,15160.82,25,2023-03-01,66.89,7,5.0,Debit Card
+101742,1365,Male,23.0,Hyderabad,Sports,Cricket Bat,1,1339.51,30,2023-11-04,99.85,4,3.0,Credit Card
+101051,1251,Male,16.0,Delhi,Electronics,Headphones,1,19802.24,5,2023-09-06,100.14,7,4.0,Debit Card
+100736,1491,Female,,Bangalore,Beauty,Lipstick,1,893.73,25,2023-06-14,18.33,9,3.0,Net Banking
+100326,1306,Male,39.0,Mumbai,Home & Kitchen,Cookware Set,3,1382.63,15,2024-02-24,132.28,5,4.0,Net Banking
+101280,1040,Female,,Kolkata,Sports,Dumbbells,1,2563.51,5,2023-05-27,34.82,5,5.0,UPI
+101828,1302,Female,16.0,Patna,Electronics,Smartphone,2,9772.37,0,2023-05-27,60.5,3,5.0,Debit Card
+101209,1091,Female,62.0,ahmedabad,Electronics,Smartphone,1,16819.85,5,2023-03-17,19.44,1,5.0,Net Banking
+100455,1183,Male,34.0,Ahmedabad,Books,Textbook,1,536.19,5,2024-02-10,27.4,2,3.0,Debit Card
+101825,1496,Other,47.0,Kolkata,Electronics,Headphones,1,21778.49,0,2024-08-08,134.76,3,3.0,Net Banking
+100223,1007,Female,51.0,Pune,Books,Biography,1,311.51,25,2023-01-27,68.77,8,2.0,Net Banking
+101754,1056,Male,,Ahmedabad,Books,Novel,3,317.36,5,2024-01-19,38.86,6,2.0,Cash on Delivery
+100738,1080,Other,,Patna,Fashion,Sneakers,1,1756.79,25,2024-05-15,45.87,5,4.0,Net Banking
+101123,1401,Male,26.0,Chennai,Fashion,Jacket,1,1245.28,10,2024-08-22,50.72,2,5.0,Credit Card
+101835,1397,Other,64.0,hyderabad,Electronics,Smartphone,1,25519.98,5,2024-11-01,68.64,3,3.0,Credit Card
+100112,1446,Male,29.0,Delhi,Beauty,Face Cream,2,771.33,5,2023-09-08,44.82,9,3.0,Debit Card
+101566,1456,Female,26.0,Ahmedabad,Home & Kitchen,Cookware Set,2,2260.5,0,2024-02-09,70.61,3,3.0,Cash on Delivery
+100442,1236,Male,43.0,Kolkata,Fashion,Sneakers,1,814.36,25,2024-06-05,129.09,3,3.0,Net Banking
+100621,1209,Male,30.0,Chennai,Sports,Football,1,3049.88,15,2023-12-18,48.72,3,5.0,Debit Card
+101138,1394,Male,35.0,Mumbai,Beauty,Shampoo,1,747.96,20,2024-01-30,137.04,5,5.0,Net Banking
+100314,1396,Male,24.0,Chennai,Sports,Cricket Bat,3,699.23,25,2023-08-03,51.48,7,,UPI
+100288,1469,Female,38.0,Pune,Beauty,Perfume,1,613.31,10,2023-12-22,93.34,5,4.0,Net Banking
+101698,1322,Female,40.0,Pune,Electronics,Smartphone,1,6949.17,10,2023-09-02,70.88,6,4.0,Credit Card
+100566,1224,Male,26.0,mumbai,Sports,Cricket Bat,1,3016.46,20,2023-12-10,62.53,8,3.0,Credit Card
+100861,1018,Female,32.0,Delhi,Home & Kitchen,Bedsheet,4,3194.89,10,2023-03-01,0.0,6,3.0,Cash on Delivery
+100518,1076,Female,26.0,Bangalore,Sports,Running Shoes,4,1766.81,15,2024-12-04,95.14,4,5.0,
+100952,1338,Female,18.0,Bangalore,Electronics,Laptop,1,13121.22,25,2023-05-24,23.52,5,5.0,Debit Card
+101727,1356,Other,31.0,Hyderabad,Sports,Football,1,1733.03,10,2023-08-03,108.05,5,2.0,UPI
+101510,1142,Female,37.0,Hyderabad,Beauty,Hair Dryer,4,721.26,20,2024-09-29,124.26,4,5.0,Cash on Delivery
+100682,1284,Male,51.0,Hyderabad,Beauty,Shampoo,1,992.32,5,2024-03-27,71.8,3,3.0,Cash on Delivery
+101332,1465,Male,43.0,Ahmedabad,Books,Cookbook,1,391.5,0,2024-10-23,85.25,2,,Cash on Delivery
+100340,1201,Male,42.0,delhi,Home & Kitchen,Lamp,1,3083.66,15,2023-08-02,62.07,2,5.0,Net Banking
+100359,1289,Male,25.0,Delhi,Beauty,Face Cream,1,525.3,0,2024-03-10,31.38,2,4.0,UPI
+101943,1368,Male,26.0,Delhi,Electronics,Tablet,1,18714.09,10,2024-01-16,57.4,5,3.0,Credit Card
+100612,1264,Male,27.0,Patna,Fashion,Jeans,1,932.11,5,2024-02-28,103.31,5,4.0,Net Banking
+100018,1189,Female,18.0,Bangalore,Electronics,Smartphone,1,24049.25,0,2023-09-26,35.72,3,5.0,UPI
+101464,1439,Other,36.0,kolkata,Beauty,Perfume,1,942.25,25,2024-04-17,110.81,8,2.0,Credit Card
+101114,1050,Male,38.0,Hyderabad,Beauty,Face Cream,2,817.74,10,2024-11-21,69.32,6,3.0,Credit Card
+100375,1492,Female,45.0,Bangalore,Home & Kitchen,Bedsheet,1,3618.17,25,2023-01-27,53.92,3,4.0,Credit Card
+101575,1457,Male,38.0,Hyderabad,Home & Kitchen,Cookware Set,1,2625.37,15,2024-10-19,74.53,8,5.0,UPI
+100620,1231,Male,31.0,Chennai,Sports,Yoga Mat,1,1772.39,15,2023-10-04,27.0,8,3.0,UPI
+101816,1330,Female,59.0,Delhi,Books,Cookbook,1,386.11,20,2024-12-23,151.28,4,4.0,Credit Card
+101307,1354,Female,38.0,Hyderabad,Fashion,Sneakers,1,1010.32,20,2024-08-29,110.9,5,5.0,Debit Card
+101644,1389,Male,39.0,Delhi,Sports,Football,1,2185.52,15,2024-04-16,35.96,5,4.0,Net Banking
+101882,1056,Other,18.0,Bangalore,Fashion,Jeans,1,840.72,10,2023-06-27,97.43,5,5.0,UPI
+100055,1325,Female,21.0,Jaipur,Beauty,Shampoo,1,499.8,15,2024-08-13,46.5,5,5.0,UPI
+100264,1438,Female,53.0,Delhi,Beauty,Face Cream,1,835.33,0,2023-05-04,105.31,3,4.0,UPI
+100102,1253,Female,44.0,Chennai,Sports,Football,5,1540.76,10,2023-03-19,99.78,6,4.0,Credit Card
+100276,1012,Female,29.0,Pune,Fashion,T-Shirt,1,2332.65,10,2024-08-08,145.1,4,4.0,UPI
+100287,1170,Female,47.0,Delhi,Sports,Yoga Mat,3,2031.26,5,2024-08-18,47.48,5,2.0,UPI
+101765,1444,Female,46.0,Pune,Books,Comic,2,50.0,15,2023-04-13,70.85,2,4.0,Credit Card
+100250,1013,Female,37.0,Delhi,Electronics,Smartwatch,5,17101.63,0,2023-08-07,77.97,6,,Net Banking
+101472,1355,Male,16.0,Jaipur,Beauty,Shampoo,1,1247.87,5,2024-06-09,62.98,2,4.0,Cash on Delivery
+101427,1221,Male,31.0,Kolkata,Sports,Football,1,1878.78,10,2023-06-03,24.23,2,4.0,Net Banking
+101761,1302,Female,32.0,Pune,Home & Kitchen,Cookware Set,1,1859.61,15,2023-04-20,29.54,4,3.0,Cash on Delivery
+100579,1210,Female,43.0,Delhi,Home & Kitchen,Vacuum Cleaner,1,2399.98,10,2023-08-21,,2,4.0,Debit Card
+100345,1039,Female,69.0,Bangalore,Beauty,Shampoo,1,819.88,0,2024-02-05,53.08,4,4.0,Net Banking
+100654,1051,Female,40.0,Bangalore,Electronics,Headphones,2,3638.6,0,2024-09-10,118.45,4,4.0,Net Banking
+101524,1006,Male,28.0,,Sports,Yoga Mat,1,2664.74,0,2024-02-01,85.93,5,5.0,Credit Card
+100443,1442,Female,19.0,Ahmedabad,Home & Kitchen,Vacuum Cleaner,1,5080.26,0,2024-08-06,109.32,4,,Credit Card
+101784,1034,Male,16.0,Bangalore,Beauty,Perfume,3,886.87,15,2024-03-02,88.04,6,5.0,UPI
+100061,1319,Male,33.0,Bangalore,Electronics,Headphones,1,5913.97,25,2023-06-10,73.03,8,2.0,UPI
+101233,1199,Female,42.0,Mumbai,Books,Comic,2,331.51,5,2024-07-10,29.65,5,5.0,UPI
+101434,1303,Female,41.0,Hyderabad,Electronics,Smartphone,1,21258.93,10,2023-02-02,46.3,2,5.0,Credit Card
+100528,1136,Male,37.0,Patna,Beauty,Lipstick,3,920.6,25,2024-10-01,0.0,5,,Debit Card
+100364,1323,Female,52.0,Jaipur,Sports,Football,1,1786.96,5,2024-04-24,129.48,4,5.0,Debit Card
+101700,1254,Female,16.0,Pune,Beauty,Lipstick,1,458.04,20,2023-07-15,69.69,6,5.0,Net Banking
+100211,1077,Female,,Patna,Sports,Cricket Bat,2,2254.11,5,2024-02-10,16.79,5,2.0,UPI
+100282,1325,Male,45.0,Mumbai,Sports,Cricket Bat,1,2697.1,10,2023-07-04,61.95,2,4.0,Credit Card
+101439,1244,Female,24.0,Bangalore,Electronics,Smartphone,1,11716.92,10,2023-04-05,112.61,4,3.0,Cash on Delivery
+101241,1349,Female,29.0,Chennai,Beauty,Hair Dryer,1,1278.77,25,2024-09-17,56.73,6,4.0,Cash on Delivery
+101079,1221,Female,33.0,Jaipur,Beauty,Shampoo,2,813.08,0,2023-02-02,88.26,4,3.0,UPI
+101990,1323,Male,36.0,Patna,Home & Kitchen,Mixer Grinder,1,5000.61,25,2024-07-05,62.83,6,,Cash on Delivery
+101250,1175,Male,29.0,Ahmedabad,Beauty,Lipstick,1,777.62,0,2023-01-09,93.16,6,4.0,UPI
+101003,1337,Male,36.0,Mumbai,Electronics,Headphones,1,16284.51,10,2024-12-06,85.56,3,5.0,Net Banking
+100701,1419,Female,34.0,Patna,Sports,Dumbbells,1,1928.43,15,2023-03-31,123.42,6,2.0,Debit Card
+100718,1223,Female,16.0,Jaipur,Fashion,Handbag,2,999.64,15,2023-10-02,78.48,6,5.0,Debit Card
+100325,1371,Other,31.0,Ahmedabad,Sports,Dumbbells,1,1957.94,0,2023-11-18,81.61,4,3.0,Cash on Delivery
+100529,1423,Male,34.0,Ahmedabad,Home & Kitchen,Mixer Grinder,1,4088.19,10,2023-11-22,80.67,11,,UPI
+101718,1239,Female,51.0,Delhi,Electronics,Laptop,1,21054.49,10,2023-01-14,135.07,7,4.0,Cash on Delivery
+100029,1169,Male,31.0,Patna,Home & Kitchen,Cookware Set,1,1894.46,25,2024-05-04,149.29,7,4.0,Cash on Delivery
+100849,1101,Female,53.0,Hyderabad,Electronics,Smartwatch,1,10328.44,15,2023-11-10,115.06,3,4.0,UPI
+101599,1195,Female,40.0,Delhi,Home & Kitchen,Vacuum Cleaner,1,346.62,15,2024-12-17,72.09,3,5.0,UPI
+100360,1109,Male,,Delhi,Electronics,Tablet,4,24402.22,10,2024-06-09,106.5,1,1.0,Credit Card
+101034,1311,Male,49.0,pune,Beauty,Face Cream,1,643.0,10,2024-05-11,83.88,4,5.0,UPI
+101809,1260,Male,35.0,Ahmedabad,Books,Novel,1,593.58,10,2024-01-03,98.15,6,3.0,Net Banking
+100225,1400,Male,16.0,Ahmedabad,Books,Comic,1,438.7,25,2024-11-11,102.85,3,3.0,Cash on Delivery
+101243,1454,Female,38.0,Patna,Sports,Running Shoes,1,3515.62,20,2023-08-08,20.78,4,5.0,Credit Card
+100431,1022,Male,33.0,Hyderabad,Electronics,Headphones,1,15370.11,10,2023-12-08,65.66,6,4.0,Credit Card
+101196,1081,Male,35.0,Jaipur,Beauty,Face Cream,1,775.58,10,2023-01-01,126.47,5,4.0,Debit Card
+101525,1068,Male,,Jaipur,Beauty,Face Cream,2,863.61,5,2023-08-30,123.47,4,4.0,Credit Card
+101424,1007,Male,22.0,Kolkata,Sports,Yoga Mat,1,1004.7,20,2023-01-23,87.77,3,3.0,Net Banking
+100859,1430,Female,37.0,,Home & Kitchen,Lamp,1,1282.91,10,2023-04-08,121.96,3,5.0,Debit Card
+100929,1092,Female,25.0,patna,Books,Cookbook,1,286.66,15,2024-09-18,47.98,1,3.0,UPI
+101496,1109,Male,31.0,Kolkata,Fashion,Handbag,2,1417.92,30,2024-07-29,46.15,9,5.0,Credit Card
+100480,1497,Male,36.0,Bangalore,Sports,Dumbbells,1,2074.54,25,2023-01-27,136.5,6,4.0,UPI
+100902,1279,Male,47.0,patna,Beauty,Perfume,1,745.4,10,2023-01-16,68.25,1,4.0,Debit Card
+100752,1388,Female,16.0,Jaipur,Books,Textbook,2,584.87,10,2023-08-07,71.6,2,4.0,Credit Card
+100557,1076,Female,16.0,Hyderabad,Fashion,Sneakers,1,1413.27,15,2024-06-20,27.86,6,5.0,UPI
+100896,1358,Male,27.0,Delhi,Sports,Football,2,1693.32,10,2024-07-01,58.77,7,3.0,Credit Card
+100152,1079,Female,46.0,Jaipur,Electronics,Tablet,2,13930.15,20,2023-04-28,61.57,6,3.0,Net Banking
+100216,1088,Male,47.0,Jaipur,Electronics,Smartphone,2,22767.18,5,2024-02-14,112.47,3,3.0,Credit Card
+100099,1316,Male,40.0,Bangalore,Home & Kitchen,Bedsheet,2,4526.75,25,2024-02-21,77.59,2,5.0,Credit Card
+101489,1354,Male,62.0,Mumbai,Beauty,Lipstick,1,1028.69,0,2024-08-11,0.0,5,3.0,UPI
+100471,1070,Female,40.0,Jaipur,Beauty,Lipstick,1,799.67,5,2023-02-21,172.47,3,2.0,Credit Card
+101933,1271,Male,21.0,bangalore,Electronics,Headphones,1,14780.17,10,2023-04-12,77.01,4,5.0,Credit Card
+101432,1246,Male,28.0,Jaipur,Books,Comic,3,350.31,30,2024-11-27,101.01,5,4.0,
+101495,1022,Female,45.0,Chennai,Beauty,Shampoo,2,552.56,0,2023-02-28,121.43,3,2.0,Cash on Delivery
+100013,1306,Male,17.0,Chennai,Home & Kitchen,Bedsheet,1,3329.19,10,2024-05-04,96.58,3,4.0,UPI
+101954,1312,Male,44.0,Mumbai,Home & Kitchen,Lamp,1,2035.06,5,2023-01-31,0.0,5,4.0,UPI
+101412,1377,Female,57.0,Hyderabad,Sports,Dumbbells,1,2455.09,0,2023-05-26,104.14,4,5.0,Net Banking
+100168,1179,Male,38.0,Jaipur,Home & Kitchen,Cookware Set,1,3178.69,30,2023-01-07,99.36,4,5.0,Cash on Delivery
+101347,1002,Male,45.0,Hyderabad,Beauty,Lipstick,1,910.48,0,2024-04-23,151.23,5,1.0,Cash on Delivery
+101364,1266,Female,28.0,Delhi,Sports,Running Shoes,1,1118.22,5,2023-04-04,91.81,7,4.0,UPI
+100189,1253,Male,57.0,Patna,Home & Kitchen,Bedsheet,2,1551.89,10,2023-07-14,84.09,2,1.0,Debit Card
+101503,1341,Male,42.0,Pune,Books,Textbook,1,246.57,30,2023-07-22,71.7,5,2.0,
+101082,1145,Male,27.0,Mumbai,Books,Textbook,1,348.62,25,2024-05-02,82.85,5,2.0,Debit Card
+100044,1485,Male,16.0,Kolkata,Books,Biography,1,243.57,10,2023-12-15,124.24,3,4.0,UPI
+101674,1404,Female,36.0,Hyderabad,Fashion,Handbag,2,1057.67,15,2023-10-17,114.15,6,4.0,UPI
+100010,1247,Male,50.0,Hyderabad,Fashion,Jacket,1,1887.2,5,2023-02-27,66.44,6,3.0,Credit Card
+101362,1403,Female,39.0,Bangalore,Fashion,Handbag,1,2367.66,20,2023-01-28,76.71,4,5.0,Debit Card
+100148,1370,Female,26.0,Ahmedabad,Electronics,Tablet,1,17375.83,25,2023-02-22,37.3,4,2.0,Debit Card
+101281,1228,Female,36.0,Ahmedabad,Beauty,Face Cream,3,426.45,10,2024-02-21,104.05,4,2.0,UPI
+100014,1403,Male,30.0,Bangalore,Books,Biography,2,380.29,25,2024-02-01,38.57,1,5.0,Credit Card
+100390,1221,Female,55.0,jaipur,Sports,Dumbbells,1,3136.08,15,2024-05-11,52.43,5,2.0,Credit Card
+101299,1296,Female,16.0,Ahmedabad,Beauty,Shampoo,1,822.12,15,2023-07-12,99.22,5,5.0,Credit Card
+100985,1201,Female,38.0,Chennai,Books,Comic,1,220.03,15,2024-07-28,80.92,3,5.0,Cash on Delivery
+100759,1308,Female,40.0,Mumbai,Sports,Running Shoes,1,2895.78,15,2024-09-22,43.35,7,4.0,Cash on Delivery
+100998,1040,Female,28.0,Bangalore,Electronics,Headphones,1,12512.53,5,2023-09-24,49.69,5,4.0,Debit Card
+101549,1297,Male,43.0,Mumbai,Beauty,Face Cream,2,443.91,5,2023-06-13,15.21,3,4.0,Debit Card
+100790,1365,Female,38.0,Pune,Sports,Football,2,1391.58,10,2024-01-15,49.17,4,5.0,Net Banking
+101874,1348,Female,38.0,Pune,Electronics,Tablet,1,9049.46,10,2024-06-06,94.59,1,4.0,Debit Card
+101683,1376,Female,38.0,Patna,Books,Comic,1,538.42,25,2023-05-26,89.73,4,5.0,Net Banking
+100667,1263,Female,26.0,Mumbai,Sports,Yoga Mat,1,1789.92,5,2023-05-27,41.9,2,5.0,Credit Card
+100652,1093,Male,59.0,Mumbai,Electronics,Headphones,1,15740.75,0,2024-06-19,119.9,6,5.0,Credit Card
+100801,1012,Female,30.0,Delhi,Books,Biography,1,426.34,10,2023-05-02,76.22,4,1.0,Cash on Delivery
+100505,1103,Male,16.0,Chennai,Books,Textbook,2,487.39,10,2024-02-24,37.47,4,,Credit Card
+101132,1059,Female,25.0,Chennai,Fashion,Jeans,1,1041.16,10,2023-08-29,77.14,3,3.0,UPI
+100743,1101,Male,41.0,Bangalore,Electronics,Smartphone,1,17842.12,0,2024-01-31,74.75,2,5.0,Debit Card
+101392,1120,Female,,Pune,Sports,Running Shoes,1,1270.29,5,2023-03-16,43.7,7,4.0,UPI
+101779,1176,Male,16.0,Patna,Beauty,Shampoo,1,485.25,30,2024-04-10,48.62,4,5.0,Net Banking
+100982,1099,Female,20.0,patna,Fashion,Handbag,2,1602.02,25,2024-10-09,70.72,11,4.0,Debit Card
+101637,1326,Female,25.0,Patna,Electronics,Smartwatch,4,23446.23,10,2024-06-24,125.04,6,5.0,Net Banking
+101180,1004,Male,40.0,Hyderabad,Books,Cookbook,2,438.95,10,2024-06-12,160.48,7,4.0,Net Banking
+101129,1059,Male,29.0,Chennai,Books,Biography,1,326.01,0,2024-11-06,85.14,3,4.0,Debit Card
+100026,1368,Female,38.0,Ahmedabad,Home & Kitchen,Mixer Grinder,1,5954.79,10,2024-11-23,49.48,2,5.0,UPI
+100644,1487,Female,34.0,Kolkata,Books,Biography,1,486.98,0,2023-12-23,148.92,4,4.0,Debit Card
+101478,1008,Other,16.0,Patna,Books,Comic,1,90.21,5,2023-01-10,0.0,4,,
+101091,1083,Female,37.0,Pune,Electronics,Smartphone,1,18492.39,0,2024-03-18,92.94,10,4.0,Debit Card
+101810,1217,Male,23.0,Jaipur,Beauty,Face Cream,1,261.15,15,2024-04-14,101.51,8,,Credit Card
+100116,1015,Male,28.0,Chennai,Home & Kitchen,Bedsheet,3,3071.39,25,2024-06-17,17.62,6,4.0,Debit Card
+100025,1288,Male,32.0,Mumbai,Sports,Yoga Mat,1,2162.52,10,2024-01-12,86.22,5,4.0,Net Banking
+100371,1481,Female,37.0,Pune,Home & Kitchen,Bedsheet,2,4584.16,20,2024-03-21,87.82,5,4.0,UPI
+101802,1337,Female,36.0,Hyderabad,Sports,Cricket Bat,1,2222.29,10,2024-02-21,102.04,6,5.0,UPI
+100705,1053,Female,31.0,Bangalore,Sports,Dumbbells,1,2523.56,0,2024-09-20,46.72,5,4.0,UPI
+101624,1113,Female,46.0,Pune,Electronics,Smartphone,1,12100.18,25,2023-10-11,70.42,5,5.0,Debit Card
+100454,1163,Male,,Hyderabad,Sports,Cricket Bat,1,1640.9,25,2023-02-19,94.28,2,3.0,Credit Card
+100097,1350,Female,28.0,Ahmedabad,Fashion,Handbag,1,1855.64,10,2024-05-29,84.08,3,3.0,UPI
+101877,1081,Male,19.0,mumbai,Beauty,Hair Dryer,3,482.14,15,2024-12-04,85.01,1,5.0,Cash on Delivery
+101819,1297,Other,38.0,Hyderabad,Electronics,Headphones,3,19965.85,15,2024-05-06,,7,3.0,Cash on Delivery
+101468,1034,Other,68.0,Ahmedabad,Electronics,Smartphone,1,18046.18,0,2023-05-09,38.04,3,2.0,Credit Card
+100100,1067,Male,32.0,Ahmedabad,Beauty,Face Cream,5,735.8,0,2024-11-21,132.76,10,5.0,Credit Card
+101529,1270,Other,23.0,Bangalore,Home & Kitchen,Vacuum Cleaner,1,2672.32,0,2023-04-12,155.03,3,5.0,
+101516,1084,Female,26.0,Kolkata,Sports,Cricket Bat,2,948.12,0,2024-10-15,147.16,4,4.0,Cash on Delivery
+101966,1249,Female,39.0,Ahmedabad,Home & Kitchen,Cookware Set,2,3821.79,20,2023-10-05,0.0,6,2.0,Credit Card
+100358,1495,Male,19.0,Bangalore,Home & Kitchen,Bedsheet,1,2576.01,0,2024-04-04,91.86,4,3.0,Cash on Delivery
+100858,1333,Male,19.0,Delhi,Beauty,Face Cream,1,947.69,15,2024-06-14,78.25,2,4.0,Net Banking
+100594,1114,Male,35.0,Hyderabad,Home & Kitchen,Vacuum Cleaner,2,2669.49,15,2024-03-21,74.3,8,3.0,Net Banking
+101878,1035,Female,36.0,Hyderabad,Sports,Football,1,825.55,25,2023-07-24,152.75,5,4.0,Debit Card
+101160,1254,Female,41.0,Kolkata,Sports,Football,4,2574.4,0,2023-06-09,74.74,5,1.0,
+101626,1241,Female,44.0,Bangalore,Books,Novel,1,470.85,25,2024-04-19,119.98,3,4.0,UPI
+100587,1091,Female,39.0,Patna,Electronics,Laptop,2,21591.78,20,2023-05-26,104.89,3,4.0,Credit Card
+101893,1423,Male,34.0,Mumbai,Electronics,Smartphone,1,15737.37,15,2024-10-12,85.78,5,3.0,Cash on Delivery
+101833,1460,Female,17.0,Jaipur,Beauty,Shampoo,2,917.46,0,2023-11-24,101.35,4,2.0,Debit Card
+100770,1368,Male,33.0,Jaipur,Electronics,Tablet,1,18542.29,15,2024-06-16,71.25,5,3.0,Debit Card
+100271,1024,Female,26.0,Kolkata,Books,Comic,2,564.95,10,2023-12-08,9.32,7,5.0,Debit Card
+100119,1460,Male,27.0,,Books,Textbook,1,450.92,15,2023-04-21,0.0,6,1.0,Cash on Delivery
+100118,1390,Female,33.0,Chennai,Beauty,Hair Dryer,1,985.38,15,2024-12-25,137.97,4,5.0,Credit Card
+101296,1314,Male,46.0,Mumbai,Home & Kitchen,Bedsheet,2,2885.31,25,2023-05-15,99.35,5,4.0,Cash on Delivery
+101934,1362,Female,31.0,Pune,Electronics,Smartwatch,1,13768.44,0,2023-09-24,168.48,1,5.0,Credit Card
+101941,1416,Male,16.0,Jaipur,Books,Textbook,1,311.89,20,2023-07-11,29.46,8,,Net Banking
+100699,1127,Male,36.0,Delhi,Sports,Cricket Bat,3,2527.18,20,2024-05-23,60.88,5,3.0,UPI
+101016,1387,Male,59.0,Bangalore,Electronics,Laptop,2,18534.16,10,2023-02-12,106.86,5,4.0,Debit Card
+101530,1254,Female,39.0,Ahmedabad,Electronics,Smartphone,2,24749.8,0,2023-12-09,113.56,3,5.0,
+101245,1140,Male,36.0,Hyderabad,Fashion,T-Shirt,1,1372.66,15,2023-04-01,66.54,3,4.0,Debit Card
+100165,1479,Female,52.0,Chennai,Electronics,Smartphone,1,15501.05,25,2023-09-02,128.52,7,4.0,UPI
+100603,1170,Female,27.0,Kolkata,Electronics,Headphones,3,17170.73,10,2023-01-29,34.11,3,5.0,Cash on Delivery
+101984,1340,Male,53.0,Jaipur,Beauty,Lipstick,1,764.69,10,2023-02-14,129.93,4,5.0,Debit Card
+101897,1360,Female,34.0,Delhi,Home & Kitchen,Mixer Grinder,1,2029.71,10,2024-08-17,106.97,5,5.0,Cash on Delivery
+100466,1263,Male,25.0,Chennai,Books,Comic,1,242.62,10,2024-03-23,7.67,1,,Net Banking
+101171,1349,Male,32.0,Patna,Electronics,Tablet,1,28660.36,0,2024-09-27,56.89,7,2.0,Net Banking
+100502,1308,Female,34.0,Mumbai,Books,Cookbook,1,312.27,0,2023-07-09,,1,3.0,Cash on Delivery
+100143,1098,Female,23.0,Pune,Sports,Running Shoes,1,1817.37,10,2024-06-30,134.55,4,4.0,Debit Card
+101200,1290,Female,30.0,Pune,Fashion,T-Shirt,0,1403.0,10,2023-09-05,87.08,4,5.0,Debit Card
+100114,1051,Female,44.0,Ahmedabad,Home & Kitchen,Mixer Grinder,1,3550.15,25,2023-03-05,102.65,3,5.0,UPI
+101086,1296,Female,36.0,Mumbai,Electronics,Smartphone,2,10253.36,10,2023-08-03,32.14,4,2.0,UPI
+100829,1481,Female,47.0,Jaipur,Beauty,Shampoo,1,717.37,0,2024-03-23,26.77,4,5.0,UPI
+100379,1450,Female,41.0,Bangalore,Electronics,Tablet,1,10914.85,0,2023-02-21,0.0,7,,Cash on Delivery
+100064,1173,Male,40.0,Ahmedabad,Fashion,Jacket,1,1412.36,10,2024-11-24,59.15,4,3.0,Cash on Delivery
+100508,1489,Male,26.0,Delhi,Beauty,Shampoo,1,140.73,15,2023-09-07,94.1,3,4.0,Net Banking
+101796,1040,Female,39.0,Delhi,Books,Comic,2,184.51,20,2023-12-22,69.62,8,,UPI
+100187,1273,Female,35.0,Kolkata,Books,Comic,1,418.19,25,2023-04-30,102.61,1,4.0,UPI
+101026,1244,Female,33.0,Mumbai,Beauty,Hair Dryer,1,1153.04,0,2023-07-18,45.7,3,5.0,Cash on Delivery
+100507,1275,Female,45.0,Kolkata,Home & Kitchen,Lamp,1,3704.15,15,2024-09-28,112.3,6,4.0,Debit Card
+101514,1119,Male,39.0,hyderabad,Sports,Yoga Mat,2,2941.93,0,2023-01-09,94.57,6,4.0,Credit Card
+101359,1457,Male,19.0,Mumbai,Sports,Cricket Bat,1,2703.99,15,2024-09-05,107.34,5,4.0,Cash on Delivery
+100295,1007,Male,17.0,Kolkata,Home & Kitchen,Mixer Grinder,4,3090.57,0,2024-11-15,27.93,4,5.0,Cash on Delivery
+100994,1391,Other,23.0,Bangalore,Sports,Cricket Bat,1,2387.43,15,2024-02-26,102.16,4,5.0,UPI
+100316,1170,Female,,Patna,Books,Biography,1,401.12,15,2023-01-22,192.58,5,5.0,UPI
+100131,1074,Female,38.0,Mumbai,Fashion,Sneakers,1,1495.38,20,2024-09-22,17.28,7,4.0,Net Banking
+101462,1289,Female,29.0,Pune,Beauty,Hair Dryer,1,444.97,0,2024-05-29,80.73,2,1.0,Net Banking
+100190,1282,Male,69.0,kolkata,Sports,Football,2,2037.65,25,2023-06-15,55.89,2,5.0,Net Banking
+100028,1413,Female,52.0,Chennai,Books,Biography,1,366.84,5,2023-02-14,9.73,5,3.0,Credit Card
+100862,1120,Male,61.0,Pune,Books,Comic,1,498.91,10,2023-01-29,58.03,3,4.0,Debit Card
+100936,1181,Female,51.0,Kolkata,Beauty,Perfume,1,776.79,0,2023-08-03,97.47,2,3.0,Net Banking
+101169,1386,Male,26.0,,Books,Cookbook,1,392.91,10,2023-06-11,102.89,4,4.0,Cash on Delivery
+101242,1314,Female,37.0,Kolkata,Home & Kitchen,Cookware Set,1,3604.31,15,2023-03-19,125.92,9,5.0,Debit Card
+101794,1477,Female,41.0,Pune,Books,Biography,1,490.01,5,2023-08-18,32.55,2,4.0,Debit Card
+101471,1447,Male,34.0,Kolkata,Books,Textbook,1,365.82,30,2023-06-03,113.02,4,5.0,Cash on Delivery
+101837,1183,Male,41.0,Jaipur,Fashion,T-Shirt,1,1086.25,15,2024-10-25,75.52,6,,Debit Card
+101589,1146,Female,39.0,Patna,Beauty,Perfume,1,891.8,0,2024-06-23,124.12,6,5.0,Credit Card
+101590,1041,Male,31.0,Pune,Electronics,Tablet,1,12502.01,20,2024-01-17,96.06,8,3.0,Credit Card
+100267,1046,Male,30.0,pune,Sports,Cricket Bat,1,1427.71,0,2023-08-26,54.47,3,5.0,Debit Card
+100899,1096,Male,49.0,Pune,Electronics,Laptop,1,27263.98,0,2023-03-24,81.66,4,,Cash on Delivery
+101743,1039,Female,39.0,Jaipur,Electronics,Smartwatch,2,13819.09,0,2023-10-25,66.35,2,5.0,Net Banking
+100076,1358,Male,37.0,Jaipur,Books,Novel,1,319.09,10,2024-11-16,92.46,4,5.0,Credit Card
+101458,1382,Male,18.0,Jaipur,Home & Kitchen,Lamp,1,2638.79,0,2023-09-30,45.97,4,5.0,Net Banking
+101404,1025,Female,50.0,Hyderabad,Sports,Running Shoes,1,2953.85,5,2023-09-17,80.59,8,3.0,Credit Card
+100856,1078,Male,16.0,Delhi,Fashion,Handbag,2,1800.64,5,2024-12-20,174.09,1,5.0,Net Banking
+101173,1078,Female,35.0,Mumbai,Books,Comic,2,259.66,10,2023-06-21,49.72,4,4.0,Debit Card
+100749,1490,Female,43.0,Pune,Sports,Yoga Mat,1,1091.5,15,2023-02-03,79.36,8,5.0,Debit Card
+100769,1141,Female,19.0,Chennai,Beauty,Perfume,3,1059.55,0,2024-12-30,99.18,1,4.0,UPI
+101909,1412,Female,22.0,Pune,Fashion,Handbag,3,1682.22,0,2024-05-19,71.98,3,1.0,Cash on Delivery
+101330,1135,Female,33.0,Bangalore,Sports,Dumbbells,1,1409.73,10,2024-09-13,56.19,2,5.0,Net Banking
+100563,1113,Male,25.0,Kolkata,Books,Biography,1,450.7,5,2023-03-12,111.09,6,5.0,Credit Card
+101585,1467,Male,46.0,Kolkata,Sports,Football,1,3603.51,20,2024-09-01,167.87,3,3.0,Credit Card
+100181,1012,Female,,Ahmedabad,Electronics,Headphones,1,8685.84,0,2023-09-15,54.38,4,3.0,Cash on Delivery
+101844,1052,Female,60.0,Bangalore,Fashion,Handbag,1,2646.84,5,2023-10-04,94.5,5,5.0,Credit Card
+100708,1127,Female,16.0,Pune,Books,Comic,1,390.77,10,2024-05-08,63.48,5,3.0,Credit Card
+100825,1017,Female,42.0,Delhi,Electronics,Headphones,1,16638.35,10,2024-08-14,60.69,4,4.0,Net Banking
+100377,1150,Male,30.0,jaipur,Electronics,Headphones,5,20815.31,15,2024-05-10,121.05,4,5.0,Cash on Delivery
+101346,1298,Male,31.0,Delhi,Electronics,Laptop,1,11110.57,10,2024-10-08,77.19,7,2.0,Net Banking
+100024,1420,Male,20.0,Ahmedabad,Home & Kitchen,Bedsheet,2,3358.63,5,2024-11-05,111.09,5,3.0,Credit Card
+100347,1218,Female,32.0,Bangalore,Beauty,Shampoo,2,744.33,15,2024-01-12,62.24,6,3.0,Debit Card
+101664,1407,Female,26.0,Jaipur,Beauty,Hair Dryer,1,741.52,5,2023-11-29,34.99,5,4.0,Debit Card
+101420,1256,Female,46.0,Mumbai,Books,Biography,1,381.23,0,2024-04-13,53.28,6,4.0,Credit Card
+101744,1192,Female,29.0,Hyderabad,Home & Kitchen,Vacuum Cleaner,1,2912.53,20,2023-05-16,110.6,6,3.0,Credit Card
+100009,1469,Female,42.0,mumbai,Electronics,Laptop,1,12777.68,5,2024-12-01,27.09,3,5.0,Credit Card
+100229,1308,Female,31.0,Hyderabad,Electronics,Tablet,2,10373.5,5,2023-08-29,75.43,5,4.0,Credit Card
+100490,1499,Female,34.0,Kolkata,Books,Comic,4,455.63,20,2024-04-16,127.66,8,4.0,Cash on Delivery
+100214,1056,Female,31.0,Hyderabad,Sports,Cricket Bat,1,3564.07,10,2023-11-09,125.61,5,4.0,Debit Card
+101031,1464,Female,73.0,Mumbai,Sports,Yoga Mat,2,2815.65,0,2023-07-08,90.29,5,3.0,Credit Card
+101345,1445,Male,37.0,,Sports,Football,1,3365.16,15,2024-05-07,87.92,9,4.0,Debit Card
+100450,1384,Male,42.0,Bangalore,Fashion,Jeans,1,1043.05,0,2023-05-28,166.14,5,5.0,Cash on Delivery
+101207,1288,Male,,Hyderabad,Sports,Yoga Mat,3,1391.97,25,2024-08-22,48.21,4,5.0,Debit Card
+100016,1230,Male,46.0,Ahmedabad,Beauty,Perfume,1,756.14,25,2023-05-12,61.8,2,5.0,Credit Card
+101497,1420,Female,16.0,Chennai,Home & Kitchen,Cookware Set,1,3425.0,5,2024-03-13,120.83,6,5.0,Debit Card
+101803,1056,Female,29.0,bangalore,Electronics,Headphones,1,8372.35,0,2024-10-19,64.21,1,4.0,Net Banking
+100670,1057,Male,31.0,Ahmedabad,Electronics,Smartphone,1,10053.55,10,2023-04-23,98.67,2,3.0,Net Banking
+101324,1007,Male,43.0,Bangalore,Home & Kitchen,Bedsheet,4,2477.78,0,2024-09-26,51.95,5,4.0,UPI
+101422,1129,Other,36.0,Bangalore,Home & Kitchen,Bedsheet,1,3120.72,0,2023-12-25,130.37,6,5.0,Cash on Delivery
+101617,1043,Other,53.0,Delhi,Sports,Cricket Bat,1,1227.14,5,2024-03-23,99.98,4,1.0,Net Banking
+100547,1217,Male,43.0,Chennai,Electronics,Tablet,1,23528.61,0,2024-11-14,101.12,5,5.0,Credit Card
+101962,1447,Male,37.0,Ahmedabad,Sports,Running Shoes,1,1834.41,10,2024-05-08,38.97,3,3.0,Cash on Delivery
+101595,1096,Female,42.0,Ahmedabad,Home & Kitchen,Cookware Set,1,3456.93,0,2023-04-04,120.87,7,5.0,Cash on Delivery
+100355,1326,Female,33.0,Chennai,Sports,Yoga Mat,1,3295.32,5,2023-07-31,189.58,6,2.0,Net Banking
+101721,1240,Male,50.0,Chennai,Books,Comic,1,527.35,15,2023-03-20,48.3,7,,Credit Card
+100208,1449,Female,22.0,Delhi,Fashion,Jacket,1,1854.45,10,2023-03-09,93.28,5,4.0,Debit Card
+100604,1401,Female,44.0,Ahmedabad,Beauty,Lipstick,0,970.35,20,2023-09-27,95.04,7,2.0,UPI
+100755,1056,Male,35.0,Hyderabad,Sports,Yoga Mat,1,1597.87,5,2023-10-05,167.47,7,5.0,UPI
+101539,1118,Female,23.0,Bangalore,Sports,Cricket Bat,5,2747.6,0,2023-02-22,31.62,4,3.0,Cash on Delivery
+100417,1404,Male,32.0,Patna,Home & Kitchen,Bedsheet,1,2213.88,0,2024-04-17,73.62,4,2.0,Cash on Delivery
+101447,1147,Female,21.0,patna,Electronics,Tablet,1,7811.45,5,2023-06-02,85.44,4,4.0,Net Banking
+101409,1395,Male,37.0,Bangalore,Fashion,Handbag,1,1826.84,15,2023-07-13,115.69,7,4.0,Credit Card
+101190,1324,Female,24.0,Kolkata,Sports,Yoga Mat,1,3142.2,0,2024-07-08,40.86,5,3.0,Credit Card
+100716,1361,Male,41.0,Kolkata,Sports,Dumbbells,1,2397.53,0,2023-07-08,70.93,6,3.0,Net Banking
+100443,1442,Female,19.0,Ahmedabad,Home & Kitchen,Vacuum Cleaner,1,5080.26,0,2024-08-06,109.32,4,,Credit Card
+101115,1363,Female,23.0,Ahmedabad,Sports,Football,1,918.41,25,2023-01-07,52.6,1,2.0,Debit Card
+101538,1125,Other,17.0,,Books,Comic,1,370.16,10,2024-11-26,107.27,3,4.0,Debit Card
+100537,1482,Female,48.0,Ahmedabad,Sports,Yoga Mat,1,1735.94,5,2023-05-03,39.56,8,5.0,Credit Card
+100349,1004,Female,24.0,patna,Fashion,Sneakers,1,1462.64,10,2023-04-13,42.19,7,2.0,Debit Card
+101052,1474,Female,49.0,Chennai,Fashion,Sneakers,1,2012.23,0,2023-10-16,55.67,3,4.0,Cash on Delivery
+100404,1461,Female,43.0,Bangalore,Books,Biography,1,317.42,0,2024-04-16,0.0,1,,
+100363,1481,Female,17.0,Delhi,Books,Novel,3,252.12,20,2023-07-05,95.86,5,4.0,Cash on Delivery
+100027,1053,Female,16.0,Delhi,Books,Comic,4,463.62,20,2024-02-27,82.1,4,3.0,Net Banking
+101734,1498,Female,,Pune,Sports,Running Shoes,1,1093.26,15,2024-02-20,95.02,8,5.0,Debit Card
+101191,1118,Male,26.0,Jaipur,Beauty,Perfume,2,800.57,20,2023-11-24,69.27,3,1.0,Credit Card
+100178,1354,Female,16.0,Delhi,Beauty,Lipstick,1,784.57,30,2023-04-06,114.65,6,3.0,Net Banking
+101957,1096,Female,43.0,Bangalore,Home & Kitchen,Mixer Grinder,1,2961.02,10,2024-09-09,167.41,2,5.0,Credit Card
+101615,1289,Female,55.0,jaipur,Sports,Dumbbells,1,807.57,10,2024-08-22,69.62,1,4.0,UPI
+100636,1056,Male,36.0,Hyderabad,Electronics,Tablet,1,20707.21,5,2023-11-01,74.55,2,3.0,UPI
+100692,1083,Female,22.0,Jaipur,Home & Kitchen,Mixer Grinder,2,507.54,5,2023-11-05,84.72,1,3.0,Net Banking
+100253,1425,Female,32.0,Patna,Home & Kitchen,Vacuum Cleaner,1,4461.67,10,2024-03-19,8.95,7,5.0,Credit Card
+100415,1485,Male,31.0,Pune,Electronics,Tablet,1,10256.72,5,2023-01-10,25.08,4,5.0,Debit Card
+100559,1193,Female,25.0,Ahmedabad,Electronics,Smartwatch,1,26199.09,15,2024-07-24,111.06,4,3.0,Net Banking
+100554,1485,Female,,Delhi,Electronics,Laptop,2,14152.9,5,2023-07-21,0.0,6,3.0,Debit Card
+100194,1060,Female,45.0,Pune,Electronics,Tablet,5,5507.24,20,2023-01-27,51.45,6,5.0,Credit Card
+101569,1319,Male,25.0,Chennai,Beauty,Hair Dryer,2,791.53,20,2023-12-15,130.99,4,,Credit Card
+100719,1353,Male,49.0,Mumbai,Books,Textbook,2,366.17,10,2024-02-26,182.07,2,4.0,Cash on Delivery
+101048,1398,Male,18.0,Delhi,Fashion,Sneakers,2,1694.59,25,2023-12-08,101.49,4,3.0,Credit Card
+100446,1438,Female,41.0,Pune,Home & Kitchen,Vacuum Cleaner,1,2505.45,30,2024-11-12,110.32,3,5.0,UPI
+100805,1351,Male,,Bangalore,Fashion,Jacket,1,1183.88,5,2024-05-29,60.89,3,5.0,UPI
+100949,1207,Male,29.0,Pune,Home & Kitchen,Vacuum Cleaner,1,2441.12,15,2023-07-05,151.34,3,5.0,UPI
+101011,1443,Male,32.0,Pune,Books,Novel,1,201.92,10,2024-12-15,2.5,5,4.0,Net Banking
+101479,1470,Female,16.0,Ahmedabad,Books,Comic,1,594.48,10,2023-08-21,91.34,2,5.0,UPI
+100452,1319,Male,40.0,Mumbai,Beauty,Shampoo,2,863.3,10,2023-05-29,102.37,2,5.0,Debit Card
+101414,1428,Female,28.0,Hyderabad,Electronics,Smartphone,1,9948.12,15,2024-09-01,72.96,6,,Net Banking
+100465,1038,Female,33.0,Ahmedabad,Sports,Dumbbells,1,2577.32,10,2024-04-20,130.08,4,4.0,Debit Card
+100702,1123,Male,29.0,Delhi,Fashion,Jacket,1,989.42,25,2024-04-29,125.84,5,3.0,Debit Card
+100459,1420,Female,42.0,mumbai,Home & Kitchen,Mixer Grinder,1,2487.49,20,2024-12-21,35.63,4,4.0,UPI
+101390,1069,Male,49.0,Patna,Sports,Football,2,2492.21,0,2023-07-11,114.34,2,4.0,Credit Card
+101117,1362,Male,43.0,Mumbai,Fashion,T-Shirt,2,834.58,20,2024-02-01,57.83,4,5.0,Debit Card
+100838,1352,Male,47.0,Hyderabad,Fashion,T-Shirt,3,1981.99,25,2023-06-17,43.71,6,4.0,Cash on Delivery
+100763,1387,Male,37.0,Delhi,Fashion,T-Shirt,4,1004.71,0,2024-12-07,53.22,4,2.0,Credit Card
+100370,1100,Female,61.0,Patna,Home & Kitchen,Lamp,1,2677.1,15,2023-11-17,126.65,5,2.0,UPI
+100485,1118,Female,44.0,Kolkata,Electronics,Laptop,5,15737.84,0,2024-03-07,93.0,3,3.0,UPI
+100722,1166,Male,46.0,Ahmedabad,Home & Kitchen,Mixer Grinder,1,1554.35,30,2024-12-28,95.68,5,1.0,UPI
+101201,1233,Other,36.0,Ahmedabad,Fashion,Jacket,4,1826.34,0,2024-03-14,71.89,6,5.0,Credit Card
+100308,1206,Male,34.0,Chennai,Sports,Yoga Mat,1,1721.76,10,2024-01-29,99.52,2,4.0,Credit Card
+100286,1038,Female,46.0,Hyderabad,Electronics,Smartphone,1,24587.6,30,2024-04-25,160.53,6,5.0,Net Banking
+101919,1154,Female,47.0,Chennai,Fashion,Sneakers,1,2099.56,20,2024-01-18,61.05,6,3.0,Credit Card
+101078,1185,Male,,Bangalore,Home & Kitchen,Lamp,1,54954.76693717191,10,2024-01-05,112.59,8,2.0,UPI
+100700,1284,Female,30.0,Ahmedabad,Fashion,Handbag,1,734.48,25,2024-03-02,102.18,1,,Credit Card
+101304,1113,Female,39.0,Hyderabad,Electronics,Tablet,1,16268.53,15,2024-02-01,95.93,4,4.0,Debit Card
+101268,1366,Male,40.0,Jaipur,Sports,Dumbbells,4,2476.18,20,2023-04-02,130.49,4,4.0,Debit Card
+100758,1040,Male,55.0,Hyderabad,Electronics,Smartwatch,1,12067.01,10,2024-06-09,28.28,2,4.0,Net Banking
+100888,1345,Female,53.0,Pune,Home & Kitchen,Mixer Grinder,1,1606.59,25,2024-01-08,131.25,8,3.0,Cash on Delivery
+100689,1477,Female,33.0,Delhi,Beauty,Shampoo,1,859.11,0,2024-06-01,0.0,2,4.0,Credit Card
+100685,1204,Male,,chennai,Beauty,Hair Dryer,1,385.23,5,2024-03-31,4.36,3,4.0,Cash on Delivery
+100972,1022,Male,20.0,Hyderabad,Beauty,Lipstick,2,842.62,0,2023-11-22,98.33,6,3.0,Debit Card
+100839,1094,Female,28.0,Mumbai,Books,Biography,1,249.62,25,2024-08-08,50.49,4,4.0,Net Banking
+101610,1345,Male,51.0,Pune,Fashion,Jacket,2,500.08,25,2024-06-01,85.47,5,5.0,Cash on Delivery
+100658,1088,Female,41.0,Jaipur,Fashion,Sneakers,1,2019.89,5,2023-04-05,75.41,5,5.0,Cash on Delivery
+101682,1084,Female,16.0,Bangalore,Sports,Running Shoes,1,2943.65,10,2023-04-11,160.21,3,5.0,UPI
+100098,1201,Female,23.0,Jaipur,Books,Comic,2,226.15,20,2023-03-18,24.91,7,4.0,UPI
+100807,1417,Male,46.0,Bangalore,Beauty,Hair Dryer,1,1167.06,0,2024-03-08,106.65,4,2.0,UPI
+101023,1483,Male,38.0,Kolkata,Electronics,Laptop,1,27709.93,0,2023-12-13,98.62,6,3.0,Net Banking
+101488,1220,Male,51.0,Kolkata,Sports,Football,1,2499.42,15,2023-12-16,42.73,5,5.0,Net Banking
+100140,1090,Male,40.0,Mumbai,Sports,Dumbbells,1,1969.81,5,2023-09-24,101.93,6,,Credit Card
+101460,1010,Male,26.0,Pune,Books,Novel,1,430.65,20,2024-07-02,100.96,3,2.0,Cash on Delivery
+100954,1419,Female,48.0,Mumbai,Fashion,Handbag,1,2185.08,10,2023-10-14,113.25,6,5.0,UPI
+100730,1346,Male,42.0,Hyderabad,Sports,Yoga Mat,3,1664.22,0,2024-02-25,50.58,2,2.0,UPI
+101474,1478,Male,31.0,Patna,Electronics,Headphones,1,1983.03,15,2023-04-06,76.54,8,1.0,Debit Card
+101344,1227,Male,45.0,Patna,Books,Biography,1,668.84,0,2023-08-31,,4,2.0,Net Banking
+100968,1001,Male,29.0,Mumbai,Books,Novel,5,214.79,15,2023-02-25,91.06,5,4.0,Net Banking
+101195,1456,Male,42.0,Bangalore,Fashion,Jeans,1,1168.95,5,2024-12-07,73.63,6,5.0,Cash on Delivery
+101226,1475,Female,32.0,Hyderabad,Books,Comic,2,204.8,15,2023-05-27,90.83,3,4.0,UPI
+100129,1228,Male,16.0,Kolkata,Fashion,Jeans,1,2155.6,20,2024-06-12,53.12,7,1.0,UPI
+100706,1272,Female,31.0,Patna,Home & Kitchen,Vacuum Cleaner,1,1063.28,10,2024-11-11,78.26,8,3.0,Debit Card
+101170,1411,Female,31.0,Jaipur,Books,Textbook,2,422.86,10,2024-04-24,133.93,9,,Net Banking
+101947,1315,Female,39.0,Delhi,Home & Kitchen,Bedsheet,1,2668.96,10,2023-11-26,115.43,6,4.0,UPI
+101376,1118,Male,44.0,,Fashion,T-Shirt,1,536.48,0,2024-08-31,42.44,5,4.0,Credit Card
+100523,1045,Female,39.0,Pune,Sports,Running Shoes,2,2543.99,15,2023-09-05,2.01,4,4.0,Credit Card
+100265,1171,Female,41.0,Hyderabad,Books,Biography,1,409.04,10,2024-06-22,37.06,1,1.0,Debit Card
+101019,1064,Female,23.0,Bangalore,Books,Novel,1,509.51,25,2024-12-24,80.69,2,4.0,Net Banking
+100947,1120,Male,18.0,hyderabad,Fashion,Handbag,3,1119.64,25,2023-08-24,102.98,5,5.0,Debit Card
+101927,1020,Male,40.0,Patna,Electronics,Headphones,2,18200.26,0,2024-10-28,71.53,6,3.0,UPI
+100664,1312,Other,51.0,Mumbai,Electronics,Headphones,2,14435.62,0,2023-01-13,93.52,4,5.0,Debit Card
+100632,1433,Male,49.0,Pune,Beauty,Shampoo,3,83.85,10,2023-05-19,88.23,6,5.0,UPI
+100499,1316,Male,27.0,Kolkata,Home & Kitchen,Lamp,3,3301.68,5,2023-04-11,103.4,7,4.0,Credit Card
+101772,1097,Male,39.0,Kolkata,Books,Cookbook,3,592.04,10,2024-04-28,35.02,4,4.0,Net Banking
+101964,1025,Male,34.0,Kolkata,Beauty,Lipstick,1,587.84,10,2023-01-24,72.84,5,5.0,UPI
+101679,1093,Female,32.0,Mumbai,Sports,Cricket Bat,1,1827.73,10,2024-10-11,52.8,1,3.0,Debit Card
+100931,1312,Other,55.0,chennai,Electronics,Tablet,1,17062.3,30,2023-05-10,151.7,5,3.0,UPI
+100433,1377,Other,39.0,Bangalore,Fashion,T-Shirt,1,1006.73,20,2024-02-12,55.07,3,1.0,Net Banking
+101172,1129,Female,32.0,Pune,Fashion,Jacket,1,1303.38,15,2024-06-23,16.61,6,4.0,Debit Card
+100818,1257,Female,48.0,Pune,Beauty,Shampoo,1,120.35,20,2024-11-03,98.52,2,5.0,Cash on Delivery
+100069,1431,Male,41.0,Pune,Fashion,T-Shirt,1,1646.03,0,2024-08-19,15.21,1,,Credit Card
+100809,1339,Male,51.0,Kolkata,Sports,Football,1,1979.03,0,2024-12-15,158.82,3,4.0,Debit Card
+100688,1254,Female,44.0,Hyderabad,Beauty,Perfume,1,187.84,0,2024-12-21,126.94,3,5.0,UPI
+101282,1414,Other,44.0,Pune,Books,Cookbook,1,439.59,0,2024-11-06,51.63,6,5.0,Debit Card
+101861,1069,Male,27.0,Mumbai,Sports,Cricket Bat,5,1468.85,15,2023-08-17,93.2,1,5.0,UPI
+100574,1196,Male,26.0,Kolkata,Electronics,Headphones,1,22824.82,15,2024-11-02,77.48,1,4.0,UPI
+100335,1120,Male,24.0,Hyderabad,Sports,Running Shoes,5,1955.29,20,2024-10-10,129.08,6,5.0,Cash on Delivery
+100339,1372,Male,35.0,Chennai,Beauty,Lipstick,1,314.37,5,2023-01-10,102.69,1,4.0,Cash on Delivery
+101187,1079,Female,16.0,Mumbai,Fashion,Jacket,1,1407.45,15,2023-07-27,126.61,4,4.0,Cash on Delivery
+100665,1356,Female,27.0,Ahmedabad,Electronics,Smartphone,2,10241.86,25,2024-10-25,120.63,3,4.0,Cash on Delivery
+100384,1301,Male,26.0,Ahmedabad,Electronics,Smartphone,2,16896.29,0,2024-09-07,26.73,2,3.0,Credit Card
+101343,1133,Female,29.0,Delhi,Electronics,Smartphone,1,17385.91,10,2023-07-18,143.38,7,5.0,Cash on Delivery
+100056,1053,Male,,jaipur,Books,Textbook,1,340.65,0,2024-01-06,59.18,6,4.0,Net Banking
+101286,1050,Male,57.0,Pune,Beauty,Face Cream,4,951.88,0,2024-08-11,42.39,3,4.0,UPI
+101309,1455,Female,32.0,Ahmedabad,Beauty,Shampoo,1,1034.98,25,2023-09-04,98.88,5,4.0,Cash on Delivery
+101850,1228,Male,25.0,Bangalore,Beauty,Hair Dryer,3,951.34,0,2024-03-02,134.07,2,5.0,UPI
+101553,1278,Female,20.0,Chennai,Home & Kitchen,Bedsheet,2,4406.62,0,2023-08-21,71.11,4,3.0,UPI
+100798,1330,Male,20.0,Chennai,Books,Cookbook,1,596.07,15,2024-11-15,121.91,3,3.0,Credit Card
+101702,1157,Male,21.0,Chennai,Electronics,Headphones,1,26137.74,10,2024-07-12,49.09,1,,Debit Card
+100171,1266,Male,16.0,Ahmedabad,Electronics,Smartwatch,1,9128.89,5,2023-03-23,89.25,4,2.0,Credit Card
+100174,1279,Female,52.0,Patna,Sports,Dumbbells,1,2507.4,15,2023-09-20,0.0,5,4.0,Credit Card
+100976,1361,Female,26.0,Patna,Beauty,Face Cream,2,147.31,5,2024-05-29,33.24,6,3.0,Debit Card
+100327,1142,Female,30.0,Jaipur,Sports,Cricket Bat,1,1430.08,10,2024-07-20,96.18,4,3.0,Cash on Delivery
+100504,1002,Other,26.0,Mumbai,Fashion,Handbag,1,1482.14,5,2024-03-09,45.19,8,5.0,Debit Card
+101672,1490,Female,32.0,Chennai,Sports,Yoga Mat,1,2488.57,15,2023-04-25,115.94,6,5.0,Net Banking
+100410,1209,Male,,Ahmedabad,Books,Novel,5,340.79,10,2023-04-16,93.33,1,3.0,Debit Card
+101805,1409,Male,49.0,Kolkata,Electronics,Smartwatch,2,14602.5,0,2023-09-08,167.28,2,,Credit Card
+100298,1185,Female,16.0,Pune,Electronics,Smartphone,1,11892.11,5,2024-09-27,28.08,6,2.0,Cash on Delivery
+101339,1014,Male,27.0,Chennai,Electronics,Smartphone,1,10253.3,5,2023-07-21,101.83,3,,Net Banking
+100846,1013,Female,36.0,Hyderabad,Electronics,Laptop,2,9316.08,20,2023-01-29,84.44,8,5.0,Net Banking
+101318,1099,Female,17.0,Jaipur,Sports,Dumbbells,2,1672.08,30,2024-07-29,130.69,4,3.0,Credit Card
+100857,1060,Female,34.0,Hyderabad,Books,Textbook,4,372.59,25,2024-03-15,124.15,4,4.0,Debit Card
+101820,1399,Female,32.0,Pune,Fashion,T-Shirt,1,1847.26,10,2024-08-20,148.0,2,5.0,Net Banking
+101287,1139,Male,28.0,Hyderabad,Home & Kitchen,Lamp,2,4454.14,20,2023-09-03,100.46,5,5.0,Net Banking
+100672,1211,Female,49.0,Jaipur,Books,Textbook,1,341.16,15,2024-07-06,104.64,8,4.0,Net Banking
+100649,1018,Male,17.0,Kolkata,Fashion,T-Shirt,1,1289.45,5,2024-05-19,139.11,5,5.0,UPI
+101380,1260,Male,16.0,,Electronics,Tablet,2,17628.61,0,2023-06-22,47.36,4,4.0,Debit Card
+101704,1164,Female,34.0,chennai,Books,Cookbook,1,587.32,20,2024-06-12,118.6,4,4.0,Credit Card
+101560,1493,Male,,Hyderabad,Sports,Yoga Mat,1,2738.29,5,2023-07-08,61.11,4,4.0,Debit Card
+101991,1174,Female,51.0,Mumbai,Books,Textbook,2,287.15,15,2024-04-13,42.48,2,2.0,Cash on Delivery
+100732,1018,Female,31.0,Pune,Sports,Dumbbells,1,815.99,15,2024-02-11,84.71,6,5.0,Debit Card
+101741,1286,Female,,Mumbai,Books,Novel,2,513.12,15,2023-02-07,113.51,4,3.0,UPI
+100532,1178,Male,33.0,Kolkata,Home & Kitchen,Mixer Grinder,1,3340.92,30,2024-09-11,89.54,3,1.0,UPI
+100408,1114,Male,25.0,Patna,Beauty,Shampoo,1,557.28,10,2024-11-30,134.33,7,4.0,Net Banking
+100200,1235,Male,50.0,Mumbai,Fashion,Sneakers,1,1817.62,0,2024-03-02,50.46,3,4.0,Cash on Delivery
+100474,1430,Female,28.0,Hyderabad,Beauty,Face Cream,1,934.35,0,2023-10-12,42.54,5,5.0,Debit Card
+100906,1451,Other,45.0,Mumbai,Home & Kitchen,Vacuum Cleaner,1,1457.55,10,2024-12-03,14.17,3,4.0,Credit Card
+101122,1112,Other,,Ahmedabad,Electronics,Laptop,1,9785.53,30,2024-12-09,77.71,1,1.0,Net Banking
+100748,1395,Female,20.0,Patna,Home & Kitchen,Cookware Set,1,2931.07,0,2023-04-16,63.9,7,3.0,UPI
+101316,1162,Female,29.0,Patna,Home & Kitchen,Lamp,2,3564.14,5,2023-08-16,54.3,4,5.0,Net Banking
+100217,1198,Male,,Mumbai,Beauty,Lipstick,2,974.05,25,2023-10-12,0.0,5,3.0,Cash on Delivery
+100254,1398,Male,32.0,Mumbai,Fashion,Handbag,1,947.7,0,2023-12-14,84.56,7,4.0,UPI
+100153,1154,Female,49.0,Chennai,Books,Cookbook,3,302.82,0,2024-07-19,64.57,4,3.0,Net Banking
+101652,1386,Male,36.0,Patna,Sports,Cricket Bat,1,2904.15,5,2024-02-24,99.21,5,3.0,Net Banking
+100944,1424,Male,29.0,Chennai,Sports,Football,1,713.95,0,2024-02-03,80.3,3,4.0,Net Banking
+100948,1090,Male,26.0,Patna,Sports,Football,2,2396.79,10,2024-10-29,69.24,6,4.0,Credit Card
+101270,1279,Female,47.0,Pune,Sports,Cricket Bat,1,1565.11,5,2024-12-26,154.08,4,4.0,
+101459,1483,Male,41.0,Pune,Fashion,T-Shirt,2,2082.29,15,2023-04-03,62.56,3,5.0,Net Banking
+101622,1337,Female,35.0,Hyderabad,Books,Cookbook,1,318.8,0,2023-06-19,72.05,8,5.0,Credit Card
+100735,1151,Male,33.0,Chennai,Fashion,Jeans,1,1814.57,5,2024-05-11,22.89,8,,Debit Card
+101633,1320,Female,21.0,,Home & Kitchen,Lamp,1,4279.24,0,2024-02-02,83.01,8,5.0,Debit Card
+101253,1421,Female,29.0,Mumbai,Beauty,Lipstick,5,1051.28,25,2023-09-12,88.2,5,5.0,Net Banking
+100531,1236,Male,16.0,Mumbai,Beauty,Shampoo,2,1014.39,5,2023-05-30,100.83,6,5.0,Debit Card
+101937,1417,Other,51.0,Mumbai,Books,Textbook,1,371.91,5,2023-06-17,82.17,6,4.0,UPI
+101267,1333,Male,60.0,Jaipur,Home & Kitchen,Cookware Set,2,3359.52,15,2024-01-29,51.47,5,5.0,Cash on Delivery
+100241,1282,Female,23.0,,Home & Kitchen,Vacuum Cleaner,1,3868.53,10,2023-08-09,55.88,4,4.0,Net Banking
+101997,1228,Female,25.0,Mumbai,Books,Biography,3,604.52,0,2023-07-22,81.46,3,1.0,Cash on Delivery
+101912,1081,Female,39.0,Delhi,Home & Kitchen,Vacuum Cleaner,1,3202.29,15,2023-12-29,63.82,3,3.0,Net Banking
+100188,1164,Other,29.0,Chennai,Sports,Dumbbells,1,1722.16,0,2024-06-05,119.86,3,3.0,Net Banking
+100247,1353,Female,52.0,Bangalore,Beauty,Perfume,1,935.86,10,2023-07-07,100.35,1,5.0,Net Banking
+101184,1252,Female,31.0,mumbai,Electronics,Tablet,1,12002.4,0,2023-12-02,90.17,3,5.0,UPI
+101593,1254,Male,,Bangalore,Fashion,Jeans,1,1961.03,10,2023-07-11,57.71,3,,UPI
+101057,1299,Male,40.0,Delhi,Electronics,Smartwatch,1,9841.56,5,2024-06-17,108.26,3,5.0,Cash on Delivery
+100919,1237,Female,16.0,Bangalore,Fashion,Jacket,1,2113.85,0,2024-06-28,111.82,7,3.0,Credit Card
+100693,1399,Male,46.0,Jaipur,Electronics,Headphones,4,14130.31,25,2024-01-15,6.09,2,4.0,Cash on Delivery
+100303,1262,Male,46.0,Mumbai,Fashion,Sneakers,1,1097.68,10,2024-02-16,57.71,7,4.0,Net Banking
+100284,1233,Male,45.0,Jaipur,Home & Kitchen,Lamp,2,1350.35,25,2023-08-05,79.64,1,4.0,Credit Card
+100916,1103,Male,40.0,Jaipur,Home & Kitchen,Bedsheet,1,1974.35,25,2023-08-02,153.53,8,4.0,Credit Card
+100506,1017,Female,52.0,Kolkata,Books,Biography,3,529.44,25,2024-01-24,64.54,5,4.0,UPI
+101951,1270,Female,16.0,Mumbai,Fashion,Jeans,1,1308.17,15,2023-06-11,89.82,4,3.0,Cash on Delivery
+100322,1146,Female,45.0,Jaipur,Electronics,Headphones,1,18847.77,20,2024-12-30,31.51,3,4.0,Credit Card
+101868,1292,Female,44.0,Hyderabad,Fashion,Sneakers,5,1610.7,0,2024-02-24,13.56,3,1.0,Debit Card
+101275,1161,Female,23.0,Hyderabad,Electronics,Headphones,1,16632.52,25,2023-03-24,142.91,6,,Cash on Delivery
+101059,1058,Female,35.0,Mumbai,Fashion,Handbag,2,563.86,25,2023-01-06,30.42,1,5.0,Cash on Delivery
+100622,1443,Male,16.0,Kolkata,Home & Kitchen,Lamp,1,4591.83,0,2024-07-07,98.39,1,5.0,Debit Card
+101126,1268,Male,31.0,Bangalore,Beauty,Lipstick,1,972.57,10,2024-07-06,28.97,7,4.0,Cash on Delivery
+101119,1245,Male,51.0,Delhi,Beauty,Perfume,1,902.37,15,2023-02-08,60.67,5,5.0,Net Banking
+100123,1470,Male,49.0,Chennai,Beauty,Face Cream,1,642.99,15,2023-04-10,118.7,5,3.0,Credit Card
+101322,1171,Female,38.0,Ahmedabad,Home & Kitchen,Bedsheet,1,5036.69,15,2024-09-20,40.64,8,4.0,Credit Card
+100511,1366,Male,43.0,Chennai,Books,Cookbook,2,287.15,0,2024-07-25,98.21,5,4.0,Net Banking
+100281,1011,Male,33.0,Jaipur,Home & Kitchen,Lamp,1,2924.4,15,2023-04-21,60.31,5,3.0,Credit Card
+101269,1120,Male,36.0,Mumbai,Books,Cookbook,1,404.19,10,2023-07-31,130.08,5,4.0,UPI
+101864,1229,Female,32.0,Patna,Beauty,Hair Dryer,1,781.26,15,2023-11-08,88.5,1,,Cash on Delivery
+101466,1480,Male,49.0,Delhi,Books,Novel,1,233.83,0,2023-01-26,91.23,8,2.0,Credit Card
+101582,1340,Female,,Mumbai,Books,Comic,1,444.2,5,2023-06-08,73.99,3,5.0,Net Banking
+101790,1318,Female,33.0,hyderabad,Beauty,Hair Dryer,1,1019.97,15,2024-06-01,60.47,4,2.0,Net Banking
+101811,1079,Male,,Hyderabad,Home & Kitchen,Bedsheet,1,3790.36,10,2024-08-04,83.01,7,4.0,Debit Card
+100757,1194,Female,37.0,Kolkata,Fashion,T-Shirt,1,1719.55,5,2023-04-08,150.32,2,4.0,Cash on Delivery
+100678,1337,Female,50.0,Ahmedabad,Electronics,Smartwatch,1,18533.18,15,2023-12-15,82.58,9,,Net Banking
+100519,1014,Female,37.0,Hyderabad,Home & Kitchen,Lamp,1,3967.4,30,2023-10-27,110.84,4,4.0,Cash on Delivery
+101588,1073,Male,36.0,Mumbai,Electronics,Tablet,2,14833.08,10,2023-10-23,47.11,4,4.0,Credit Card
+101527,1056,Female,23.0,Mumbai,Home & Kitchen,Lamp,5,5278.21,30,2024-05-27,77.19,5,5.0,Debit Card
+100068,1233,Male,48.0,Ahmedabad,Beauty,Perfume,1,380.94,0,2024-06-27,,2,4.0,Debit Card
+100333,1380,Male,,Delhi,Beauty,Shampoo,1,819.64,15,2024-03-31,111.46,4,4.0,Credit Card
+100569,1321,Female,29.0,Mumbai,Books,Textbook,4,305.15,0,2024-11-14,68.04,3,5.0,UPI
+101237,1300,Male,39.0,Chennai,Home & Kitchen,Mixer Grinder,4,4223.25,0,2024-06-29,117.58,3,4.0,Debit Card
+101480,1473,Female,28.0,Bangalore,Electronics,Headphones,1,12756.29,5,2024-01-31,115.93,4,5.0,Net Banking
+101448,1070,Female,45.0,Jaipur,Fashion,Sneakers,2,1823.46,10,2024-11-11,102.88,8,5.0,Cash on Delivery
+101045,1415,Male,46.0,Delhi,Electronics,Smartwatch,1,17631.25,20,2024-12-19,,1,5.0,Debit Card
+100473,1380,Female,44.0,Pune,Home & Kitchen,Mixer Grinder,1,3614.76,0,2024-12-11,106.16,5,4.0,Debit Card
+101289,1102,Female,39.0,Hyderabad,Home & Kitchen,Bedsheet,1,1793.4,5,2023-11-02,66.67,2,5.0,Cash on Delivery
+100512,1062,Male,42.0,Mumbai,Books,Cookbook,1,423.3,20,2024-12-08,0.0,6,4.0,Net Banking
+100478,1251,Male,47.0,Hyderabad,Beauty,Hair Dryer,2,1003.39,10,2023-07-25,162.39,4,2.0,Cash on Delivery
+100922,1246,Male,22.0,Kolkata,Fashion,Jacket,1,2141.91,0,2023-07-14,116.57,6,5.0,Credit Card
+101963,1101,Female,,Delhi,Beauty,Perfume,5,656.89,10,2023-10-14,14.45,4,3.0,
+100319,1489,Female,,Delhi,Beauty,Shampoo,1,1001.94,10,2024-08-15,42.27,4,4.0,Credit Card
+101211,1458,Female,37.0,Bangalore,Books,Cookbook,1,369.26,20,2023-03-30,87.43,3,4.0,Cash on Delivery
+101739,1389,Female,59.0,Ahmedabad,Sports,Dumbbells,1,2100.02,25,2023-11-04,88.57,4,3.0,UPI
+101029,1185,Female,30.0,Jaipur,Sports,Yoga Mat,1,2300.55,10,2023-10-22,24.85,5,3.0,Net Banking
+100582,1400,Male,38.0,Ahmedabad,Fashion,Jacket,1,2147.22,20,2023-03-24,58.14,7,3.0,Debit Card
+100133,1081,Male,42.0,Kolkata,Books,Novel,1,362.07,0,2024-03-05,89.48,4,4.0,UPI
+101745,1329,Female,40.0,Delhi,Fashion,Handbag,1,1418.88,0,2024-07-27,104.23,6,5.0,Net Banking
+100863,1256,Female,16.0,Mumbai,Electronics,Smartwatch,1,10384.74,0,2024-05-30,86.57,4,5.0,Debit Card
+101110,1205,Other,39.0,Pune,Home & Kitchen,Cookware Set,1,2868.01,10,2024-12-25,35.11,5,4.0,Cash on Delivery
+101415,1007,Male,39.0,Ahmedabad,Books,Comic,1,236.04,30,2024-05-07,95.01,3,,Credit Card
+101972,1323,Male,40.0,Patna,Books,Novel,2,83.04,5,2023-08-30,95.01,3,4.0,UPI
+100369,1233,Female,31.0,Chennai,Electronics,Smartwatch,1,18159.95,0,2024-06-28,54.02,2,3.0,Net Banking
+100733,1464,Female,25.0,Mumbai,Sports,Dumbbells,2,1753.39,5,2024-11-20,1.83,8,5.0,UPI
+101378,1489,Female,23.0,Hyderabad,Electronics,Smartwatch,4,24179.91,20,2024-08-09,88.66,3,3.0,Credit Card
+100126,1194,Female,19.0,Delhi,Books,Novel,2,501.06,0,2024-06-11,59.72,4,4.0,UPI
+101262,1478,Male,,Chennai,Fashion,Jacket,1,983.28,0,2023-04-10,73.92,2,1.0,Cash on Delivery
+101089,1187,Male,29.0,Pune,Beauty,Face Cream,1,316.61,15,2024-11-02,56.58,1,1.0,Net Banking
+100257,1190,Male,53.0,Kolkata,Sports,Dumbbells,1,2350.76,0,2023-02-25,80.43,4,4.0,Net Banking
+101989,1087,Female,27.0,Jaipur,Home & Kitchen,Bedsheet,3,443.8,0,2023-07-21,48.86,9,5.0,Cash on Delivery
+101124,1437,Male,27.0,Kolkata,Beauty,Shampoo,1,491.0,25,2023-04-26,,3,3.0,Debit Card
+100290,1105,Male,50.0,Mumbai,Fashion,Jacket,1,1782.15,0,2024-09-14,48.31,4,3.0,Net Banking
+101297,1445,Female,64.0,Patna,Fashion,T-Shirt,1,908.07,15,2023-04-12,20.19,2,4.0,Cash on Delivery
+100778,1093,Female,16.0,Pune,Beauty,Face Cream,1,775.45,15,2024-09-02,43.41,6,4.0,Credit Card
+100082,1122,Female,16.0,Hyderabad,Fashion,Jeans,2,1383.99,25,2024-07-18,117.91,2,5.0,Cash on Delivery
+100054,1345,Male,17.0,Kolkata,Beauty,Face Cream,2,873.37,15,2024-06-04,133.45,7,5.0,Cash on Delivery
+101555,1376,Male,18.0,chennai,Electronics,Headphones,1,17676.11,0,2023-06-04,140.93,5,5.0,Net Banking
+101808,1471,Male,30.0,,Fashion,Handbag,2,898.84,0,2024-03-16,94.09,5,,Cash on Delivery
+100558,1197,Male,27.0,Kolkata,Sports,Cricket Bat,2,458.42,5,2024-12-10,95.59,4,,Debit Card
+100041,1261,Female,39.0,Jaipur,Electronics,Smartwatch,3,17492.16,15,2023-10-28,55.8,3,5.0,Credit Card
+101518,1374,Female,29.0,Jaipur,Books,Novel,2,284.96,0,2023-05-01,46.9,5,5.0,Net Banking
+100262,1195,Male,23.0,Jaipur,Beauty,Lipstick,3,769.89,0,2023-11-09,,4,5.0,Cash on Delivery
+101012,1410,Male,48.0,Pune,Fashion,T-Shirt,3,2337.43,5,2023-12-06,82.77,1,4.0,UPI
+101451,1034,Female,58.0,Pune,Fashion,Jacket,1,1128.25,0,2023-04-18,97.55,4,5.0,Net Banking
+100084,1053,Female,24.0,Ahmedabad,Sports,Dumbbells,1,925.05,20,2023-01-23,143.53,3,2.0,Net Banking
+101135,1022,Female,35.0,Hyderabad,Electronics,Laptop,1,80048.89855152564,10,2023-04-23,65.58,8,3.0,Cash on Delivery
+101228,1053,Female,33.0,Mumbai,Sports,Running Shoes,1,2060.51,25,2023-06-12,0.0,2,,UPI
+101703,1125,Female,25.0,Hyderabad,Beauty,Shampoo,1,851.38,25,2023-10-02,136.67,5,5.0,UPI
+100841,1281,Male,31.0,Jaipur,Sports,Dumbbells,1,1687.18,10,2024-07-19,49.6,5,4.0,Credit Card
+100031,1318,Female,43.0,,Beauty,Hair Dryer,4,781.25,20,2023-10-24,105.5,3,5.0,
+100514,1416,Male,27.0,Delhi,Books,Textbook,1,422.98,0,2023-06-26,26.27,8,2.0,UPI
+101467,1258,Female,48.0,Ahmedabad,Beauty,Hair Dryer,1,451.98,30,2024-12-29,55.14,3,5.0,Debit Card
+101370,1334,Female,50.0,Pune,Beauty,Lipstick,2,641.92,0,2024-11-08,138.49,3,4.0,Credit Card
+101840,1028,Male,45.0,Bangalore,Sports,Cricket Bat,1,3004.56,5,2024-11-09,143.77,3,5.0,Credit Card
+101035,1024,Male,22.0,Pune,Fashion,Handbag,1,1531.83,5,2024-08-12,110.56,6,1.0,Credit Card
+101771,1121,Male,24.0,Ahmedabad,Fashion,Jeans,1,966.97,0,2023-09-16,50.98,4,4.0,Credit Card
+101319,1218,Male,19.0,Ahmedabad,Beauty,Shampoo,1,963.36,15,2024-09-23,22.77,1,5.0,UPI
+101611,1480,Male,49.0,Chennai,Electronics,Smartwatch,3,14212.11,25,2024-04-18,53.99,8,,Debit Card
+101352,1144,Female,43.0,Delhi,Sports,Football,2,2688.56,25,2023-03-17,16.59,8,5.0,Debit Card
+101216,1351,Male,44.0,Delhi,Fashion,Sneakers,1,2077.9,20,2023-05-01,51.79,6,3.0,Cash on Delivery
+101854,1328,Other,17.0,Patna,Beauty,Lipstick,2,1319.36,0,2024-11-22,51.26,5,5.0,UPI
+101894,1185,Female,30.0,Patna,Home & Kitchen,Lamp,1,4425.88,5,2024-12-15,33.8,4,4.0,Cash on Delivery
+100049,1166,Male,39.0,Delhi,Home & Kitchen,Mixer Grinder,2,2277.21,30,2024-11-30,44.49,7,3.0,UPI
+101341,1389,Female,16.0,bangalore,Fashion,Jacket,1,2022.36,0,2024-05-31,62.3,4,4.0,Credit Card
+101875,1169,Female,31.0,Hyderabad,Sports,Football,1,1478.54,15,2023-10-17,84.3,4,2.0,Credit Card
+100468,1485,Female,35.0,Chennai,Beauty,Face Cream,1,506.44,25,2023-08-29,68.19,5,,Credit Card
+100154,1168,Other,44.0,Pune,Sports,Running Shoes,1,3670.87,15,2024-04-26,127.66,3,4.0,UPI
+101587,1037,Female,30.0,Mumbai,Fashion,Jeans,4,1810.38,0,2024-05-14,62.68,1,3.0,UPI
+101895,1163,Female,35.0,Jaipur,Beauty,Hair Dryer,1,981.32,25,2024-09-20,36.68,3,5.0,Debit Card
+100395,1203,Male,22.0,Chennai,Fashion,T-Shirt,1,2468.16,25,2023-06-15,70.42,4,3.0,Credit Card
+100124,1223,Male,16.0,Mumbai,Fashion,T-Shirt,1,1960.19,20,2023-10-30,98.74,6,5.0,Cash on Delivery
+100356,1463,Male,18.0,Mumbai,Sports,Yoga Mat,1,2064.07,0,2024-09-24,63.67,5,,Cash on Delivery
+100135,1247,Female,31.0,Ahmedabad,Sports,Running Shoes,2,1926.34,10,2023-11-29,171.98,5,4.0,Net Banking
+100269,1130,Female,20.0,jaipur,Fashion,Jacket,2,1245.38,25,2023-05-08,94.29,8,4.0,Net Banking
+100386,1235,Female,22.0,Kolkata,Electronics,Laptop,1,17152.16,25,2024-10-16,128.18,5,4.0,Debit Card
+100610,1299,Male,,Jaipur,Home & Kitchen,Lamp,1,3039.61,0,2024-12-07,128.58,3,,Credit Card
+100221,1249,Male,38.0,Mumbai,Home & Kitchen,Bedsheet,1,1782.17,10,2024-09-12,103.55,4,5.0,UPI
+100042,1295,Female,32.0,Kolkata,Books,Biography,4,450.67,5,2023-11-02,122.69,4,5.0,UPI
+100220,1029,Female,16.0,Ahmedabad,Home & Kitchen,Cookware Set,4,3718.24,10,2023-05-20,124.92,4,5.0,Net Banking
+100598,1169,Male,27.0,Bangalore,Beauty,Face Cream,1,874.32,10,2023-09-28,118.8,4,2.0,Debit Card
+101272,1148,Female,40.0,Chennai,Beauty,Face Cream,2,790.24,5,2024-07-19,69.28,7,3.0,Cash on Delivery
+101261,1119,Female,37.0,Ahmedabad,Fashion,T-Shirt,1,1243.02,20,2023-04-26,124.53,1,5.0,Debit Card
+100681,1230,Male,30.0,Jaipur,Fashion,Handbag,1,1852.53,10,2023-07-17,129.42,4,5.0,Credit Card
+101096,1210,Female,16.0,Patna,Electronics,Smartphone,1,15839.64,10,2024-06-07,121.3,4,1.0,Net Banking
+101928,1495,Female,47.0,Kolkata,Sports,Football,1,2037.62,5,2024-07-09,115.76,7,5.0,Debit Card
+101133,1201,Male,41.0,Delhi,Electronics,Laptop,1,15126.3,25,2024-11-10,68.45,3,4.0,UPI
+100542,1489,Male,48.0,Chennai,Books,Comic,2,567.88,10,2023-02-22,61.31,5,2.0,Credit Card
+101063,1439,Male,39.0,Hyderabad,Books,Novel,1,657.91,25,2024-07-13,92.31,7,5.0,Credit Card
+100869,1070,Male,24.0,Delhi,Books,Textbook,2,325.17,25,2024-10-10,70.84,1,3.0,Net Banking
+101382,1463,Female,28.0,Pune,Fashion,T-Shirt,1,1861.75,5,2024-08-24,112.36,4,5.0,Credit Card
+101902,1406,Female,53.0,Jaipur,Electronics,Headphones,4,20542.63,10,2023-07-07,110.83,3,4.0,Cash on Delivery
+101490,1462,Female,16.0,Patna,Fashion,Jacket,1,2154.41,10,2023-03-08,115.22,4,5.0,Net Banking
+100937,1472,Male,46.0,Chennai,Home & Kitchen,Lamp,2,3204.75,20,2023-02-18,72.14,10,,Debit Card
+101306,1117,Male,32.0,Patna,Home & Kitchen,Mixer Grinder,2,2616.81,10,2023-12-11,59.71,3,5.0,Cash on Delivery
+101017,1322,Male,24.0,Hyderabad,Fashion,Jeans,4,1719.51,0,2023-09-11,142.18,4,2.0,Credit Card
+101105,1223,Male,36.0,Hyderabad,Books,Comic,1,207.04,10,2024-01-22,93.45,6,2.0,Net Banking
+101596,1411,Female,32.0,Pune,Books,Comic,1,518.08,20,2024-11-29,52.61,8,5.0,UPI
+101843,1450,Female,34.0,Ahmedabad,Home & Kitchen,Mixer Grinder,2,2918.61,10,2023-01-14,135.84,5,3.0,UPI
+101807,1483,Male,34.0,Mumbai,Home & Kitchen,Mixer Grinder,1,2167.25,5,2024-09-02,17.5,5,3.0,Net Banking
+101372,1146,Female,24.0,Hyderabad,Sports,Football,1,2014.49,15,2023-01-26,82.62,3,4.0,Net Banking
+101842,1123,Female,65.0,Hyderabad,Electronics,Smartwatch,1,14421.23,25,2024-03-07,66.06,5,4.0,Net Banking
+101856,1358,Male,54.0,Kolkata,Beauty,Shampoo,1,728.26,10,2024-12-18,46.77,6,4.0,Credit Card
+101676,1306,Male,35.0,Delhi,Home & Kitchen,Cookware Set,1,2078.46,0,2023-12-19,111.3,5,4.0,Credit Card
+100934,1485,Female,42.0,Ahmedabad,Beauty,Perfume,1,498.16,10,2023-07-09,51.4,6,5.0,UPI
+100337,1050,Female,31.0,Pune,Home & Kitchen,Bedsheet,1,4494.25,30,2023-06-10,137.18,5,4.0,Debit Card
+100233,1079,Female,56.0,Hyderabad,Books,Novel,1,476.09,20,2023-09-17,107.3,4,4.0,Credit Card
+101918,1344,Female,42.0,Patna,Home & Kitchen,Cookware Set,2,3527.13,5,2024-10-10,47.2,7,3.0,Debit Card
+101900,1468,Female,34.0,Mumbai,Home & Kitchen,Mixer Grinder,2,1248.5,0,2024-12-22,8.05,4,5.0,Credit Card
+100159,1029,Female,33.0,Patna,Fashion,Handbag,3,1566.46,5,2024-08-27,,7,,Credit Card
+100469,1372,Female,49.0,Hyderabad,Electronics,Smartwatch,4,14743.57,10,2023-07-15,81.56,5,,Debit Card
+100900,1328,Male,29.0,Hyderabad,Books,Textbook,5,654.0,5,2024-04-28,4.75,6,5.0,Net Banking
+100873,1264,Female,,Delhi,Books,Comic,2,433.72,5,2023-06-15,44.57,5,,Cash on Delivery
+101638,1171,Male,54.0,Bangalore,Books,Textbook,2,288.03,15,2023-09-12,118.34,5,4.0,Net Banking
+101047,1170,Female,16.0,Kolkata,Electronics,Tablet,1,15206.39,30,2024-04-09,127.95,4,4.0,Credit Card
+101065,1487,Female,50.0,Pune,Sports,Yoga Mat,2,1659.45,10,2024-08-26,133.32,6,5.0,Net Banking
+101140,1365,Female,32.0,Chennai,Sports,Dumbbells,1,2907.18,15,2024-07-29,23.18,1,5.0,Cash on Delivery
+100586,1006,Male,65.0,Hyderabad,Home & Kitchen,Cookware Set,2,2542.82,0,2023-08-26,86.59,4,4.0,Cash on Delivery
+100206,1049,Male,61.0,Chennai,Sports,Football,1,2339.56,5,2024-05-29,43.06,2,5.0,Net Banking
+100004,1452,Male,48.0,Patna,Home & Kitchen,Mixer Grinder,1,2117.84,15,2024-11-17,101.73,3,5.0,UPI
+101442,1495,Female,41.0,Bangalore,Sports,Dumbbells,2,1765.05,10,2024-11-16,129.44,3,5.0,Credit Card
+101956,1470,Female,44.0,Pune,Home & Kitchen,Bedsheet,1,3234.56,20,2023-07-13,7.4,7,3.0,Cash on Delivery
+101519,1252,Female,19.0,Mumbai,Beauty,Lipstick,1,779.69,5,2023-10-27,74.97,4,3.0,Cash on Delivery
+101865,1434,Female,33.0,Chennai,Books,Textbook,1,288.68,30,2023-05-20,29.29,4,5.0,Debit Card
+101234,1273,Female,16.0,Ahmedabad,Electronics,Smartphone,5,11136.36,10,2024-03-23,41.55,4,3.0,Debit Card
+101430,1245,Male,32.0,Jaipur,Fashion,Handbag,4,1370.69,25,2024-10-26,39.3,1,5.0,Net Banking
+100694,1262,Male,28.0,Ahmedabad,Sports,Cricket Bat,1,2655.28,5,2023-02-02,55.6,5,3.0,Credit Card
+101693,1475,Male,32.0,Mumbai,Beauty,Perfume,4,269.17,0,2024-05-28,37.66,6,5.0,Credit Card
+101896,1350,Female,39.0,Mumbai,Electronics,Headphones,2,16593.14,30,2024-10-04,50.05,4,4.0,Cash on Delivery
+100715,1359,Male,42.0,Ahmedabad,Fashion,Sneakers,1,1346.35,20,2024-11-18,140.27,3,3.0,UPI
+101932,1087,Female,49.0,Bangalore,Sports,Cricket Bat,2,1214.56,30,2024-10-04,19.66,1,2.0,Credit Card
+101612,1050,Female,29.0,Delhi,Beauty,Lipstick,1,677.06,10,2023-08-15,75.95,2,5.0,Credit Card
+101822,1007,Female,29.0,Ahmedabad,Electronics,Tablet,1,8532.28,15,2024-12-16,114.9,4,5.0,Cash on Delivery
+100884,1219,Male,19.0,Bangalore,Sports,Running Shoes,1,536.24,0,2024-09-11,116.9,1,1.0,Credit Card
+101862,1257,Female,29.0,Pune,Sports,Dumbbells,4,50.0,15,2024-09-01,180.21,4,4.0,UPI
+101073,1288,Male,31.0,Jaipur,Sports,Running Shoes,2,1313.47,0,2023-07-08,91.82,4,3.0,UPI
+101127,1411,Female,61.0,Delhi,Books,Textbook,1,477.06,25,2024-09-08,79.98,5,4.0,Debit Card
+101308,1247,Female,30.0,Ahmedabad,Home & Kitchen,Lamp,1,1099.83,10,2023-02-06,0.0,3,,Cash on Delivery
+101075,1447,Male,17.0,Ahmedabad,Fashion,Handbag,3,2110.5,5,2023-09-14,108.63,5,5.0,Cash on Delivery
+100158,1170,Female,36.0,Jaipur,Home & Kitchen,Lamp,1,3248.67,10,2023-02-14,121.0,4,5.0,Net Banking
+101283,1056,Female,37.0,Hyderabad,Home & Kitchen,Bedsheet,2,4487.42,30,2023-01-28,22.81,5,,UPI
+100524,1330,Female,37.0,Chennai,Beauty,Perfume,1,880.13,20,2024-06-21,72.55,3,5.0,UPI
+100463,1398,Male,16.0,chennai,Electronics,Laptop,4,17229.59,5,2024-11-09,29.16,2,5.0,Credit Card
+100653,1479,Male,45.0,Patna,Beauty,Perfume,2,1531.11,5,2024-01-22,122.44,3,4.0,Net Banking
+100161,1469,Male,45.0,Pune,Fashion,Sneakers,2,1400.48,5,2023-11-05,139.1,6,4.0,Credit Card
+100306,1258,Female,29.0,Bangalore,Books,Comic,1,490.67,0,2023-10-17,114.53,4,5.0,Net Banking
+100657,1422,Female,32.0,Pune,Home & Kitchen,Lamp,2,4301.12,15,2023-02-06,72.54,4,5.0,Credit Card
+100548,1370,Male,31.0,Hyderabad,Books,Biography,2,639.03,10,2024-08-02,41.71,4,5.0,Debit Card
+100714,1177,Female,48.0,Mumbai,Electronics,Headphones,5,7670.48,0,2024-05-23,0.0,4,5.0,UPI
+100396,1108,Female,44.0,Kolkata,Beauty,Perfume,2,685.1,10,2024-01-28,74.78,5,5.0,Debit Card
+100784,1114,Female,53.0,hyderabad,Fashion,T-Shirt,2,642.6,25,2023-11-24,81.19,4,3.0,Debit Card
+100400,1284,Male,29.0,Mumbai,Books,Cookbook,2,466.08,5,2024-06-28,32.32,8,3.0,UPI
+100799,1177,Female,38.0,Mumbai,Electronics,Headphones,1,19621.61,20,2023-05-09,99.97,4,3.0,Cash on Delivery
+100619,1232,Male,16.0,Kolkata,Sports,Dumbbells,1,1239.58,0,2023-08-31,97.56,2,4.0,Debit Card
+101732,1378,Other,36.0,Patna,Electronics,Laptop,1,23632.63,10,2023-02-08,90.87,5,5.0,Cash on Delivery
+100509,1119,Male,29.0,Kolkata,Electronics,Smartphone,1,9274.04,5,2023-03-20,59.46,2,4.0,Net Banking
+101391,1062,Female,48.0,Delhi,Beauty,Lipstick,1,854.15,5,2023-03-12,45.81,5,5.0,Cash on Delivery
+100737,1379,Male,32.0,Bangalore,Beauty,Lipstick,1,570.35,5,2023-10-23,69.3,6,3.0,Net Banking
+101159,1317,Female,45.0,Mumbai,Sports,Cricket Bat,1,50.0,10,2024-01-11,35.04,4,4.0,Cash on Delivery
+101696,1460,Female,33.0,Chennai,Fashion,Handbag,1,2078.37,25,2024-09-27,49.24,2,5.0,Net Banking
+101085,1466,Male,,Bangalore,Beauty,Perfume,1,840.32,15,2024-06-29,18.25,1,4.0,Cash on Delivery
+100868,1284,Female,31.0,Jaipur,Beauty,Hair Dryer,4,369.07,15,2024-10-03,182.74,3,4.0,Net Banking
+100460,1008,Male,46.0,Pune,Electronics,Tablet,1,12656.58,15,2024-03-18,125.07,3,3.0,Cash on Delivery
+100971,1275,Female,48.0,Mumbai,Beauty,Hair Dryer,3,1028.59,25,2024-03-18,47.37,1,5.0,Credit Card
+100063,1193,Male,40.0,Bangalore,Fashion,Sneakers,1,153.51,15,2023-01-19,27.33,6,3.0,Debit Card
+101851,1172,Male,38.0,Ahmedabad,Electronics,Tablet,1,8531.15,5,2024-05-02,124.79,6,4.0,Debit Card
+100872,1444,Male,23.0,Ahmedabad,Electronics,Headphones,3,10889.33,5,2024-04-09,88.6,4,5.0,Debit Card
+100993,1360,Other,18.0,Ahmedabad,Home & Kitchen,Mixer Grinder,1,3681.71,5,2023-01-28,30.05,8,5.0,Cash on Delivery
+101603,1044,Female,26.0,Bangalore,Fashion,T-Shirt,1,1181.48,25,2024-08-10,46.09,1,3.0,Debit Card
+100458,1120,Male,48.0,Chennai,Fashion,Sneakers,5,1459.34,0,2023-10-18,83.2,1,5.0,UPI
+100973,1037,Female,22.0,Patna,Home & Kitchen,Lamp,1,2572.46,15,2024-03-12,137.18,3,3.0,Debit Card
+100479,1369,Female,27.0,Chennai,Beauty,Perfume,1,777.64,30,2024-03-03,36.91,5,4.0,Debit Card
+101494,1352,Female,35.0,Bangalore,Beauty,Face Cream,1,784.1,0,2024-12-15,31.99,6,3.0,UPI
+101536,1369,Male,29.0,Delhi,Sports,Yoga Mat,3,1906.8,5,2023-04-07,142.6,6,4.0,UPI
+100871,1414,Male,32.0,Pune,Books,Novel,1,236.43,10,2023-01-22,33.6,2,5.0,UPI
+100791,1163,Male,37.0,Mumbai,Home & Kitchen,Mixer Grinder,1,2679.23,10,2023-01-11,65.9,6,4.0,Credit Card
+100618,1047,Male,27.0,Pune,Sports,Yoga Mat,1,3704.34,0,2023-10-12,103.2,1,5.0,Cash on Delivery
+101879,1301,Female,27.0,Delhi,Electronics,Headphones,4,15509.25,10,2024-05-28,0.5,4,4.0,Credit Card
+101397,1272,Male,16.0,Ahmedabad,Home & Kitchen,Cookware Set,2,3352.24,0,2023-07-01,,6,5.0,Cash on Delivery
+101436,1117,Female,16.0,Delhi,Books,Novel,1,447.49,15,2024-07-06,112.25,3,5.0,Credit Card
+101708,1200,Male,42.0,Chennai,Books,Textbook,1,528.15,20,2023-01-08,74.43,6,1.0,Cash on Delivery
+101645,1434,Male,16.0,Delhi,Beauty,Face Cream,2,756.46,10,2024-06-01,98.51,5,3.0,Cash on Delivery
+100348,1468,Male,49.0,Patna,Fashion,Jeans,1,1734.22,15,2023-11-14,26.24,5,5.0,Credit Card
+101088,1105,Male,28.0,Delhi,Sports,Cricket Bat,3,1203.74,5,2023-12-22,130.99,7,,UPI
+101995,1199,Male,41.0,Bangalore,Books,Comic,1,505.53,25,2023-02-03,27.16,6,3.0,Cash on Delivery
+100979,1303,Female,25.0,Jaipur,Sports,Football,1,1892.69,10,2023-04-08,34.72,5,3.0,Net Banking
+100761,1326,Male,45.0,Jaipur,Beauty,Shampoo,4,961.33,10,2023-05-09,98.09,4,4.0,Credit Card
+100955,1196,Male,28.0,Kolkata,Fashion,Jacket,1,1715.37,10,2023-05-07,60.79,8,5.0,UPI
+100447,1400,Female,16.0,,Fashion,Jacket,5,477.66,0,2024-11-15,,1,,Debit Card
+100651,1448,Female,35.0,Mumbai,Books,Textbook,1,335.65,20,2024-09-26,123.93,2,3.0,Credit Card
+101252,1101,Male,38.0,patna,Beauty,Hair Dryer,1,901.05,0,2024-12-02,61.43,9,5.0,Debit Card
+101818,1198,Male,41.0,Ahmedabad,Electronics,Headphones,1,15541.61,20,2023-11-09,124.74,5,4.0,Credit Card
+100380,1457,Male,41.0,pune,Beauty,Lipstick,1,953.19,5,2023-02-18,,3,3.0,UPI
+100565,1087,Male,28.0,Ahmedabad,Fashion,Jeans,3,1661.39,15,2024-08-25,132.2,3,5.0,Credit Card
+101351,1201,Female,23.0,,Beauty,Lipstick,1,677.04,15,2024-09-24,,4,4.0,Debit Card
+101762,1066,Female,,Delhi,Home & Kitchen,Lamp,1,4240.47,0,2024-10-02,,4,4.0,Cash on Delivery
+101298,1377,Male,41.0,Pune,Home & Kitchen,Lamp,1,2269.43,5,2024-09-15,47.74,3,4.0,Credit Card
+100957,1125,Female,33.0,Ahmedabad,Fashion,Handbag,1,1281.28,0,2023-12-29,47.94,3,5.0,Debit Card
+101942,1075,Male,38.0,Hyderabad,Home & Kitchen,Cookware Set,1,3860.24,0,2023-09-22,15.82,5,1.0,Credit Card
+100987,1050,Male,58.0,Chennai,Books,Cookbook,1,500.74,25,2024-12-11,61.52,2,,UPI
+100921,1390,Female,30.0,Hyderabad,Beauty,Lipstick,1,1152.74,10,2023-11-05,74.07,3,1.0,Debit Card
+100232,1338,Male,27.0,Hyderabad,Sports,Yoga Mat,5,2151.34,0,2024-04-25,80.44,7,4.0,UPI
+101227,1447,Female,65.0,Mumbai,Books,Cookbook,1,359.62,15,2024-12-09,111.46,3,3.0,
+100383,1230,Female,30.0,Chennai,Books,Comic,1,142.25,15,2023-11-04,10.67,4,3.0,Debit Card
+100655,1146,Female,42.0,Ahmedabad,Beauty,Face Cream,3,544.55,15,2023-09-15,74.6,6,4.0,Credit Card
+101229,1091,Male,57.0,Mumbai,Home & Kitchen,Mixer Grinder,1,2357.84,10,2024-12-02,198.33,3,4.0,Net Banking
+100073,1118,Male,21.0,Mumbai,Electronics,Smartphone,5,15317.03,0,2024-11-05,151.9,6,2.0,Credit Card
+100071,1278,Female,56.0,Kolkata,Electronics,Laptop,1,10165.54,20,2023-03-24,129.99,6,4.0,Net Banking
+101349,1225,Female,45.0,Kolkata,Fashion,Jacket,1,785.13,5,2024-11-21,15.76,5,4.0,Net Banking
+101099,1127,Other,49.0,Chennai,Home & Kitchen,Bedsheet,1,2725.44,5,2023-06-16,47.84,7,4.0,Debit Card
+100172,1005,Female,32.0,Delhi,Electronics,Tablet,1,17065.23,10,2024-05-07,136.5,7,,UPI
+101685,1454,Female,35.0,Delhi,Electronics,Smartphone,1,12394.73,15,2024-06-23,110.32,5,3.0,UPI
+100169,1200,Male,42.0,Jaipur,Sports,Running Shoes,1,2471.66,30,2023-11-24,70.94,6,,Cash on Delivery
+100494,1159,Female,37.0,Ahmedabad,Books,Biography,1,117.45,0,2024-03-17,137.36,6,2.0,Cash on Delivery
+101654,1030,Female,21.0,Patna,Sports,Cricket Bat,1,1654.89,15,2023-08-17,97.35,3,4.0,Net Banking
+101121,1274,Male,36.0,Jaipur,Beauty,Face Cream,1,678.1,10,2023-03-25,48.38,5,5.0,Credit Card
+101616,1030,Female,46.0,Bangalore,Sports,Cricket Bat,76,-1267.2,5,2023-10-15,79.45,4,,Cash on Delivery
+100894,1173,Female,34.0,Bangalore,Beauty,Lipstick,1,1154.54,20,2024-01-05,25.26,7,4.0,Debit Card
+100273,1124,Male,31.0,Delhi,Home & Kitchen,Lamp,1,765.42,5,2023-10-30,87.37,8,4.0,Credit Card
+101310,1495,Female,30.0,Chennai,Beauty,Face Cream,1,506.8,5,2024-02-24,100.36,3,4.0,Credit Card
+100421,1496,Male,26.0,Chennai,Sports,Running Shoes,1,3246.73,10,2023-03-18,111.66,2,5.0,UPI
+100095,1469,Male,22.0,Ahmedabad,Fashion,T-Shirt,1,1356.23,5,2023-07-25,92.64,5,,Net Banking
+101383,1236,Male,28.0,Hyderabad,Electronics,Laptop,1,14645.57,0,2023-02-13,27.51,2,5.0,Cash on Delivery
+101602,1293,Male,29.0,Mumbai,Beauty,Lipstick,1,720.17,25,2024-05-31,64.64,8,5.0,UPI
+101716,1499,Female,20.0,Pune,Books,Textbook,1,403.57,10,2023-09-22,56.69,4,5.0,Net Banking
+100043,1078,Female,39.0,Mumbai,Books,Biography,1,690.78,5,2023-03-10,46.17,5,4.0,Debit Card
+100057,1162,Male,28.0,Jaipur,Beauty,Face Cream,2,624.28,25,2023-11-21,97.92,1,1.0,Cash on Delivery
+101619,1309,Male,30.0,Jaipur,Books,Comic,1,449.24,10,2023-08-02,70.6,3,4.0,Cash on Delivery
+101125,1045,Male,34.0,Ahmedabad,Books,Novel,2,252.62,5,2023-07-14,132.97,6,5.0,Credit Card
+101189,1348,Other,27.0,Bangalore,Fashion,Handbag,1,1711.66,0,2023-02-11,155.69,8,,UPI
+101303,1375,Male,52.0,Hyderabad,Fashion,Jeans,1,1270.56,0,2023-06-09,10.26,7,5.0,Net Banking
+100889,1497,Male,38.0,Hyderabad,Books,Comic,1,429.61,0,2024-07-02,117.4,1,3.0,Debit Card
+100575,1312,Male,,Kolkata,Electronics,Smartwatch,1,14358.82,30,2023-08-24,88.35,6,3.0,Net Banking
+100039,1409,Female,17.0,hyderabad,Fashion,Handbag,2,1143.91,25,2023-03-29,123.57,7,1.0,Net Banking
+100307,1431,Male,16.0,Jaipur,Electronics,Smartwatch,1,15868.96,20,2023-11-18,103.41,5,,UPI
+100669,1010,Female,23.0,Jaipur,Beauty,Perfume,2,705.23,0,2023-04-28,95.24,7,3.0,UPI
+100007,1301,Male,45.0,,Fashion,Sneakers,1,830.26,0,2024-09-16,85.7,6,4.0,Debit Card
+101076,1418,Male,16.0,Jaipur,Books,Textbook,2,468.05,0,2024-12-25,65.82,2,,Debit Card
+100783,1211,Female,18.0,Kolkata,Fashion,Handbag,1,-1875.35,30,2023-11-28,80.63,6,5.0,Credit Card
+100409,1023,Female,22.0,Pune,Books,Biography,1,423.89,15,2024-09-17,77.87,1,5.0,UPI
+101905,1476,Female,35.0,,Books,Biography,1,309.75,20,2023-09-07,49.86,1,5.0,UPI
+100782,1150,Male,28.0,Bangalore,Electronics,Headphones,1,17650.27,5,2024-11-05,57.34,2,5.0,Cash on Delivery
+100167,1483,Female,40.0,Mumbai,Home & Kitchen,Lamp,2,2569.87,0,2023-07-02,79.98,5,5.0,Cash on Delivery
+100535,1441,Female,20.0,Pune,Beauty,Lipstick,2,784.34,5,2023-08-15,50.88,7,5.0,UPI
+100584,1203,Male,16.0,Ahmedabad,Beauty,Hair Dryer,1,306.69,15,2024-07-12,102.67,7,1.0,Cash on Delivery
+101567,1156,Male,19.0,Kolkata,Books,Biography,2,275.19,25,2023-03-19,154.13,3,5.0,Net Banking
+101930,1302,Female,31.0,Chennai,Fashion,Sneakers,1,1384.4,10,2024-06-06,70.59,3,5.0,Cash on Delivery
+101444,1468,Male,24.0,Delhi,Sports,Football,1,2936.73,15,2024-05-26,106.19,3,3.0,Debit Card
+101353,1008,Male,41.0,Mumbai,Fashion,Jacket,1,992.9,25,2023-06-19,150.57,5,5.0,Debit Card
+101128,1452,Female,50.0,Ahmedabad,Electronics,Headphones,1,14100.46,0,2024-10-27,54.83,3,5.0,Net Banking
+101090,1009,Other,44.0,Chennai,Fashion,Handbag,1,1485.64,25,2023-07-16,36.71,3,5.0,Cash on Delivery
+100814,1328,Male,44.0,Delhi,Electronics,Tablet,4,13155.94,20,2023-06-12,69.46,5,5.0,Net Banking
+100317,1232,Other,44.0,Bangalore,Electronics,Tablet,3,22368.22,20,2024-10-30,101.05,3,5.0,Net Banking
+101302,1353,Male,31.0,Mumbai,Fashion,Jacket,1,981.89,20,2023-04-04,68.06,5,3.0,Cash on Delivery
+101748,1083,Female,32.0,Delhi,Sports,Cricket Bat,1,2444.31,5,2023-12-10,,6,4.0,Credit Card
+100517,1487,Female,28.0,Mumbai,Fashion,T-Shirt,2,1401.62,25,2024-07-16,117.39,5,3.0,Net Banking
+101694,1310,Other,45.0,Delhi,Electronics,Headphones,1,10347.76,30,2023-08-28,10.11,5,4.0,Debit Card
+100534,1279,Female,42.0,Hyderabad,Sports,Yoga Mat,1,2777.27,10,2024-02-08,86.83,7,5.0,Debit Card
+101639,1218,Male,16.0,Delhi,Sports,Running Shoes,1,1421.51,5,2024-11-17,99.48,5,3.0,UPI
+100272,1328,Male,50.0,Chennai,Sports,Football,3,1794.62,20,2023-11-24,96.9,6,5.0,Net Banking
+100549,1037,Male,41.0,Delhi,Electronics,Tablet,1,13718.36,5,2024-10-10,35.14,6,1.0,Credit Card
+100965,1346,Female,19.0,Ahmedabad,Sports,Running Shoes,1,2141.36,0,2023-03-01,51.04,6,4.0,Net Banking
+101831,1326,Other,18.0,Kolkata,Beauty,Lipstick,1,919.68,25,2024-03-15,66.91,4,4.0,Debit Card
+101655,1332,Male,35.0,Kolkata,Home & Kitchen,Mixer Grinder,1,1130.31,0,2023-09-27,34.07,6,4.0,Net Banking
+100599,1313,Female,43.0,Ahmedabad,Home & Kitchen,Cookware Set,2,5723.23,20,2023-02-09,86.55,2,3.0,Debit Card
+101628,1264,Male,45.0,Mumbai,Books,Biography,2,468.47,15,2024-12-27,23.4,4,5.0,Credit Card
+100571,1032,Female,41.0,Chennai,Beauty,Shampoo,1,53.26,25,2023-07-22,6.12,4,5.0,Credit Card
+100075,1025,Male,47.0,Chennai,Books,Cookbook,1,281.69,5,2024-07-02,131.49,7,5.0,Net Banking
+100062,1175,Male,24.0,bangalore,Books,Textbook,1,569.75,30,2024-12-03,43.9,4,5.0,Net Banking
+101683,1376,Female,38.0,Patna,Books,Comic,1,538.42,25,2023-05-26,89.73,4,5.0,Net Banking
+100810,1076,Female,,Mumbai,Sports,Running Shoes,2,1516.93,5,2024-12-04,52.59,7,2.0,
+100245,1279,Other,22.0,Hyderabad,Fashion,Jeans,2,1585.32,0,2023-08-31,56.56,5,4.0,UPI
+101118,1494,Female,36.0,Patna,Home & Kitchen,Mixer Grinder,2,2185.08,20,2024-03-08,86.74,5,2.0,Debit Card
+101859,1261,Male,58.0,Patna,Fashion,Handbag,1,1510.31,5,2023-06-19,32.8,2,4.0,Net Banking
+100106,1021,Male,50.0,Delhi,Beauty,Perfume,1,810.42,20,2024-06-05,0.0,1,3.0,UPI
+100674,1295,Other,35.0,Jaipur,Sports,Dumbbells,2,2380.79,10,2023-09-05,122.05,8,4.0,Credit Card
+100643,1146,Male,36.0,Hyderabad,Fashion,Handbag,1,2526.63,30,2024-10-02,148.4,8,4.0,Debit Card
+100675,1188,Female,,Patna,Home & Kitchen,Cookware Set,3,2763.83,10,2023-07-11,55.37,5,3.0,Cash on Delivery
+100666,1035,Female,32.0,ahmedabad,Electronics,Smartphone,1,19372.99,5,2024-02-01,82.94,3,2.0,Debit Card
+100510,1062,Female,35.0,Pune,Fashion,Jacket,1,2184.81,0,2024-12-24,63.87,5,4.0,UPI
+100132,1056,Male,,Delhi,Beauty,Hair Dryer,2,807.85,10,2023-11-05,136.05,5,5.0,Credit Card
+100445,1424,Female,27.0,Bangalore,Home & Kitchen,Cookware Set,1,2930.91,20,2023-07-16,78.41,5,4.0,Debit Card
+100867,1147,Female,38.0,Hyderabad,Sports,Dumbbells,60,2377.92,10,2024-07-02,108.75,5,3.0,Credit Card
+101163,1363,Male,51.0,Patna,Fashion,Jeans,3,2739.07,20,2023-02-01,133.62,4,1.0,Debit Card
+101798,1019,Male,42.0,Patna,Home & Kitchen,Lamp,1,3826.27,0,2024-04-17,46.56,3,4.0,Net Banking
+100058,1184,Female,17.0,Mumbai,Beauty,Shampoo,2,574.15,20,2023-10-06,55.44,7,5.0,Credit Card
+101678,1320,Female,44.0,Jaipur,Beauty,Lipstick,1,735.29,5,2023-09-07,,5,5.0,Credit Card
+101084,1041,Male,53.0,Pune,Fashion,T-Shirt,1,1375.32,5,2023-11-26,178.92,6,4.0,Credit Card
+101945,1418,Female,33.0,Hyderabad,Fashion,Jacket,1,2266.19,10,2023-03-30,84.0,4,3.0,Net Banking
+100087,1196,Male,35.0,Chennai,Home & Kitchen,Mixer Grinder,1,3470.74,30,2023-04-18,103.58,2,3.0,Credit Card
+101872,1139,Male,40.0,Chennai,Beauty,Face Cream,1,708.84,25,2024-11-28,152.97,7,2.0,Credit Card
+100772,1422,Female,20.0,Patna,Books,Biography,1,145.04,15,2023-09-18,46.25,2,5.0,Net Banking
+101402,1284,Female,28.0,Patna,Home & Kitchen,Bedsheet,1,1948.56,10,2024-12-07,15.3,3,5.0,Debit Card
+100709,1226,Female,27.0,Bangalore,Sports,Running Shoes,1,1620.33,5,2024-08-03,117.04,9,5.0,Net Banking
+101576,1172,Other,25.0,Bangalore,Electronics,Smartwatch,1,28145.61,15,2024-08-03,0.0,3,4.0,Net Banking
+101354,1281,Male,39.0,Kolkata,Fashion,Handbag,1,1273.92,0,2023-05-08,47.37,4,4.0,Debit Card
+101581,1419,Female,29.0,Jaipur,Fashion,Jeans,2,2026.19,0,2024-02-01,85.47,4,5.0,Debit Card
+100539,1039,Female,41.0,Mumbai,Books,Textbook,2,753.97,5,2023-09-12,88.35,5,1.0,Net Banking
+101760,1447,Male,29.0,Delhi,Sports,Cricket Bat,4,1396.73,0,2023-11-19,127.28,4,3.0,UPI
+101278,1340,Female,27.0,Ahmedabad,Electronics,Headphones,2,2493.81,0,2024-04-14,41.55,4,4.0,Debit Card
+101572,1037,Female,31.0,Jaipur,Home & Kitchen,Bedsheet,1,3388.03,0,2024-09-20,110.97,6,5.0,Credit Card
+101321,1471,Female,20.0,Pune,Home & Kitchen,Vacuum Cleaner,2,3277.56,15,2023-11-13,85.55,3,3.0,Net Banking
+100419,1426,Female,38.0,patna,Books,Cookbook,1,190.15,10,2023-11-13,92.03,2,5.0,Credit Card
+101867,1431,Female,40.0,Chennai,Fashion,Handbag,1,1672.32,25,2023-09-21,128.07,3,4.0,Net Banking
+101074,1180,Male,33.0,patna,Sports,Running Shoes,1,2870.16,10,2023-08-07,71.0,2,4.0,Debit Card
+101724,1419,Male,49.0,Patna,Home & Kitchen,Mixer Grinder,2,2981.48,0,2024-12-13,71.22,5,4.0,Debit Card
+101295,1028,Male,34.0,Ahmedabad,Beauty,Lipstick,3,615.78,20,2024-01-19,116.08,5,4.0,Credit Card
+100852,1123,Female,18.0,hyderabad,Sports,Dumbbells,1,1003.72,20,2023-05-21,63.63,4,4.0,UPI
+101769,1187,Female,42.0,Bangalore,Fashion,Jeans,1,2033.79,15,2024-04-21,22.45,5,2.0,Cash on Delivery
+101887,1253,Female,31.0,Patna,Beauty,Lipstick,1,541.59,0,2023-10-24,83.3,5,5.0,Net Banking
+101710,1055,Female,41.0,jaipur,Sports,Cricket Bat,1,2635.37,0,2023-11-23,,4,3.0,Credit Card
+101782,1275,Female,48.0,Pune,Electronics,Tablet,3,17349.14,5,2024-06-18,100.61,5,3.0,Debit Card
+101313,1144,Male,25.0,Delhi,Sports,Yoga Mat,2,1797.98,15,2024-05-17,93.86,2,3.0,Net Banking
+101749,1001,Male,42.0,Pune,Electronics,Tablet,1,17679.08,25,2023-07-13,96.48,3,5.0,Net Banking
+101815,1029,Female,38.0,Bangalore,Beauty,Face Cream,1,1226.1,20,2023-05-12,5.75,10,1.0,Debit Card
+100305,1006,Female,29.0,Mumbai,Beauty,Face Cream,1,954.07,30,2023-01-25,203.54,6,4.0,Debit Card
+101532,1321,Male,26.0,Mumbai,Books,Comic,1,502.69,0,2023-11-09,,3,4.0,UPI
+100336,1405,Female,33.0,Jaipur,Beauty,Lipstick,1,438.59,20,2024-07-22,26.16,1,5.0,Net Banking
+100996,1128,Female,20.0,Jaipur,Electronics,Headphones,4,22513.45,5,2023-01-27,63.99,8,5.0,Net Banking
+100570,1421,Female,56.0,Delhi,Electronics,Laptop,1,6280.45,20,2023-01-31,91.46,3,4.0,Cash on Delivery
+100089,1408,Male,,Pune,Sports,Running Shoes,1,1186.3,5,2023-02-11,169.72,4,5.0,Net Banking
+100875,1235,Female,57.0,Ahmedabad,Electronics,Smartphone,1,7617.72,15,2024-05-07,38.47,5,4.0,Credit Card
+101165,1282,Male,37.0,Jaipur,Fashion,Jacket,1,793.03,0,2023-08-16,51.66,3,5.0,UPI
+101540,1183,Male,37.0,Bangalore,Home & Kitchen,Mixer Grinder,1,1673.39,0,2023-10-29,66.25,5,2.0,Debit Card
+100713,1454,Female,56.0,Patna,Fashion,T-Shirt,1,1204.12,5,2024-05-27,139.12,3,5.0,Net Banking
+101766,1448,Male,30.0,,Home & Kitchen,Bedsheet,1,3095.76,5,2024-02-26,68.17,9,4.0,UPI
+101869,1158,Female,40.0,Chennai,Sports,Dumbbells,1,2710.71,20,2024-09-02,142.68,2,3.0,Debit Card
+101396,1098,Female,38.0,Chennai,Books,Comic,1,675.14,0,2023-07-31,15.96,4,2.0,Debit Card
+100222,1094,Female,24.0,Hyderabad,Sports,Yoga Mat,1,2203.51,25,2024-02-10,43.96,8,3.0,Net Banking
+100320,1270,Male,19.0,Ahmedabad,Beauty,Lipstick,5,937.61,0,2023-06-28,136.84,6,4.0,Cash on Delivery
+101775,1456,Female,24.0,Ahmedabad,Books,Biography,1,596.19,10,2024-09-05,63.9,4,5.0,Credit Card
+100879,1351,Male,48.0,Bangalore,Home & Kitchen,Mixer Grinder,1,1889.8,0,2023-11-15,0.0,6,4.0,Credit Card
+101821,1352,Female,42.0,Hyderabad,Fashion,Jacket,1,1346.87,10,2024-12-28,,4,5.0,Net Banking
+100826,1015,Male,23.0,jaipur,Beauty,Face Cream,1,1251.85,10,2023-02-11,133.98,2,4.0,Debit Card
+100614,1057,Male,30.0,Chennai,Fashion,Jacket,1,798.57,25,2023-07-20,87.95,6,,Net Banking
+101482,1331,Female,35.0,Kolkata,Sports,Dumbbells,1,3414.59,20,2024-09-22,115.54,3,3.0,Debit Card
+100139,1353,Female,30.0,Chennai,Home & Kitchen,Bedsheet,2,3338.94,20,2023-05-31,57.35,3,4.0,UPI
+100164,1217,Male,23.0,Delhi,Sports,Football,2,1684.03,10,2024-01-30,124.78,5,4.0,UPI
+101801,1402,Female,35.0,Ahmedabad,Home & Kitchen,Mixer Grinder,2,3861.52,5,2024-12-06,117.15,3,4.0,Net Banking
+101465,1170,Female,16.0,Ahmedabad,Books,Comic,3,491.91,25,2023-03-30,87.39,6,,Credit Card
+100961,1294,Female,44.0,Jaipur,Books,Biography,1,250.91,0,2024-01-09,65.01,7,3.0,Net Banking
+101455,1433,Male,32.0,Ahmedabad,Sports,Cricket Bat,2,1628.53,5,2024-05-09,96.28,8,5.0,Credit Card
+101925,1343,Female,39.0,Kolkata,Home & Kitchen,Bedsheet,1,1371.11,10,2024-11-11,112.24,6,1.0,Net Banking
+101193,1329,Female,43.0,Patna,Books,Comic,1,271.99,10,2024-04-23,56.65,6,3.0,UPI
+101950,1115,Male,23.0,Pune,Books,Comic,1,487.47,10,2024-12-03,86.84,2,2.0,Cash on Delivery
+101314,1332,Female,,Patna,Sports,Running Shoes,2,2363.81,10,2023-01-22,75.07,5,5.0,Net Banking
+101824,1335,Female,28.0,Ahmedabad,Electronics,Laptop,1,12377.9,20,2024-05-04,119.27,1,4.0,Net Banking
+100634,1261,Female,16.0,Delhi,Beauty,Hair Dryer,1,1156.28,0,2023-06-05,155.49,4,,UPI
+101202,1237,Female,28.0,Delhi,Electronics,Laptop,1,20333.0,20,2024-03-24,44.24,5,5.0,Credit Card
+100656,1104,Female,27.0,Delhi,Books,Cookbook,3,394.1,5,2023-07-14,58.13,5,,Cash on Delivery
+100017,1075,Female,,Ahmedabad,Fashion,Handbag,1,1650.06,20,2023-09-02,124.25,5,5.0,Net Banking
+101649,1072,Male,21.0,Kolkata,Books,Novel,1,9693.680686661313,5,2023-06-23,134.24,8,5.0,Cash on Delivery
+101179,1034,Male,27.0,Chennai,Fashion,Sneakers,1,901.62,0,2023-01-04,50.71,4,4.0,Net Banking
+100138,1164,Female,38.0,Chennai,Fashion,Jacket,1,1075.02,10,2024-08-08,87.15,3,2.0,Credit Card
+101239,1392,Male,31.0,Hyderabad,Sports,Football,1,1540.91,20,2023-10-08,118.6,4,4.0,Cash on Delivery
+100698,1186,Female,30.0,Bangalore,Sports,Football,1,1589.08,0,2023-02-21,70.98,6,4.0,Cash on Delivery
+101098,1463,Female,48.0,Mumbai,Home & Kitchen,Mixer Grinder,5,4345.04,5,2023-08-28,82.9,9,3.0,Net Banking
+101634,1357,Male,36.0,Hyderabad,Electronics,Laptop,1,14767.21,5,2023-06-09,94.64,5,4.0,Debit Card
+100449,1286,Male,32.0,Hyderabad,Sports,Running Shoes,1,766.6,10,2024-01-10,54.25,3,5.0,Debit Card
+101915,1261,Female,42.0,Kolkata,Electronics,Headphones,4,15988.5,0,2023-07-19,110.92,5,4.0,UPI
+100328,1101,Other,25.0,Mumbai,Sports,Cricket Bat,1,1480.12,20,2023-02-23,117.07,4,3.0,Debit Card
+100318,1263,Female,58.0,Chennai,Beauty,Perfume,1,817.91,0,2024-11-11,63.15,6,1.0,Credit Card
+101546,1429,Male,40.0,Jaipur,Electronics,Tablet,1,16424.62,10,2024-12-30,0.0,5,2.0,Credit Card
+100527,1258,Female,42.0,Pune,Sports,Dumbbells,1,2174.11,0,2024-10-25,68.86,7,3.0,Cash on Delivery
+100088,1437,Male,37.0,Delhi,Electronics,Laptop,1,17576.53,10,2024-01-21,93.43,1,5.0,UPI
+101288,1279,Other,40.0,Ahmedabad,Books,Textbook,1,538.62,15,2024-05-02,115.69,7,5.0,UPI
+100149,1207,Male,31.0,Kolkata,Home & Kitchen,Bedsheet,2,3533.48,25,2024-01-29,91.53,4,3.0,Cash on Delivery
+101641,1225,Female,20.0,Delhi,Home & Kitchen,Vacuum Cleaner,1,3680.96,0,2024-05-30,,2,5.0,Credit Card
+101222,1115,Female,16.0,bangalore,Books,Comic,1,504.35,0,2024-04-13,6.47,7,4.0,Cash on Delivery
+101477,1216,Male,45.0,Kolkata,Fashion,Jacket,1,1448.78,15,2023-04-07,92.68,5,2.0,Cash on Delivery
+100366,1090,Female,25.0,hyderabad,Beauty,Hair Dryer,1,1175.27,30,2023-03-28,47.83,3,5.0,Debit Card
+100590,1212,Female,23.0,Jaipur,Beauty,Lipstick,1,974.87,10,2023-01-26,53.57,5,3.0,UPI
+101528,1409,Male,31.0,Mumbai,Electronics,Smartwatch,2,10562.91,10,2024-08-08,28.24,2,,Cash on Delivery
+100199,1254,Male,43.0,Chennai,Home & Kitchen,Mixer Grinder,3,1870.65,0,2023-07-10,47.62,6,4.0,Debit Card
+101953,1435,Male,39.0,Ahmedabad,Books,Novel,1,459.47,20,2023-10-30,131.27,3,4.0,
+100193,1145,Other,44.0,Pune,Electronics,Headphones,1,12543.12,20,2023-02-19,105.18,5,4.0,Net Banking
+100405,1434,Male,58.0,Pune,Beauty,Perfume,1,932.95,5,2024-07-12,68.67,6,5.0,UPI
+101592,1029,Female,21.0,Delhi,Fashion,Handbag,2,2045.27,10,2023-12-26,87.6,7,4.0,Debit Card
+100448,1336,Male,37.0,Pune,Electronics,Headphones,1,6935.55,0,2023-01-09,116.09,6,4.0,Debit Card
+100484,1147,Female,28.0,Jaipur,Beauty,Perfume,1,624.7,0,2024-09-11,50.55,4,5.0,Credit Card
+101476,1113,Female,31.0,Patna,Beauty,Perfume,3,502.88,10,2024-10-31,91.07,4,4.0,Debit Card
+100792,1371,Female,48.0,kolkata,Electronics,Headphones,1,16114.92,30,2024-02-10,81.26,3,3.0,Net Banking
+100800,1366,Female,31.0,Chennai,Fashion,Handbag,1,2271.62,0,2024-02-14,85.57,2,4.0,Debit Card
+100385,1289,Female,,Jaipur,Beauty,Hair Dryer,1,513.21,10,2023-12-30,104.28,5,5.0,Cash on Delivery
+100751,1161,Male,43.0,Delhi,Beauty,Lipstick,2,951.78,5,2024-07-14,90.1,6,2.0,UPI
+100423,1358,Male,33.0,Jaipur,Home & Kitchen,Lamp,1,3326.94,25,2024-07-18,44.08,1,5.0,Net Banking
+100315,1451,Female,55.0,Chennai,Sports,Dumbbells,2,1971.76,15,2023-09-27,65.68,2,5.0,
+101022,1445,Female,,Chennai,Fashion,Jeans,1,1714.09,20,2024-10-24,122.67,5,4.0,Cash on Delivery
+100544,1495,Female,,Mumbai,Sports,Running Shoes,3,2792.44,0,2024-04-14,111.3,8,3.0,Cash on Delivery
+100914,1163,Male,38.0,Delhi,Fashion,Jeans,4,1540.41,0,2023-07-27,78.35,8,4.0,Debit Card
+100663,1064,Male,35.0,Chennai,Fashion,T-Shirt,1,1848.13,5,2024-06-20,74.32,4,1.0,UPI
+100903,1017,Female,49.0,Pune,Home & Kitchen,Mixer Grinder,1,3547.34,5,2023-06-14,104.9,1,5.0,Cash on Delivery
+101413,1062,Female,31.0,Chennai,Electronics,Smartphone,1,13191.5,30,2023-08-08,128.27,4,2.0,Debit Card
+100686,1473,Male,24.0,Ahmedabad,Beauty,Lipstick,5,1058.62,30,2023-01-26,49.91,4,5.0,UPI
+101697,1051,Female,57.0,bangalore,Electronics,Headphones,1,25023.13,10,2024-09-11,37.02,4,5.0,UPI
+100160,1190,Other,48.0,delhi,Electronics,Smartphone,1,10062.22,20,2023-01-28,76.37,4,4.0,Net Banking
+101000,1339,Female,41.0,Pune,Sports,Yoga Mat,1,2741.41,30,2023-05-07,60.88,2,4.0,Net Banking
+101554,1218,Female,33.0,Bangalore,Home & Kitchen,Bedsheet,4,3777.09,20,2023-10-13,77.6,1,5.0,Credit Card
+101797,1220,Female,42.0,Chennai,Beauty,Hair Dryer,1,727.0,0,2023-10-27,128.87,3,,Net Banking
+100203,1271,Male,16.0,Bangalore,Sports,Dumbbells,1,2009.85,5,2024-05-20,72.93,5,4.0,UPI
+101024,1135,Female,52.0,Hyderabad,Electronics,Smartphone,4,11177.87,0,2024-03-04,65.07,4,4.0,UPI
+101551,1227,Male,36.0,Mumbai,Fashion,Sneakers,1,1638.06,0,2023-07-15,44.78,1,4.0,Cash on Delivery
+101600,1321,Female,40.0,mumbai,Electronics,Smartwatch,2,17109.78,10,2023-08-20,135.71,1,,UPI
+100113,1464,Male,32.0,Hyderabad,Electronics,Tablet,1,1078.53,0,2023-12-02,32.19,7,5.0,Net Banking
+101827,1224,Female,23.0,Mumbai,Electronics,Smartphone,2,13437.45,15,2023-04-17,97.4,4,2.0,Cash on Delivery
+101248,1063,Female,36.0,Patna,Electronics,Smartphone,1,23838.67,10,2024-08-11,109.07,3,5.0,Cash on Delivery
+100981,1046,Female,23.0,Delhi,Beauty,Lipstick,2,881.32,5,2024-03-29,117.37,2,4.0,Cash on Delivery
+100923,1307,Female,40.0,Hyderabad,Home & Kitchen,Lamp,1,2445.04,0,2023-03-17,77.47,5,4.0,Debit Card
+101500,1038,Female,35.0,Hyderabad,Beauty,Shampoo,1,716.01,0,2023-08-26,72.37,4,1.0,Credit Card
+101607,1446,Male,47.0,mumbai,Electronics,Headphones,1,16954.85,10,2023-01-08,65.47,2,3.0,UPI
+101433,1436,Female,47.0,Bangalore,Fashion,Jacket,1,1724.5,30,2024-10-06,128.72,4,,Credit Card
+101257,1006,Male,40.0,Chennai,Fashion,Jacket,2,2373.42,10,2023-02-06,118.98,4,4.0,UPI
+100816,1259,Male,33.0,Jaipur,Fashion,Sneakers,3,903.71,10,2024-10-01,107.4,1,3.0,Debit Card
+101380,1260,Male,16.0,,Electronics,Tablet,2,17628.61,0,2023-06-22,47.36,4,5.0,Debit Card
+101305,1158,Female,48.0,Patna,Books,Textbook,2,407.09,15,2023-12-22,56.66,5,5.0,Credit Card
+100680,1450,Male,50.0,Mumbai,Fashion,Jeans,1,1779.51,30,2024-03-24,0.0,5,3.0,UPI
+101094,1358,Male,31.0,Delhi,Beauty,Shampoo,4,1022.93,30,2023-05-15,117.87,4,2.0,Cash on Delivery
+100081,1236,Female,26.0,Pune,Home & Kitchen,Cookware Set,1,1590.72,10,2023-11-28,91.15,2,5.0,Debit Card
+101780,1450,Male,34.0,Patna,Sports,Running Shoes,1,3475.12,0,2023-02-15,69.68,7,3.0,Net Banking
+101738,1256,Male,38.0,Mumbai,Beauty,Lipstick,1,1039.84,10,2023-09-22,81.18,3,3.0,UPI
+101550,1238,Female,39.0,Pune,Sports,Football,2,2442.83,0,2024-02-29,61.46,6,5.0,UPI
+100753,1085,Female,22.0,bangalore,Home & Kitchen,Mixer Grinder,2,3477.02,0,2023-06-05,99.08,6,5.0,
+101333,1353,Female,32.0,Bangalore,Electronics,Laptop,1,20550.98,20,2023-09-21,41.58,4,4.0,Debit Card
+101055,1170,Male,36.0,Ahmedabad,Fashion,Sneakers,1,1790.78,15,2023-05-13,90.61,5,5.0,Credit Card
+100243,1391,Male,25.0,Pune,Fashion,Jeans,4,1547.33,5,2023-02-14,125.61,7,1.0,Cash on Delivery
+101355,1480,Male,57.0,Ahmedabad,Home & Kitchen,Mixer Grinder,2,768.12,25,2024-11-24,62.51,3,5.0,Net Banking
+100642,1079,Male,37.0,Patna,Beauty,Lipstick,1,677.42,20,2024-03-11,,3,3.0,Cash on Delivery
+100697,1013,Female,31.0,Chennai,Home & Kitchen,Bedsheet,2,1426.95,0,2024-02-17,204.67,5,2.0,Debit Card
+100210,1421,Male,42.0,Delhi,Sports,Yoga Mat,5,2088.81,0,2023-03-31,58.14,1,4.0,Credit Card
+100858,1333,Male,19.0,Delhi,Beauty,Face Cream,1,947.69,15,2024-06-14,78.25,2,1.0,Net Banking
+100771,1486,Female,61.0,Jaipur,Sports,Yoga Mat,1,3142.89,5,2023-02-21,76.15,1,5.0,Credit Card
+101774,1113,Male,38.0,Mumbai,Books,Cookbook,1,187.82,15,2023-11-22,117.87,5,3.0,UPI
+100436,1147,Male,,Kolkata,Books,Textbook,1,321.47,5,2023-01-30,145.46,6,5.0,Net Banking
+101064,1213,Male,35.0,Hyderabad,Beauty,Perfume,1,961.26,15,2024-12-27,63.53,6,5.0,Net Banking
+100975,1197,Male,41.0,Ahmedabad,Home & Kitchen,Bedsheet,1,3829.59,5,2024-02-13,57.86,5,4.0,Debit Card
+100552,1441,Other,34.0,Jaipur,Electronics,Laptop,1,21412.12,5,2023-12-16,141.05,5,5.0,Debit Card
+101410,1378,Male,37.0,Pune,Beauty,Lipstick,3,823.91,20,2024-06-21,109.63,7,4.0,Cash on Delivery
+101523,1467,Male,45.0,,Electronics,Smartwatch,1,20612.46,15,2023-08-12,68.44,5,5.0,Debit Card
+101014,1487,Female,47.0,Ahmedabad,Books,Biography,2,407.41,0,2023-03-25,74.59,4,5.0,Net Banking
+101906,1408,Male,45.0,Chennai,Beauty,Face Cream,1,1241.35,25,2023-09-27,100.18,6,2.0,Cash on Delivery
+100467,1124,Male,22.0,Mumbai,Books,Textbook,1,542.73,0,2024-10-12,50.77,5,4.0,
+101491,1479,Female,33.0,Delhi,Books,Novel,1,205.51,0,2024-08-10,91.33,7,5.0,UPI
+101320,1058,Female,38.0,Mumbai,Electronics,Smartwatch,1,10826.92,0,2024-09-04,30.93,3,4.0,
+100278,1328,Female,47.0,Patna,Sports,Dumbbells,1,2517.74,15,2023-08-09,84.75,6,3.0,Net Banking
+101070,1427,Male,24.0,Mumbai,Sports,Running Shoes,1,845.54,0,2023-10-21,10.53,3,5.0,UPI
+101018,1115,Male,49.0,Kolkata,Fashion,Jacket,1,1513.95,25,2024-07-13,61.73,7,4.0,Debit Card
+101356,1192,Male,38.0,bangalore,Fashion,Sneakers,1,1582.13,0,2024-12-29,140.87,4,5.0,Debit Card
+100723,1400,Female,23.0,Pune,Fashion,Handbag,1,1169.59,30,2024-02-11,98.69,7,,Net Banking
+101973,1036,Male,32.0,Pune,Sports,Football,2,1756.21,15,2023-09-22,24.19,9,5.0,Net Banking
+100787,1307,Male,31.0,Pune,Electronics,Smartwatch,1,14804.05,0,2024-03-02,67.16,3,5.0,Credit Card
+101563,1371,Female,43.0,Bangalore,Books,Biography,1,518.07,5,2023-11-11,136.9,1,,Debit Card
+101777,1274,Male,43.0,Delhi,Books,Cookbook,1,319.92,0,2023-05-02,133.31,8,3.0,Net Banking
+101450,1280,Male,20.0,Delhi,Fashion,Jeans,1,1084.51,0,2024-08-30,0.0,7,3.0,Debit Card
+101317,1303,Female,32.0,pune,Electronics,Smartwatch,1,9572.22,10,2024-03-08,151.77,7,,Net Banking
+100907,1346,Female,41.0,Kolkata,Books,Comic,1,484.37,0,2023-08-21,62.4,2,3.0,Net Banking
+100564,1248,Female,19.0,Chennai,Home & Kitchen,Mixer Grinder,1,2455.21,0,2023-07-06,46.29,6,,Cash on Delivery
+100389,1363,Male,45.0,Delhi,Fashion,Jeans,1,1319.64,10,2024-10-04,74.68,4,4.0,Net Banking
+100023,1466,Female,28.0,Ahmedabad,Electronics,Laptop,1,20900.27,25,2023-07-20,165.17,2,5.0,UPI
+101735,1317,Female,41.0,Ahmedabad,Fashion,Sneakers,1,363.86,10,2024-10-17,26.51,3,3.0,Net Banking
+100125,1442,Male,40.0,Hyderabad,Home & Kitchen,Mixer Grinder,5,2446.95,30,2024-04-27,50.71,6,5.0,Credit Card
+101260,1180,Male,26.0,Pune,Beauty,Perfume,1,803.81,20,2024-02-17,106.58,7,3.0,Cash on Delivery
+100774,1458,Female,37.0,Kolkata,Home & Kitchen,Lamp,2,2402.75,10,2023-11-19,98.07,4,3.0,Cash on Delivery
+100881,1192,Male,16.0,Patna,Beauty,Lipstick,1,234.77,0,2024-01-05,105.74,9,3.0,Cash on Delivery
+101145,1333,Male,25.0,Jaipur,Books,Novel,1,152.23,15,2023-01-12,64.22,5,4.0,Debit Card
+101167,1220,Female,41.0,Delhi,Books,Novel,1,520.07,10,2023-09-23,44.51,9,3.0,UPI
+100051,1096,Female,48.0,,Sports,Cricket Bat,1,1449.4,20,2024-09-15,72.83,4,5.0,Net Banking
+101657,1168,Female,25.0,Chennai,Books,Comic,1,451.36,0,2023-06-04,37.61,2,3.0,Debit Card
+101767,1266,Female,16.0,Bangalore,Fashion,Sneakers,1,2021.82,10,2024-08-22,29.09,7,4.0,UPI
+101106,1434,Female,37.0,Mumbai,Fashion,T-Shirt,2,1723.06,0,2024-07-28,74.23,6,4.0,Debit Card
+100704,1401,Female,21.0,Kolkata,Electronics,Laptop,1,14909.24,5,2024-12-07,59.0,1,4.0,Credit Card
+100483,1424,Male,16.0,Bangalore,Sports,Football,1,2274.44,25,2023-10-30,68.99,5,,Net Banking
+101146,1462,Female,42.0,Chennai,Sports,Cricket Bat,2,1931.52,20,2024-11-03,72.71,7,5.0,UPI
+101931,1110,Female,35.0,Pune,Electronics,Tablet,1,21005.45,20,2023-03-14,112.57,7,4.0,UPI
+100067,1245,Male,34.0,Patna,Fashion,T-Shirt,1,956.58,10,2023-07-20,17.46,6,5.0,UPI
+101740,1368,Female,37.0,Bangalore,Fashion,Handbag,3,810.38,25,2024-10-17,154.72,7,3.0,Cash on Delivery
+100734,1020,Male,26.0,Patna,Fashion,Jacket,1,1114.97,25,2023-01-13,110.74,4,4.0,Cash on Delivery
+101804,1256,Female,37.0,Kolkata,Fashion,Jacket,1,2013.53,25,2024-05-25,77.35,4,,Debit Card
+100802,1405,Female,44.0,Patna,Beauty,Face Cream,2,436.62,25,2024-08-08,72.08,1,1.0,Net Banking
+101564,1164,Female,34.0,Ahmedabad,Home & Kitchen,Lamp,1,2720.03,5,2024-10-08,90.89,5,3.0,Debit Card
+101485,1371,Female,26.0,Ahmedabad,Home & Kitchen,Cookware Set,1,3540.17,0,2024-03-24,83.9,7,5.0,Debit Card
+100908,1329,Male,71.0,Delhi,Home & Kitchen,Vacuum Cleaner,1,2868.65,20,2023-11-28,113.8,4,4.0,Credit Card
+100032,1045,Female,26.0,Bangalore,Beauty,Shampoo,1,617.35,10,2023-12-14,92.17,5,5.0,
+100418,1317,Female,22.0,Hyderabad,Home & Kitchen,Mixer Grinder,1,2855.22,10,2024-03-31,70.55,5,2.0,Debit Card
+100882,1467,Female,35.0,Kolkata,Books,Textbook,1,321.87,5,2024-02-18,47.27,4,5.0,Net Banking
+100633,1059,Male,39.0,Delhi,Beauty,Face Cream,1,1187.28,15,2024-06-30,109.71,4,,Debit Card
+101579,1308,Female,30.0,Patna,Electronics,Laptop,1,19553.85,20,2023-11-14,129.64,3,4.0,Debit Card
+101454,1398,Male,16.0,Kolkata,Books,Comic,1,363.06,30,2023-12-03,69.72,3,5.0,Credit Card
+100065,1085,Male,29.0,Chennai,Fashion,Handbag,1,1664.89,0,2024-11-15,46.93,3,3.0,Cash on Delivery
+101723,1108,Male,60.0,Bangalore,Electronics,Smartwatch,1,328.87,0,2023-09-17,65.41,3,2.0,Net Banking
+101625,1299,Male,30.0,Ahmedabad,Fashion,Handbag,1,1659.59,0,2024-06-10,102.81,5,5.0,UPI
+100078,1326,Female,53.0,Pune,Home & Kitchen,Mixer Grinder,2,2601.2,20,2024-01-03,137.1,8,1.0,Credit Card
+100492,1000,Other,38.0,Pune,Fashion,Handbag,1,698.54,10,2023-02-16,145.11,9,3.0,Credit Card
+101684,1379,Female,29.0,Delhi,Beauty,Hair Dryer,3,866.56,15,2024-12-20,87.37,5,3.0,Credit Card
+101759,1030,Female,67.0,Chennai,Books,Cookbook,1,439.5,5,2024-11-22,25.5,2,3.0,UPI
+100533,1349,Male,63.0,Pune,Home & Kitchen,Bedsheet,2,2374.51,0,2024-05-28,60.52,8,5.0,Credit Card
+100066,1286,Male,32.0,Delhi,Sports,Dumbbells,1,1828.46,5,2024-07-21,40.96,3,4.0,Credit Card
+101709,1426,Female,23.0,Hyderabad,Electronics,Smartphone,1,10291.97,0,2023-02-06,88.55,3,4.0,Credit Card
+100297,1419,Female,43.0,Hyderabad,Electronics,Smartphone,1,20339.13,15,2024-06-15,169.36,7,5.0,UPI
+100592,1462,Male,34.0,Delhi,Home & Kitchen,Vacuum Cleaner,2,3404.58,0,2023-04-05,126.72,2,5.0,UPI
+100768,1459,Female,29.0,Delhi,Books,Biography,1,316.2,10,2024-03-14,100.77,2,3.0,Debit Card
+100725,1359,Female,49.0,Patna,Books,Biography,1,216.32,10,2024-08-08,80.44,1,4.0,Debit Card
+101938,1220,Female,42.0,Mumbai,Books,Biography,3,300.64,0,2024-10-20,7.53,8,5.0,Debit Card
+100627,1469,Female,59.0,Kolkata,Books,Cookbook,2,363.04,15,2024-12-13,76.21,2,5.0,Net Banking
+100632,1433,Male,49.0,Pune,Beauty,Shampoo,3,83.85,10,2023-05-19,88.23,6,5.0,UPI
+101967,1174,Female,21.0,Kolkata,Fashion,Jacket,2,1433.39,15,2023-12-12,121.14,7,5.0,UPI
+101213,1433,Male,16.0,Patna,Electronics,Smartwatch,1,19203.78,20,2023-03-27,65.4,2,2.0,UPI
+101750,1377,Male,35.0,Ahmedabad,Beauty,Hair Dryer,1,581.45,10,2023-01-02,82.43,5,4.0,UPI
+100252,1119,Female,24.0,Hyderabad,Home & Kitchen,Cookware Set,1,4933.32,15,2023-06-13,149.1,4,4.0,Cash on Delivery
+101839,1288,Female,38.0,Chennai,Beauty,Shampoo,5,1099.83,0,2023-06-02,153.58,3,1.0,Cash on Delivery
+101328,1353,Female,28.0,Mumbai,Beauty,Lipstick,1,404.5,5,2024-02-08,36.03,1,4.0,Cash on Delivery
+101923,1148,Male,27.0,Hyderabad,Sports,Football,2,2504.05,10,2023-03-04,90.76,6,5.0,Debit Card
+100983,1383,Male,56.0,Delhi,Sports,Running Shoes,1,2985.21,30,2023-09-17,86.5,5,2.0,Debit Card
+101792,1087,Male,18.0,Pune,Fashion,Jacket,1,1315.41,0,2024-02-01,46.37,4,1.0,Net Banking
+100707,1460,Male,30.0,Pune,Beauty,Face Cream,1,426.98,0,2023-10-28,0.0,7,3.0,Net Banking
+100488,1048,Female,16.0,Delhi,Beauty,Perfume,1,668.16,15,2024-01-05,95.31,3,5.0,Debit Card
+100274,1320,Female,26.0,Patna,Home & Kitchen,Cookware Set,5,1320.05,15,2024-06-07,78.7,7,,Net Banking
+101521,1373,Male,16.0,Pune,Sports,Football,2,1737.27,20,2024-04-12,34.67,3,5.0,
+101688,1127,Female,40.0,Mumbai,Home & Kitchen,Vacuum Cleaner,0,2231.78,15,2024-04-22,26.53,4,2.0,Net Banking
+100964,1059,Female,47.0,Kolkata,Home & Kitchen,Bedsheet,2,1088.09,20,2024-10-08,41.63,4,5.0,Cash on Delivery
+100878,1043,Female,47.0,Delhi,Electronics,Headphones,1,4391.12,20,2023-02-16,79.59,6,,
+101498,1323,Male,34.0,Patna,Sports,Yoga Mat,1,2002.31,30,2024-03-06,64.95,2,4.0,Debit Card
+101832,1284,Female,42.0,Patna,Books,Comic,1,674.55,0,2024-09-18,15.07,4,4.0,Debit Card
+100412,1183,Other,27.0,Pune,Electronics,Laptop,1,11977.27,15,2024-12-18,123.45,3,4.0,Net Banking
+100668,1478,Male,24.0,Ahmedabad,Beauty,Hair Dryer,1,834.83,5,2023-05-03,72.68,3,1.0,Debit Card
+101263,1011,Male,36.0,Chennai,Sports,Dumbbells,1,2279.27,0,2023-09-15,38.04,7,5.0,UPI
+100150,1137,Female,41.0,Mumbai,Books,Cookbook,1,151.22,0,2023-03-04,81.86,6,3.0,Credit Card
+100645,1168,Female,52.0,Pune,Sports,Running Shoes,1,3678.16,20,2023-09-14,33.25,4,,Net Banking
+101623,1183,Male,22.0,Patna,Beauty,Hair Dryer,2,1317.64,20,2024-01-03,97.67,8,2.0,Cash on Delivery
+100219,1425,Male,32.0,Jaipur,Sports,Football,3,3115.04,15,2023-03-19,52.04,5,5.0,Credit Card
+100240,1117,Female,,Ahmedabad,Books,Comic,1,440.16,0,2024-07-10,136.45,4,4.0,Debit Card
+101132,1059,Female,25.0,Chennai,Fashion,Jeans,1,1041.16,10,2023-08-29,77.14,3,3.0,UPI
+101217,1463,Male,25.0,Mumbai,Electronics,Laptop,1,15760.89,30,2024-10-21,91.6,3,4.0,Credit Card
+100793,1253,Female,16.0,Kolkata,Electronics,Laptop,1,5219.56,30,2023-04-08,145.58,8,4.0,Debit Card
+100192,1379,Male,35.0,Bangalore,Fashion,T-Shirt,1,1481.9,5,2023-09-07,96.29,5,3.0,Debit Card
+100334,1141,Male,29.0,Bangalore,Electronics,Headphones,1,15697.18,10,2024-12-21,51.95,5,4.0,Net Banking
+101335,1283,Female,36.0,Ahmedabad,Beauty,Shampoo,1,336.64,20,2024-12-23,133.72,5,,Net Banking
+101559,1285,Male,25.0,Delhi,Electronics,Tablet,3,14861.47,0,2024-11-27,114.77,1,4.0,UPI
+100963,1475,Male,27.0,Hyderabad,Electronics,Smartphone,1,20397.63,20,2024-10-03,84.56,6,4.0,Debit Card
+101334,1422,Female,26.0,Hyderabad,Beauty,Face Cream,2,881.02,25,2023-02-10,48.68,4,5.0,UPI
+101971,1399,Male,40.0,Pune,Fashion,Jeans,3,2399.12,0,2023-02-15,,6,5.0,UPI
+101687,1202,Female,57.0,Ahmedabad,Home & Kitchen,Bedsheet,1,2799.93,10,2023-10-29,80.98,6,3.0,Cash on Delivery
+101635,1116,Male,46.0,Delhi,Sports,Running Shoes,1,2234.81,30,2024-04-23,54.57,4,4.0,UPI
+100583,1132,Female,,Hyderabad,Electronics,Smartwatch,2,15587.79,0,2023-04-27,51.3,4,4.0,Net Banking
+101929,1199,Male,39.0,Mumbai,Home & Kitchen,Mixer Grinder,1,3544.84,0,2024-09-09,57.83,4,2.0,Credit Card
+101449,1435,Female,25.0,Kolkata,Sports,Cricket Bat,1,2886.85,25,2023-11-23,116.71,3,1.0,Credit Card
+100840,1382,Female,39.0,Mumbai,Beauty,Face Cream,1,634.91,0,2024-09-07,87.35,7,5.0,UPI
+100628,1190,Female,21.0,Mumbai,Electronics,Headphones,1,13078.86,5,2023-06-27,21.81,3,4.0,Cash on Delivery
+100324,1496,Female,32.0,Patna,Home & Kitchen,Cookware Set,1,3573.17,20,2023-12-09,54.98,7,5.0,Credit Card
+101661,1157,Male,30.0,Hyderabad,Fashion,T-Shirt,3,1412.46,10,2023-09-18,86.33,2,4.0,UPI
+101161,1115,Female,45.0,Delhi,Fashion,Sneakers,1,1535.39,0,2023-04-03,83.01,5,5.0,Net Banking
+100779,1064,Female,47.0,,Sports,Yoga Mat,3,2201.58,10,2024-08-27,77.83,6,1.0,Cash on Delivery
+101077,1039,Female,25.0,Ahmedabad,Beauty,Face Cream,3,811.93,15,2023-05-08,38.67,3,,Cash on Delivery
+100940,1378,Male,34.0,Delhi,Fashion,Jeans,1,1094.07,0,2024-11-21,61.24,5,3.0,Credit Card
+100438,1059,Male,31.0,Hyderabad,Electronics,Laptop,2,3236.3,0,2024-09-22,115.99,6,4.0,Credit Card
+100120,1283,Male,34.0,Pune,Books,Cookbook,1,515.39,0,2023-11-14,0.0,5,5.0,Net Banking
+101853,1302,Other,16.0,Hyderabad,Electronics,Headphones,1,15537.81,0,2023-11-22,60.78,9,5.0,Net Banking
+101601,1075,Male,30.0,Bangalore,Home & Kitchen,Cookware Set,1,2843.58,0,2023-11-22,81.59,6,4.0,Net Banking
+101027,1063,Female,28.0,Patna,Fashion,Jacket,1,1027.67,10,2023-08-27,82.13,5,5.0,Debit Card
+101254,1209,Female,38.0,Ahmedabad,Fashion,Jacket,1,1577.63,5,2023-12-11,3.64,2,4.0,UPI
+101533,1297,Female,26.0,Chennai,Sports,Dumbbells,1,1501.36,5,2024-10-29,36.19,4,3.0,Credit Card
+100077,1234,Other,29.0,Mumbai,Sports,Yoga Mat,1,1186.54,15,2024-04-15,81.24,4,5.0,Cash on Delivery
+101054,1238,Male,22.0,Delhi,Electronics,Tablet,1,15440.39,10,2024-11-22,45.02,2,5.0,UPI
+100901,1032,Male,40.0,Mumbai,Sports,Yoga Mat,1,3063.36,15,2024-07-05,147.97,3,4.0,Cash on Delivery
+100372,1177,Male,23.0,Ahmedabad,Sports,Running Shoes,3,2444.3,5,2023-11-05,61.53,6,4.0,Cash on Delivery
+101883,1489,Female,46.0,Bangalore,Books,Textbook,1,412.26,5,2024-09-06,32.24,1,5.0,UPI
+101456,1362,Male,41.0,Bangalore,Books,Biography,1,515.64,30,2024-09-16,30.03,5,3.0,Net Banking
+101998,1182,Female,50.0,Chennai,Sports,Running Shoes,2,1397.88,5,2024-06-10,79.01,1,2.0,Debit Card
+100942,1093,Male,40.0,Kolkata,Fashion,Handbag,1,1777.07,5,2024-02-01,44.19,2,4.0,Debit Card
+100578,1269,Male,48.0,Ahmedabad,Electronics,Smartphone,1,12455.62,15,2024-04-09,45.88,4,3.0,Cash on Delivery
+100820,1283,Female,45.0,Mumbai,Sports,Yoga Mat,1,1640.94,5,2024-09-14,,4,2.0,Credit Card
+101908,1220,Other,18.0,Jaipur,Electronics,Laptop,1,15810.31,0,2024-11-22,113.22,6,5.0,Credit Card
+101505,1415,Female,34.0,Patna,Fashion,Jeans,1,963.8,15,2023-01-09,52.37,6,3.0,UPI
+101752,1300,Other,59.0,Patna,Electronics,Tablet,1,19377.03,25,2023-09-06,66.68,1,3.0,Net Banking
+101714,1448,Female,54.0,Delhi,Home & Kitchen,Lamp,1,2156.59,15,2024-06-27,52.3,8,5.0,Debit Card
+100887,1047,Female,29.0,Ahmedabad,Sports,Cricket Bat,1,804.79,0,2024-09-10,84.33,6,3.0,Cash on Delivery
+100969,1285,Female,55.0,Delhi,Beauty,Perfume,1,1115.07,5,2023-01-22,81.8,2,5.0,Net Banking
+101823,1060,Male,23.0,Pune,Sports,Football,4,3038.94,0,2024-01-08,73.69,7,5.0,Net Banking
+100786,1115,Male,32.0,Mumbai,Home & Kitchen,Cookware Set,1,5109.13,10,2024-03-01,88.39,3,4.0,Credit Card
+101643,1253,Female,27.0,,Sports,Yoga Mat,1,2170.64,20,2024-11-10,0.0,4,5.0,Credit Card
+101700,1254,Female,16.0,Pune,Beauty,Lipstick,1,458.04,20,2023-07-15,69.69,6,5.0,Net Banking
+101627,1182,Female,45.0,Bangalore,Home & Kitchen,Mixer Grinder,1,3441.57,10,2024-03-08,88.12,1,1.0,Cash on Delivery
+100302,1093,Female,39.0,Patna,Fashion,T-Shirt,1,1479.56,20,2023-04-11,66.95,4,1.0,UPI
+100690,1243,Male,39.0,Patna,Electronics,Laptop,1,11981.15,5,2023-12-09,73.83,7,5.0,Credit Card
+100813,1054,Female,16.0,Jaipur,Electronics,Laptop,1,20317.5,0,2024-08-01,128.45,7,,Net Banking
+101062,1233,Male,28.0,Delhi,Beauty,Face Cream,2,1086.97,0,2024-03-27,79.18,5,4.0,Debit Card
+100237,1456,Female,50.0,Jaipur,Home & Kitchen,Cookware Set,1,4190.25,10,2024-06-05,7.62,5,3.0,UPI
+101116,1153,Male,62.0,Chennai,Beauty,Hair Dryer,3,852.62,0,2023-06-02,53.67,4,3.0,UPI
+101369,1371,Male,20.0,Hyderabad,Books,Novel,1,426.23,0,2023-03-22,19.24,6,5.0,UPI
+100500,1237,Female,43.0,Ahmedabad,Home & Kitchen,Vacuum Cleaner,1,3005.2,15,2023-12-17,81.23,2,4.0,Debit Card
+101675,1149,Male,41.0,Hyderabad,Home & Kitchen,Cookware Set,2,4680.91,0,2024-12-30,,6,2.0,Cash on Delivery
+101080,1246,Male,28.0,Bangalore,Books,Cookbook,1,440.18,20,2024-06-09,105.81,7,2.0,Debit Card
+101327,1256,Male,44.0,Chennai,Beauty,Face Cream,1,500.7,10,2024-04-16,110.37,9,5.0,Net Banking
+100795,1164,Male,33.0,Mumbai,Books,Cookbook,1,-403.14,20,2023-05-28,96.07,6,5.0,UPI
+101944,1446,Female,39.0,Mumbai,Electronics,Smartphone,1,19520.27,0,2024-12-07,148.54,6,5.0,Cash on Delivery
+101968,1296,Other,30.0,,Home & Kitchen,Bedsheet,1,3440.16,0,2024-02-23,95.89,4,5.0,Credit Card
+101975,1105,Male,30.0,Pune,Books,Comic,1,282.8,0,2024-01-16,75.34,6,4.0,Net Banking
+100991,1453,Male,29.0,Chennai,Home & Kitchen,Mixer Grinder,2,2871.65,0,2023-08-31,0.0,4,,Credit Card
+101385,1080,Male,39.0,Pune,Books,Novel,1,557.47,5,2024-10-14,153.63,3,5.0,Cash on Delivery
+100935,1378,Female,22.0,Kolkata,Books,Textbook,1,543.99,0,2024-07-23,14.45,2,5.0,Net Banking
+100388,1381,Female,,Chennai,Fashion,Sneakers,1,428.55,15,2024-08-21,101.62,9,4.0,UPI
+101484,1482,Male,34.0,Kolkata,Home & Kitchen,Cookware Set,2,3287.32,0,2024-11-23,51.48,1,5.0,UPI
+100391,1008,Female,45.0,Pune,Books,Novel,1,498.65,10,2023-01-20,103.98,5,1.0,Cash on Delivery
+100744,1003,Female,36.0,Mumbai,Beauty,Shampoo,1,221.04,30,2023-05-10,40.93,7,3.0,Cash on Delivery
+100353,1263,Female,31.0,Chennai,Electronics,Headphones,1,21467.89,5,2023-05-10,69.77,6,5.0,Debit Card
+101218,1126,Male,36.0,Hyderabad,Beauty,Lipstick,2,712.83,20,2024-03-27,51.62,7,2.0,Debit Card
+100236,1393,Male,33.0,Hyderabad,Books,Comic,2,108.1,5,2023-04-09,113.58,7,5.0,UPI
+101726,1152,Female,44.0,Bangalore,Home & Kitchen,Vacuum Cleaner,2,3880.96,5,2023-03-11,127.9,6,3.0,Credit Card
+100481,1425,Male,32.0,Ahmedabad,Beauty,Face Cream,3,666.07,10,2023-04-17,70.6,2,3.0,Debit Card
+100568,1230,Female,43.0,Delhi,Sports,Cricket Bat,1,1258.95,25,2024-01-01,146.99,5,5.0,Net Banking
+101141,1345,Female,29.0,Delhi,Electronics,Headphones,1,8774.62,5,2024-03-17,61.5,5,3.0,Debit Card
+101701,1135,Male,32.0,Pune,Beauty,Shampoo,1,1044.91,10,2023-10-29,16.28,6,,Credit Card
+101884,1017,Male,43.0,Chennai,Books,Comic,1,632.41,10,2024-11-29,79.67,5,4.0,Net Banking
+101583,1264,Male,33.0,Chennai,Home & Kitchen,Mixer Grinder,1,5471.48,0,2024-05-08,77.49,5,1.0,Credit Card
+100121,1038,Female,21.0,Jaipur,Books,Biography,1,407.49,0,2023-10-12,110.15,4,,
+101389,1152,Other,32.0,Bangalore,Beauty,Perfume,1,781.6,15,2023-07-17,88.18,1,3.0,UPI
+101747,1086,Male,65.0,Hyderabad,Electronics,Laptop,1,16460.13,20,2024-03-13,129.88,5,5.0,Credit Card
+101025,1367,Female,37.0,Mumbai,Fashion,Jeans,2,2465.68,10,2024-03-30,55.08,5,5.0,Cash on Delivery
+101087,1343,Female,28.0,Ahmedabad,Beauty,Face Cream,1,616.2,5,2024-03-22,48.6,4,3.0,UPI
+101273,1238,Other,48.0,Jaipur,Fashion,Jeans,1,1440.79,5,2023-04-23,123.91,3,4.0,Net Banking
+100927,1258,Male,26.0,Pune,Fashion,Handbag,1,948.46,0,2023-08-12,130.11,8,1.0,Credit Card
+100516,1388,Female,34.0,Delhi,Books,Biography,1,333.57,0,2023-10-21,99.61,8,2.0,Credit Card
+100224,1391,Male,,Mumbai,Books,Comic,1,397.64,0,2023-06-14,39.27,5,,Debit Card
+101492,1071,Male,42.0,bangalore,Beauty,Hair Dryer,1,676.39,30,2024-01-01,30.52,5,5.0,UPI
+100614,1057,Male,30.0,Chennai,Fashion,Jacket,1,798.57,25,2023-07-20,87.95,6,,Net Banking
+100844,1090,Male,42.0,Delhi,Home & Kitchen,Cookware Set,1,3097.12,5,2023-08-10,39.15,4,5.0,Cash on Delivery
+101246,1346,Male,42.0,Chennai,Home & Kitchen,Cookware Set,4,1890.3,0,2024-05-29,128.96,5,,Net Banking
+100053,1060,Male,24.0,Ahmedabad,Electronics,Laptop,1,16755.05,0,2023-01-07,109.58,4,5.0,Debit Card
+101863,1459,Female,26.0,Delhi,Beauty,Perfume,1,1008.72,25,2024-10-26,183.68,6,4.0,Cash on Delivery
+100486,1367,Male,,Pune,Fashion,Jeans,2,840.78,0,2023-07-18,89.57,6,3.0,Debit Card
+101935,1308,Female,44.0,Ahmedabad,Fashion,Jacket,1,2149.36,20,2023-04-02,51.98,9,3.0,Debit Card
+100819,1158,Female,21.0,Mumbai,Fashion,Sneakers,1,1273.64,0,2023-02-20,,2,,Debit Card
+100156,1467,Male,16.0,Ahmedabad,Books,Textbook,1,324.71,0,2023-11-27,58.47,5,4.0,Debit Card
+101367,1197,Male,,Jaipur,Beauty,Face Cream,2,1419.33,0,2024-02-13,70.71,5,4.0,UPI
+100601,1145,Male,25.0,Chennai,Sports,Running Shoes,1,2707.37,5,2024-06-06,84.72,1,3.0,Cash on Delivery
+101621,1199,Other,51.0,Hyderabad,Beauty,Hair Dryer,3,474.36,20,2024-04-05,57.89,4,3.0,Net Banking
+100249,1054,Female,30.0,delhi,Books,Comic,1,533.61,10,2023-11-15,45.52,6,4.0,Net Banking
+100762,1427,Female,31.0,Pune,Home & Kitchen,Lamp,1,3243.53,20,2024-05-10,40.04,5,5.0,Debit Card
+101847,1374,Male,41.0,delhi,Electronics,Tablet,1,9934.83,10,2024-11-03,101.24,7,4.0,UPI
+101131,1037,Male,36.0,Pune,Sports,Yoga Mat,1,1582.51,5,2023-02-08,70.81,7,3.0,UPI
+100543,1072,Female,50.0,Kolkata,Home & Kitchen,Lamp,2,5118.7,15,2024-11-02,80.9,2,2.0,Credit Card
+100794,1041,Male,20.0,Hyderabad,Sports,Running Shoes,1,2859.8,15,2024-02-26,0.0,3,4.0,UPI
+101142,1333,Male,30.0,Patna,Fashion,T-Shirt,1,1623.9,15,2023-03-25,102.56,2,5.0,Debit Card
+101470,1362,Male,33.0,Bangalore,Beauty,Lipstick,1,980.15,30,2023-06-27,75.15,7,5.0,Debit Card
+100629,1218,Male,26.0,Patna,Fashion,Sneakers,1,1236.77,10,2024-06-21,17.38,8,5.0,Net Banking
+100151,1196,Female,16.0,Jaipur,Electronics,Laptop,2,16969.08,5,2023-03-14,85.84,4,5.0,Net Banking
+101660,1134,Female,37.0,Hyderabad,Beauty,Face Cream,1,800.02,15,2023-09-25,24.9,5,1.0,Net Banking
+100292,1084,Male,31.0,Kolkata,Home & Kitchen,Mixer Grinder,1,2266.87,30,2023-06-26,107.06,3,5.0,Debit Card
+100382,1444,Female,34.0,Mumbai,Sports,Running Shoes,2,1573.63,20,2024-05-31,92.21,4,5.0,Credit Card
+100687,1344,Male,41.0,Pune,Sports,Running Shoes,2,2144.68,15,2023-10-06,73.34,7,3.0,UPI
+101368,1122,Male,27.0,Hyderabad,Fashion,Jeans,1,1537.0,0,2023-02-10,21.95,6,4.0,Net Banking
+101225,1028,Other,40.0,,Home & Kitchen,Bedsheet,1,1897.1,30,2024-12-26,101.18,2,,Cash on Delivery
+100898,1099,Female,16.0,Delhi,Electronics,Smartwatch,1,17413.66,30,2023-09-02,0.0,6,4.0,Cash on Delivery
+100855,1172,Male,33.0,Delhi,Home & Kitchen,Vacuum Cleaner,1,6395.17,15,2024-11-08,106.93,3,2.0,UPI
+101072,1271,Male,36.0,Hyderabad,Beauty,Perfume,1,484.8,0,2024-06-01,59.83,2,4.0,Net Banking
+101483,1071,Male,27.0,Pune,Books,Biography,1,398.1,25,2023-05-06,113.51,2,4.0,Debit Card
+101544,1455,Female,22.0,Chennai,Beauty,Shampoo,2,726.66,10,2023-05-15,90.67,6,,Credit Card
+101707,1060,Female,37.0,Chennai,Fashion,Jacket,2,620.3,5,2024-02-05,,6,4.0,Cash on Delivery
+100892,1336,Male,54.0,Ahmedabad,Books,Cookbook,1,503.3,25,2023-06-26,61.43,6,5.0,Net Banking
+101776,1043,Female,37.0,Pune,Home & Kitchen,Cookware Set,1,1920.84,0,2024-03-28,34.09,1,4.0,Net Banking
+100882,1467,Female,35.0,Kolkata,Books,Textbook,1,321.87,5,2024-02-18,47.27,4,5.0,Net Banking
+101365,1295,Female,39.0,Chennai,Sports,Yoga Mat,2,2653.85,0,2023-12-31,80.25,3,,Net Banking
+100616,1183,Female,21.0,,Home & Kitchen,Mixer Grinder,1,4443.65,0,2024-04-16,7.58,8,4.0,Cash on Delivery
+100155,1307,Male,26.0,Ahmedabad,Beauty,Perfume,3,352.55,5,2023-07-02,15.4,6,5.0,Net Banking
+101194,1413,Male,32.0,Chennai,Books,Biography,2,308.04,10,2024-06-12,56.7,4,5.0,UPI
+101733,1151,Male,42.0,Patna,Books,Cookbook,1,228.94,10,2023-04-10,,2,2.0,Credit Card
+101265,1356,Male,35.0,Pune,Beauty,Perfume,2,1135.64,15,2023-03-02,96.19,4,4.0,Debit Card
+101800,1330,Male,59.0,Hyderabad,Sports,Running Shoes,1,2833.74,15,2023-11-27,97.63,2,5.0,Credit Card
+100323,1299,Female,34.0,Patna,Sports,Football,2,2755.52,20,2024-04-02,132.89,6,,UPI
+101565,1060,Male,36.0,Hyderabad,Books,Novel,1,445.53,10,2023-06-15,142.76,5,4.0,Credit Card
+101283,1056,Female,37.0,Hyderabad,Home & Kitchen,Bedsheet,2,4487.42,30,2023-01-28,22.81,5,,UPI
+100083,1294,Male,,Delhi,Fashion,Sneakers,2,186.61,15,2023-10-21,63.66,5,3.0,UPI
+100513,1114,Female,42.0,Chennai,Books,Biography,1,390.88,25,2024-01-18,93.5,2,4.0,Debit Card
+101543,1296,Male,41.0,,Electronics,Tablet,1,26688.64,10,2024-06-20,78.35,4,4.0,Cash on Delivery
+101509,1065,Male,38.0,Hyderabad,Sports,Running Shoes,3,1710.76,0,2023-12-15,117.95,8,,Cash on Delivery
+100930,1102,Female,43.0,chennai,Home & Kitchen,Vacuum Cleaner,1,1962.7,0,2023-06-04,85.45,5,4.0,Net Banking
+101651,1105,Male,16.0,Bangalore,Books,Cookbook,1,470.84,0,2024-05-27,118.67,6,5.0,Credit Card
+101358,1130,Other,51.0,Hyderabad,Fashion,Handbag,1,1390.66,25,2024-06-22,48.17,7,5.0,Cash on Delivery
+100011,1360,Female,27.0,Patna,Home & Kitchen,Vacuum Cleaner,2,3075.74,10,2023-08-14,144.07,4,2.0,Net Banking
+100832,1127,Female,52.0,Bangalore,Sports,Dumbbells,1,2072.29,0,2024-08-03,127.47,10,5.0,Net Banking
+100033,1258,Female,27.0,Kolkata,Books,Novel,1,178.58,15,2024-06-16,57.16,6,4.0,UPI
+101785,1496,Female,37.0,Delhi,Fashion,Jacket,1,1806.25,0,2023-07-06,0.0,7,5.0,UPI
+100414,1331,Female,44.0,Pune,Sports,Football,1,2150.99,25,2023-02-22,82.36,3,4.0,Net Banking
+100581,1158,Female,72.0,Mumbai,Beauty,Perfume,1,766.64,25,2023-06-28,0.0,6,5.0,UPI
+101407,1388,Male,56.0,Delhi,Electronics,Smartwatch,1,16887.02,0,2024-08-15,92.68,3,4.0,Net Banking
+101568,1115,Female,26.0,,Books,Novel,2,445.46,15,2023-03-07,131.73,6,4.0,Net Banking
+101507,1025,Male,46.0,Jaipur,Books,Novel,1,7322.3153753429615,10,2023-09-13,131.25,5,4.0,Debit Card
+101926,1204,Female,23.0,,Fashion,T-Shirt,2,1291.4,15,2023-05-30,75.73,2,4.0,Net Banking
+100615,1426,Male,28.0,Pune,Electronics,Laptop,1,11885.93,0,2024-07-16,41.38,1,5.0,Net Banking
+101046,1303,Male,16.0,Pune,Sports,Dumbbells,1,2151.74,25,2024-07-15,66.5,3,4.0,Net Banking
+101403,1336,Female,,Patna,Books,Textbook,2,368.38,0,2023-05-28,127.68,7,5.0,Credit Card
+101015,1076,Male,57.0,Kolkata,Beauty,Perfume,1,878.83,20,2023-08-28,18.83,5,2.0,Debit Card
+100090,1413,Female,22.0,Bangalore,Fashion,Jacket,5,1481.3,5,2024-10-03,116.97,5,3.0,Credit Card
+101720,1303,Female,50.0,Kolkata,Books,Cookbook,1,294.01,15,2023-08-23,142.24,5,4.0,Debit Card
+100602,1359,Female,61.0,Pune,Electronics,Smartphone,1,22606.9,5,2024-04-11,118.95,3,3.0,UPI
+101238,1094,Male,30.0,Hyderabad,Books,Cookbook,1,250.79,10,2023-01-21,40.28,1,4.0,Debit Card
+101858,1499,Female,21.0,Jaipur,Books,Biography,1,389.79,25,2024-05-27,0.0,5,3.0,Net Banking
+100134,1138,Female,48.0,Jaipur,Books,Biography,1,450.48,0,2024-06-09,91.6,9,,Net Banking
+101371,1477,Female,34.0,Patna,Books,Comic,1,551.81,10,2023-07-21,143.59,7,5.0,Credit Card
+100556,1408,Female,22.0,pune,Fashion,Jeans,1,1401.05,0,2024-02-05,,5,,UPI
+101032,1244,Female,38.0,Pune,Sports,Cricket Bat,1,961.75,20,2024-10-06,136.85,4,3.0,Cash on Delivery
+101584,1101,Male,29.0,Hyderabad,Electronics,Tablet,1,4647.51,5,2024-07-23,138.38,5,5.0,Debit Card
+100321,1073,Male,41.0,Chennai,Books,Biography,1,485.5,10,2024-01-16,80.74,4,3.0,Net Banking
+101791,1133,Female,55.0,Chennai,Beauty,Hair Dryer,2,1461.53,0,2023-03-30,139.7,4,4.0,Cash on Delivery
+101212,1015,Female,45.0,Jaipur,Home & Kitchen,Vacuum Cleaner,1,1378.72,5,2024-01-02,0.0,3,4.0,Net Banking
+101758,1413,Female,31.0,Jaipur,Electronics,Tablet,2,19477.62,25,2023-03-27,112.5,9,5.0,Credit Card
+100635,1491,Male,22.0,Ahmedabad,Fashion,Jeans,1,2675.74,15,2023-05-12,141.86,5,5.0,Credit Card
+100553,1236,Male,50.0,Patna,Home & Kitchen,Mixer Grinder,1,2585.25,15,2023-05-09,49.98,7,3.0,Debit Card
+101329,1027,Female,40.0,Mumbai,Home & Kitchen,Mixer Grinder,1,3651.49,15,2024-07-11,71.76,2,5.0,Debit Card
+101056,1494,Female,43.0,Pune,Fashion,Handbag,2,1675.86,0,2024-12-03,129.97,6,4.0,UPI
+101577,1279,Male,,,Fashion,Jacket,1,917.93,10,2023-09-18,58.79,6,5.0,Debit Card
+100797,1028,Male,33.0,Patna,Sports,Football,2,2040.01,15,2024-01-17,72.49,6,2.0,Cash on Delivery
+101681,1388,Male,16.0,Pune,Home & Kitchen,Cookware Set,3,1168.18,0,2023-01-25,100.03,6,5.0,Credit Card
+101265,1356,Male,35.0,Pune,Beauty,Perfume,2,1135.64,15,2023-03-02,96.19,4,4.0,Debit Card
+101731,1498,Female,59.0,Hyderabad,Beauty,Shampoo,1,927.85,15,2024-07-02,55.57,4,5.0,Debit Card
+100175,1315,Female,41.0,Pune,Electronics,Smartphone,1,10888.31,0,2023-05-11,56.74,1,4.0,Credit Card
+100767,1058,Male,,Pune,Books,Biography,1,373.12,10,2023-01-10,104.26,3,1.0,Credit Card
+100246,1258,Female,22.0,Chennai,Sports,Cricket Bat,2,1756.83,20,2023-08-13,64.02,4,1.0,Credit Card
+101081,1498,Male,43.0,Bangalore,Sports,Dumbbells,1,2154.25,0,2024-03-11,36.01,6,4.0,UPI
+101757,1099,Male,,Ahmedabad,Electronics,Smartwatch,1,11779.79,25,2024-08-06,44.85,5,4.0,UPI
+100146,1493,Male,32.0,Kolkata,Beauty,Shampoo,2,796.38,0,2024-05-08,121.15,1,1.0,Credit Card
+100091,1393,Male,42.0,Hyderabad,Beauty,Perfume,1,508.36,15,2024-04-25,97.75,5,4.0,UPI
+101417,1489,Female,47.0,Mumbai,Beauty,Perfume,4,804.8,10,2024-04-28,24.48,8,4.0,UPI
+100683,1062,Male,31.0,Mumbai,Books,Comic,1,288.97,25,2023-10-23,73.53,6,2.0,Cash on Delivery
+100311,1297,Male,23.0,Chennai,Electronics,Smartphone,2,8270.28,5,2023-01-16,84.99,4,5.0,Net Banking
+101384,1384,Male,32.0,Chennai,Beauty,Hair Dryer,1,624.74,10,2024-05-27,91.71,3,5.0,Debit Card
+100094,1348,Male,35.0,Kolkata,Sports,Yoga Mat,1,2469.06,15,2023-08-11,,7,5.0,Credit Card
+101730,1180,Female,32.0,Jaipur,Beauty,Lipstick,1,583.4,10,2023-03-23,112.34,7,3.0,Cash on Delivery
+100925,1489,Male,39.0,Delhi,Beauty,Hair Dryer,5,572.12,25,2024-10-17,33.36,4,5.0,Debit Card
+101706,1396,Female,45.0,Delhi,Sports,Yoga Mat,3,2504.88,15,2023-07-01,41.74,7,,Net Banking
+101036,1378,Female,31.0,Mumbai,Sports,Running Shoes,1,926.16,0,2024-11-10,50.91,4,5.0,Net Banking
+101401,1224,Other,42.0,Bangalore,Electronics,Smartphone,2,19705.72,0,2024-03-07,93.78,7,5.0,
+100244,1471,Female,27.0,Patna,Sports,Cricket Bat,2,1938.47,15,2023-01-16,,8,3.0,UPI
+101501,1314,Female,39.0,Mumbai,Electronics,Tablet,1,419741.4972423116,10,2024-07-16,35.55,9,5.0,UPI
+101112,1381,Male,16.0,Chennai,Beauty,Lipstick,1,742.91,5,2024-09-13,57.46,6,3.0,Debit Card
+100215,1020,Female,52.0,Mumbai,Beauty,Face Cream,2,1079.91,0,2023-11-15,,4,,Credit Card
+101211,1458,Female,37.0,Bangalore,Books,Cookbook,1,369.26,20,2023-03-30,87.43,3,4.0,Cash on Delivery
+101198,1070,Female,38.0,Kolkata,Beauty,Shampoo,1,861.91,15,2024-09-24,96.58,1,4.0,Cash on Delivery
+100999,1143,Male,60.0,Kolkata,Home & Kitchen,Mixer Grinder,1,1893.21,30,2023-11-06,64.06,5,3.0,Debit Card
+100854,1101,Male,44.0,Jaipur,Home & Kitchen,Lamp,1,2826.76,0,2023-01-27,4.84,6,5.0,Credit Card
+100426,1031,Male,43.0,Mumbai,Electronics,Headphones,1,14716.11,10,2024-06-28,,7,4.0,Debit Card
+101783,1180,Female,34.0,delhi,Electronics,Smartphone,1,17361.72,5,2023-11-13,52.57,6,5.0,Credit Card
+101143,1244,Male,18.0,Jaipur,Beauty,Perfume,2,949.61,0,2024-06-04,117.91,6,4.0,UPI
+101144,1172,Male,27.0,Ahmedabad,Home & Kitchen,Mixer Grinder,1,2445.71,0,2023-10-29,95.93,8,4.0,Credit Card
+100227,1390,Male,27.0,Hyderabad,Books,Novel,1,131.68,20,2023-09-20,32.44,3,3.0,
+101646,1081,Male,28.0,Chennai,Electronics,Laptop,1,4230.73,5,2023-06-09,101.01,5,4.0,Net Banking
+100001,1044,Male,,Pune,Electronics,Smartwatch,4,4757.07,20,2024-06-07,79.33,3,4.0,Net Banking
+101419,1259,Female,66.0,Hyderabad,Fashion,Sneakers,1,1423.61,15,2024-12-03,48.46,8,5.0,Cash on Delivery
+100402,1366,Female,16.0,Delhi,Beauty,Shampoo,1,945.35,5,2024-05-11,21.42,2,5.0,Credit Card
+101429,1382,Female,40.0,Jaipur,Sports,Football,1,2319.17,25,2023-02-09,132.08,5,5.0,Debit Card
+101104,1322,Female,27.0,Hyderabad,Beauty,Face Cream,3,571.45,25,2023-09-15,102.63,2,5.0,Net Banking
+100085,1116,Male,35.0,Ahmedabad,Fashion,Handbag,1,1105.33,10,2023-05-16,,7,5.0,Debit Card
+100163,1169,Female,62.0,Chennai,Electronics,Smartwatch,1,15369.7,15,2024-02-13,37.71,2,4.0,Net Banking
+100115,1163,Female,16.0,Kolkata,Books,Cookbook,1,445.78,0,2024-04-22,104.73,8,5.0,Debit Card
+100671,1154,Female,23.0,Chennai,Beauty,Shampoo,1,529.57,0,2023-11-07,146.97,3,3.0,UPI
+101175,1376,Female,26.0,Mumbai,Beauty,Perfume,3,1447.38,10,2024-08-30,125.6,6,2.0,Net Banking
+101545,1261,Female,,Bangalore,Fashion,Jeans,1,1855.31,15,2023-12-14,97.2,3,3.0,Debit Card
+101534,1244,Female,34.0,Chennai,Fashion,T-Shirt,1,2419.87,0,2024-11-23,34.69,4,3.0,Net Banking
+101393,1484,Female,31.0,Jaipur,Home & Kitchen,Vacuum Cleaner,1,4828.81,10,2023-10-17,85.75,8,,Cash on Delivery
+100890,1236,Male,43.0,mumbai,Fashion,Jacket,1,1588.69,0,2024-03-02,48.71,3,2.0,UPI
+101502,1050,Male,20.0,Hyderabad,Books,Cookbook,4,717.83,5,2024-05-22,,9,,
+100626,1350,Female,45.0,Bangalore,Fashion,Jacket,2,1342.33,25,2024-10-05,154.89,4,5.0,UPI
+101497,1420,Female,16.0,Chennai,Home & Kitchen,Cookware Set,1,3425.0,5,2024-03-13,120.83,6,5.0,Debit Card
+101982,1430,Male,30.0,Patna,Fashion,Jacket,1,1128.75,0,2023-08-24,121.0,5,5.0,Debit Card
+100953,1289,Male,48.0,Jaipur,Books,Comic,1,282.17,10,2023-06-15,96.07,4,4.0,Cash on Delivery
+100808,1132,Female,24.0,Pune,Books,Novel,1,608.56,0,2023-06-18,80.32,1,5.0,Debit Card
+100259,1261,Male,46.0,Mumbai,Books,Biography,3,262.53,0,2024-07-01,3.38,5,3.0,Net Banking
+100625,1351,Female,30.0,Chennai,Beauty,Lipstick,1,759.69,0,2023-09-06,99.56,4,5.0,Debit Card
+100827,1344,Other,54.0,chennai,Electronics,Tablet,1,24197.89,0,2023-06-02,126.09,7,5.0,UPI
+100235,1185,Female,40.0,Kolkata,Home & Kitchen,Bedsheet,1,2663.43,20,2023-12-25,67.52,9,,Credit Card
+100136,1217,Female,26.0,Hyderabad,Sports,Dumbbells,2,2321.79,10,2023-02-03,25.59,2,5.0,Net Banking
+100617,1291,Male,26.0,Hyderabad,Fashion,Sneakers,1,1280.35,15,2023-09-12,73.11,6,5.0,Cash on Delivery
+101948,1258,Female,50.0,chennai,Sports,Dumbbells,1,2926.75,10,2023-07-14,45.64,7,4.0,Cash on Delivery
+101983,1248,Male,43.0,Pune,Books,Novel,1,389.81,0,2024-07-20,106.49,3,1.0,Credit Card
+100837,1109,Male,23.0,Ahmedabad,Fashion,Sneakers,3,1737.31,25,2023-07-02,75.22,6,4.0,Credit Card
+100843,1437,Female,39.0,Hyderabad,Books,Cookbook,1,284.98,20,2023-11-03,98.81,2,4.0,UPI
+100960,1393,Female,36.0,Jaipur,Home & Kitchen,Mixer Grinder,3,3956.24,10,2024-10-20,101.48,3,5.0,Debit Card
+100593,1298,Female,23.0,Kolkata,Sports,Cricket Bat,3,1032.89,15,2023-01-24,70.04,2,4.0,UPI
+101315,1040,Male,16.0,Jaipur,Fashion,Jeans,1,427.49,15,2024-09-18,123.37,4,5.0,Credit Card
+101526,1328,Male,57.0,Pune,Home & Kitchen,Bedsheet,2,2696.67,10,2023-02-10,87.9,5,2.0,Debit Card
+101292,1143,Female,54.0,Hyderabad,Beauty,Lipstick,1,694.57,25,2023-10-10,131.1,4,4.0,Debit Card
+100344,1226,Female,43.0,Hyderabad,Fashion,Jacket,1,1978.39,10,2023-06-11,105.3,5,4.0,Credit Card
+101669,1202,Female,48.0,Chennai,Beauty,Perfume,2,776.18,15,2023-01-25,69.58,5,4.0,Cash on Delivery
+101594,1223,Male,66.0,Patna,Beauty,Perfume,1,953.42,15,2023-04-16,113.78,4,4.0,UPI
+100294,1206,Female,39.0,Bangalore,Fashion,Handbag,1,713.53,10,2023-05-23,25.28,3,2.0,Credit Card
+100365,1447,Female,34.0,Kolkata,Sports,Running Shoes,1,3668.7,0,2023-09-07,119.53,1,5.0,Debit Card
+100179,1364,Female,50.0,Kolkata,Electronics,Laptop,1,23422.2,25,2024-07-27,47.94,2,3.0,Debit Card
+100660,1405,Male,36.0,Pune,Fashion,Jeans,1,1277.76,15,2023-08-23,57.68,11,5.0,Debit Card
+100997,1385,Male,16.0,Ahmedabad,Sports,Dumbbells,1,2044.95,25,2023-10-04,42.87,2,3.0,UPI
+100015,1059,Female,56.0,Bangalore,Books,Textbook,3,537.58,0,2023-06-22,50.99,9,5.0,Credit Card
+101111,1496,Female,40.0,Patna,Beauty,Perfume,1,701.9,0,2023-01-08,58.89,6,5.0,UPI
+101395,1112,Female,25.0,Delhi,Beauty,Hair Dryer,1,1057.37,0,2024-04-10,88.17,3,5.0,Debit Card
+100166,1294,Male,16.0,Mumbai,Beauty,Face Cream,2,876.68,15,2024-06-01,66.91,4,5.0,Credit Card
+101901,1267,Male,31.0,Chennai,Home & Kitchen,Cookware Set,1,4306.7,5,2024-11-13,79.35,4,5.0,UPI
+101360,1316,Female,,Delhi,Books,Textbook,1,519.3,10,2024-05-09,80.64,2,,Net Banking
+100060,1451,Female,,Bangalore,Electronics,Laptop,1,14002.9,0,2024-05-07,20.22,6,5.0,Debit Card
+100710,1023,Female,27.0,pune,Sports,Yoga Mat,1,1102.22,0,2024-09-07,50.0,4,,UPI
+100677,1463,Female,,Patna,Home & Kitchen,Mixer Grinder,2,2983.43,0,2023-09-25,68.9,1,5.0,UPI
+101379,1365,Female,27.0,Mumbai,Books,Textbook,2,439.85,0,2024-01-23,70.56,5,,Net Banking
+100781,1102,Male,23.0,Patna,Electronics,Laptop,1,22682.21,5,2024-03-16,135.83,6,4.0,Cash on Delivery
+100425,1129,Male,53.0,Mumbai,Beauty,Lipstick,1,718.04,20,2023-12-04,114.75,4,4.0,Debit Card
+100293,1473,Female,23.0,Chennai,Electronics,Smartphone,1,20587.1,20,2024-03-23,111.07,1,4.0,Cash on Delivery
+101066,1354,Female,21.0,Hyderabad,Sports,Running Shoes,1,3041.45,25,2023-03-20,128.66,6,4.0,Cash on Delivery
+101637,1326,Female,25.0,Patna,Electronics,Smartwatch,4,23446.23,10,2024-06-24,125.04,6,5.0,Net Banking
+100330,1455,Male,43.0,Patna,Books,Novel,1,450.86,25,2024-01-27,4.08,5,5.0,Credit Card
+100430,1457,Female,34.0,Jaipur,Home & Kitchen,Vacuum Cleaner,1,2938.28,5,2024-01-28,42.21,6,5.0,Net Banking
+101013,1417,Female,54.0,Delhi,Home & Kitchen,Cookware Set,2,2749.61,15,2023-11-26,52.31,1,2.0,Net Banking
+100080,1252,Male,35.0,Kolkata,Home & Kitchen,Cookware Set,1,3014.68,15,2023-02-04,106.66,3,2.0,Debit Card
+101053,1432,Female,29.0,Patna,Sports,Football,1,2127.91,15,2023-12-14,86.99,4,5.0,UPI
+100938,1467,Female,47.0,mumbai,Beauty,Lipstick,1,1014.86,10,2023-05-23,91.32,4,5.0,Credit Card
+100835,1449,Male,35.0,Kolkata,Books,Cookbook,1,599.92,5,2023-10-18,22.52,7,4.0,Net Banking
+100750,1073,Male,51.0,Patna,Sports,Football,1,791.45,15,2024-04-09,47.02,4,4.0,Debit Card
+100891,1468,Male,30.0,Kolkata,Fashion,T-Shirt,1,1206.26,20,2023-09-20,34.78,2,5.0,Net Banking
+100255,1054,Male,44.0,Jaipur,Beauty,Face Cream,5,605.55,15,2023-02-11,58.32,3,5.0,UPI
+101755,1415,Male,47.0,Ahmedabad,Home & Kitchen,Mixer Grinder,1,764.36,30,2023-04-27,143.19,4,5.0,Net Banking
+101483,1071,Male,27.0,Pune,Books,Biography,1,398.1,25,2023-05-06,113.51,2,4.0,Debit Card
+101980,1391,Male,46.0,Mumbai,Sports,Yoga Mat,98,1434.33,10,2024-01-22,91.27,1,3.0,UPI
+101408,1468,Female,17.0,Bangalore,Fashion,Sneakers,1,1350.16,10,2024-05-24,149.22,4,5.0,Credit Card
+101338,1182,Female,41.0,Pune,Home & Kitchen,Bedsheet,1,56989.00529860532,10,2024-04-24,101.24,4,4.0,Cash on Delivery
+101109,1303,Male,18.0,Hyderabad,Electronics,Smartwatch,1,11021.65,15,2023-03-06,125.99,5,5.0,Net Banking
+100137,1174,Male,34.0,Mumbai,Electronics,Smartwatch,1,13998.51,0,2023-03-14,64.37,8,3.0,
+101136,1122,Female,34.0,Mumbai,Home & Kitchen,Lamp,1,1197.89,10,2023-10-22,94.69,5,5.0,UPI
+101219,1087,Male,43.0,Hyderabad,Home & Kitchen,Cookware Set,1,3947.08,5,2023-09-18,78.08,3,5.0,Net Banking
+100853,1276,Female,25.0,Mumbai,Beauty,Shampoo,2,571.15,5,2023-04-16,84.83,8,4.0,UPI
+101203,1311,Female,20.0,,Electronics,Tablet,1,15208.75,10,2024-05-16,47.19,6,4.0,Debit Card
+101907,1390,Male,46.0,Delhi,Electronics,Smartphone,4,15922.82,25,2023-03-27,65.97,4,3.0,Debit Card
+100724,1293,Female,54.0,Bangalore,Fashion,Jeans,1,1495.69,5,2023-07-22,62.72,9,4.0,Cash on Delivery
+100860,1412,Male,39.0,Ahmedabad,Books,Novel,1,311.92,0,2024-08-19,63.5,2,4.0,UPI
+100970,1291,Female,31.0,Delhi,Books,Biography,2,695.61,10,2023-10-11,54.37,4,5.0,Credit Card
+100497,1113,Male,27.0,Delhi,Beauty,Lipstick,1,1051.26,25,2024-01-22,67.34,4,5.0,Debit Card
+100951,1198,Male,44.0,Pune,Fashion,Jacket,1,1362.69,30,2024-01-16,34.6,3,5.0,Cash on Delivery
+100806,1237,Female,36.0,Kolkata,Electronics,Laptop,1,21489.76,15,2024-06-12,82.24,2,4.0,Cash on Delivery
+100130,1157,Male,57.0,Mumbai,Sports,Dumbbells,3,1872.25,30,2023-01-30,67.04,4,2.0,Debit Card
+100338,1322,Male,39.0,Bangalore,Sports,Cricket Bat,2,3340.8,5,2024-09-20,96.1,4,2.0,Cash on Delivery
+100859,1430,Female,37.0,,Home & Kitchen,Lamp,1,1282.91,10,2023-04-08,121.96,3,5.0,Debit Card
+100609,1152,Male,42.0,Delhi,Home & Kitchen,Mixer Grinder,1,1316.85,10,2023-03-24,86.48,5,5.0,Net Banking
+101149,1467,Female,41.0,Mumbai,Home & Kitchen,Bedsheet,3,3254.17,0,2023-10-14,23.64,5,5.0,Debit Card
+100196,1024,Male,37.0,Ahmedabad,Books,Biography,1,477.72,10,2023-12-08,78.88,5,4.0,Debit Card
+101251,1102,Male,47.0,ahmedabad,Electronics,Headphones,1,11325.91,0,2023-09-17,120.72,5,5.0,Net Banking
+101293,1163,Other,38.0,Mumbai,Home & Kitchen,Cookware Set,1,5486.01,0,2024-09-07,38.56,4,5.0,Credit Card
+102000,1151,Female,38.0,Jaipur,Home & Kitchen,Mixer Grinder,1,2560.78,20,2023-04-05,69.32,9,5.0,Credit Card
+100910,1004,Female,32.0,Pune,Books,Cookbook,4,397.66,15,2024-01-11,102.54,5,3.0,Cash on Delivery
+100585,1452,Male,56.0,Pune,Home & Kitchen,Cookware Set,1,2934.93,25,2024-08-02,25.13,4,3.0,Net Banking
+100104,1357,Female,32.0,Ahmedabad,Fashion,T-Shirt,1,1541.47,0,2023-08-13,40.45,5,1.0,UPI
+101618,1279,Female,54.0,bangalore,Electronics,Laptop,1,17646.49,25,2024-02-03,80.8,2,,Cash on Delivery
+101870,1184,Female,49.0,Hyderabad,Home & Kitchen,Lamp,1,4062.44,30,2023-09-06,86.3,4,5.0,Credit Card
+101889,1238,Female,33.0,Chennai,Home & Kitchen,Mixer Grinder,5,4101.38,25,2024-06-03,38.81,5,5.0,Cash on Delivery
+100720,1104,Female,32.0,Mumbai,Fashion,Jacket,2,1376.66,30,2023-10-31,103.88,4,5.0,Cash on Delivery
+100885,1079,Male,43.0,Bangalore,Fashion,T-Shirt,1,2309.24,15,2023-07-09,,6,2.0,Debit Card
+100777,1432,Male,40.0,Chennai,Home & Kitchen,Vacuum Cleaner,1,3809.03,0,2023-01-26,85.87,6,3.0,Net Banking
+101570,1475,Male,19.0,Bangalore,Fashion,Jeans,3,635.12,15,2024-12-08,118.19,5,3.0,Net Banking
+100850,1378,Male,16.0,Kolkata,Books,Textbook,1,205.11,0,2024-03-22,,2,4.0,Cash on Delivery
+100895,1467,Male,48.0,Ahmedabad,Home & Kitchen,Cookware Set,1,1207.68,0,2024-07-28,127.47,6,4.0,Cash on Delivery
+100228,1175,Female,42.0,Mumbai,Sports,Football,1,1677.28,25,2023-02-06,43.7,5,4.0,Cash on Delivery
+101903,1200,Male,47.0,Mumbai,Sports,Yoga Mat,1,1635.99,10,2024-05-06,55.57,3,4.0,Debit Card
+101326,1241,Female,29.0,Delhi,Books,Textbook,1,457.18,20,2024-11-01,92.64,6,5.0,UPI
+101300,1112,Female,43.0,Jaipur,Sports,Football,1,2031.63,5,2023-04-14,127.59,5,2.0,Credit Card
+100127,1396,Male,,Kolkata,Fashion,Jeans,1,1300.66,30,2023-05-26,129.83,6,,Credit Card
+100406,1372,Male,50.0,Mumbai,Books,Biography,2,270.76,20,2023-11-22,61.42,2,4.0,Credit Card
+100776,1481,Female,37.0,Hyderabad,Home & Kitchen,Vacuum Cleaner,1,3470.9,20,2024-12-18,70.97,2,4.0,Net Banking
+100822,1058,Female,56.0,Patna,Home & Kitchen,Cookware Set,1,2812.79,15,2024-02-23,103.33,7,4.0,Net Banking
+100712,1368,Male,46.0,Pune,Sports,Dumbbells,2,2825.55,15,2023-02-27,71.04,1,3.0,UPI
+101911,1257,Female,22.0,Jaipur,Beauty,Lipstick,1,287.81,0,2024-12-07,47.37,5,2.0,Cash on Delivery
+101061,1014,Female,39.0,Mumbai,Home & Kitchen,Lamp,4,3468.56,5,2023-07-22,119.91,6,4.0,Debit Card
+101164,1380,Female,33.0,Pune,Electronics,Smartphone,1,14063.75,20,2023-10-26,148.71,2,5.0,Debit Card
+100304,1137,Female,47.0,Chennai,Sports,Dumbbells,1,1280.05,0,2023-09-29,102.16,3,5.0,UPI
+100268,1455,Female,35.0,Mumbai,Books,Biography,1,513.2,10,2024-12-25,58.52,4,2.0,Credit Card
+101558,1114,Female,32.0,Bangalore,Electronics,Headphones,1,22304.85,0,2023-12-06,56.0,7,4.0,Net Banking
+100546,1369,Male,40.0,Bangalore,Sports,Yoga Mat,5,1770.48,10,2023-12-07,85.42,8,3.0,Debit Card
+100213,1235,Male,29.0,Chennai,Books,Biography,5,401.87,0,2024-02-22,91.17,7,5.0,Cash on Delivery
+100897,1123,Male,38.0,Ahmedabad,Electronics,Laptop,2,13913.93,25,2024-08-10,113.68,2,4.0,Debit Card
+101493,1080,Male,23.0,,Books,Cookbook,1,569.74,15,2023-07-23,16.44,2,2.0,Net Banking
+101223,1129,Male,39.0,Bangalore,Electronics,Smartphone,3,18049.47,0,2023-10-20,19.78,8,5.0,UPI
+100917,1144,Female,45.0,Kolkata,Books,Textbook,1,350.38,5,2024-01-07,18.49,6,5.0,UPI
+101552,1005,Female,17.0,Jaipur,Fashion,Jacket,1,1639.81,25,2023-07-06,106.12,5,5.0,Cash on Delivery
+100676,1028,Male,34.0,Pune,Home & Kitchen,Mixer Grinder,4,3340.14,30,2023-07-15,50.78,4,5.0,Net Banking
+101290,1209,Female,33.0,kolkata,Fashion,Jeans,1,2556.81,30,2024-07-02,80.37,4,5.0,Net Banking
+100815,1259,Other,40.0,Patna,Home & Kitchen,Bedsheet,1,4846.83,20,2023-01-22,73.11,2,4.0,Cash on Delivery
+101266,1493,Female,57.0,Patna,Beauty,Shampoo,1,793.26,15,2023-06-25,23.0,2,5.0,Debit Card
+100343,1059,Female,40.0,Hyderabad,Beauty,Lipstick,1,758.82,0,2023-02-26,110.77,5,3.0,
+100550,1058,Male,17.0,Chennai,Sports,Running Shoes,1,54.93,5,2023-01-26,,7,4.0,Net Banking
+101411,1070,Male,28.0,Patna,Home & Kitchen,Cookware Set,2,3025.43,0,2024-07-23,96.74,7,3.0,UPI
+101215,1019,Male,31.0,Kolkata,Fashion,Jacket,1,2065.51,15,2024-01-24,148.82,4,,Credit Card
+100967,1225,Female,40.0,Hyderabad,Home & Kitchen,Bedsheet,1,3325.61,5,2023-03-27,69.65,5,4.0,UPI
+101231,1089,Female,37.0,Bangalore,Electronics,Smartphone,1,8192.71,0,2023-02-12,88.8,7,5.0,Debit Card
+100296,1284,Female,48.0,Pune,Home & Kitchen,Bedsheet,1,4159.72,15,2023-12-13,92.82,7,3.0,Credit Card
+100696,1385,Male,16.0,Chennai,Beauty,Perfume,1,905.71,20,2024-06-15,139.59,4,1.0,UPI
+101453,1236,Male,40.0,Hyderabad,Electronics,Smartwatch,3,21694.15,20,2023-05-04,100.89,3,1.0,UPI
+100074,1286,Female,32.0,Ahmedabad,Electronics,Smartwatch,1,14206.98,10,2023-04-07,95.65,1,1.0,Debit Card
+100606,1214,Male,47.0,Mumbai,Books,Cookbook,1,394.46,20,2024-04-01,41.72,5,4.0,Net Banking
+100105,1043,Female,32.0,Kolkata,Home & Kitchen,Lamp,1,4859.91,0,2023-02-17,44.23,4,5.0,Cash on Delivery
+100646,1014,Female,41.0,Jaipur,Electronics,Smartwatch,4,6689.48,0,2023-04-02,31.12,2,,Credit Card
+101405,1325,Female,39.0,Pune,Beauty,Hair Dryer,1,597.13,10,2024-11-24,145.51,1,2.0,Credit Card
+101987,1382,Female,25.0,Patna,Home & Kitchen,Lamp,2,1941.6,10,2024-10-16,,8,5.0,UPI
+101041,1385,Male,16.0,Delhi,Electronics,Smartphone,1,3012.44,0,2024-04-19,115.87,3,1.0,Net Banking
+100440,1459,Male,17.0,Hyderabad,Beauty,Shampoo,1,629.52,10,2024-08-02,58.15,5,4.0,Debit Card
+101020,1118,Other,38.0,Chennai,Sports,Running Shoes,1,2166.74,5,2024-12-19,88.69,7,4.0,Cash on Delivery
+100092,1277,Female,39.0,Mumbai,Beauty,Face Cream,3,406.8,15,2023-07-22,67.9,4,4.0,Cash on Delivery
+101113,1251,Female,34.0,Bangalore,Fashion,Jacket,1,1760.04,0,2023-07-11,28.95,5,5.0,UPI
+101778,1325,Female,,Ahmedabad,Fashion,Jeans,2,2122.12,5,2023-12-25,2.93,9,5.0,Debit Card
+100909,1136,Male,27.0,Jaipur,Beauty,Lipstick,1,820.67,20,2024-01-21,11.17,6,,Credit Card
+101475,1109,Female,21.0,Kolkata,Fashion,Jeans,1,1651.45,5,2023-02-07,0.0,5,5.0,Cash on Delivery
+100103,1148,Male,42.0,Kolkata,Home & Kitchen,Lamp,2,1847.8,20,2024-10-23,132.14,6,5.0,Cash on Delivery
+100239,1413,Female,40.0,Pune,Fashion,Jeans,2,1543.43,20,2023-01-04,46.67,9,4.0,Net Banking
+101725,1307,Female,32.0,Ahmedabad,Books,Cookbook,2,458.86,20,2024-04-15,51.08,3,5.0,Credit Card
+100943,1347,Female,56.0,Delhi,Fashion,T-Shirt,1,1370.65,25,2023-08-25,30.87,1,5.0,Net Banking
+101271,1285,Male,39.0,Kolkata,Beauty,Perfume,1,1184.16,0,2023-02-12,129.97,7,4.0,Credit Card
+100939,1289,Male,34.0,Jaipur,Books,Biography,1,515.86,20,2023-12-27,61.14,4,4.0,Net Banking
+101715,1117,Female,33.0,Kolkata,Beauty,Hair Dryer,1,772.96,0,2023-08-31,126.74,5,5.0,Credit Card
+101182,1454,Female,36.0,Kolkata,Home & Kitchen,Bedsheet,1,2524.66,20,2023-06-06,97.4,5,4.0,Debit Card
+101504,1232,Female,59.0,Pune,Sports,Cricket Bat,3,1209.55,0,2023-07-06,87.05,4,5.0,Debit Card
+101670,1340,Female,34.0,Delhi,Fashion,Sneakers,1,1394.28,5,2023-02-18,94.48,6,5.0,
+100006,1252,Male,52.0,Chennai,Home & Kitchen,Lamp,1,4016.69,20,2024-02-24,103.45,6,4.0,Net Banking
+101838,1415,Female,46.0,Kolkata,Books,Novel,1,339.08,25,2023-07-03,93.31,4,4.0,Cash on Delivery
+100966,1198,Female,38.0,,Sports,Cricket Bat,1,1831.29,0,2023-01-09,121.43,7,4.0,UPI
+100019,1160,Female,33.0,Jaipur,Books,Novel,1,597.05,15,2024-12-08,78.05,3,4.0,Credit Card
+101431,1003,Female,39.0,Patna,Books,Comic,1,420.71,10,2024-01-11,73.01,6,,Credit Card
+100122,1364,Male,16.0,Hyderabad,Electronics,Headphones,2,8805.0,20,2023-02-20,102.62,8,1.0,Debit Card
+100662,1317,Male,36.0,Kolkata,Home & Kitchen,Cookware Set,1,-3893.01,25,2023-05-25,29.95,4,5.0,Net Banking
+101705,1042,Male,16.0,Delhi,Electronics,Smartwatch,1,16270.97,5,2024-06-16,86.54,5,5.0,Net Banking
+100275,1448,Female,36.0,Patna,Home & Kitchen,Bedsheet,1,2176.53,25,2024-07-30,76.41,8,4.0,Debit Card
+100434,1158,Female,16.0,Kolkata,Electronics,Headphones,1,11887.14,10,2023-05-11,50.28,4,5.0,UPI
+100812,1452,Male,36.0,Jaipur,Electronics,Tablet,1,17301.63,5,2023-01-30,97.0,8,4.0,UPI
+101301,1498,Female,59.0,Chennai,Beauty,Lipstick,3,636.46,10,2024-05-21,42.36,2,4.0,UPI
+101336,1094,Female,51.0,Delhi,Books,Biography,1,418.84,0,2024-08-17,76.86,8,1.0,Cash on Delivery
+101890,1171,Male,51.0,Delhi,Beauty,Hair Dryer,1,870.12,10,2024-04-29,151.83,7,4.0,Credit Card
+101913,1479,Male,34.0,Bangalore,Home & Kitchen,Lamp,2,903.21,20,2023-03-10,45.44,4,3.0,UPI
+101571,1267,Male,54.0,Hyderabad,Fashion,Jacket,1,1097.65,10,2023-07-01,120.14,4,,Net Banking
+100182,1093,Male,37.0,Hyderabad,Home & Kitchen,Mixer Grinder,1,2548.02,10,2023-07-16,84.19,8,4.0,Debit Card
+100185,1250,Female,61.0,Hyderabad,Sports,Yoga Mat,1,1533.89,0,2024-08-02,124.91,4,4.0,Debit Card
+100407,1003,Male,26.0,Mumbai,Books,Novel,1,388.47,10,2024-07-21,77.78,1,2.0,UPI
+100866,1479,Female,26.0,Bangalore,Home & Kitchen,Vacuum Cleaner,1,3778.67,20,2024-12-29,115.1,5,5.0,Credit Card
+101631,1159,Male,17.0,ahmedabad,Books,Textbook,1,392.12,5,2023-03-27,79.83,2,4.0,UPI
+100521,1171,Male,43.0,Jaipur,Books,Cookbook,1,120.57,15,2024-08-18,79.65,1,4.0,Cash on Delivery
+101004,1426,Other,43.0,Delhi,Electronics,Laptop,1,18510.2,20,2024-11-17,71.38,6,5.0,Debit Card
+100381,1041,Male,23.0,Hyderabad,Fashion,Jacket,1,1892.09,5,2023-12-31,71.45,3,4.0,Credit Card
+101435,1341,Male,27.0,ahmedabad,Electronics,Smartphone,1,14974.45,25,2024-05-10,89.02,4,5.0,Net Banking
+101659,1460,Female,24.0,Kolkata,Books,Textbook,1,307.43,0,2024-09-02,163.43,10,2.0,Debit Card
+101394,1067,Male,53.0,Ahmedabad,Sports,Running Shoes,1,1590.25,5,2024-10-01,57.7,6,5.0,UPI
+101425,1451,Female,25.0,Patna,Electronics,Smartwatch,3,15123.29,15,2024-04-21,67.28,7,5.0,UPI
+101613,1271,Female,35.0,Pune,Sports,Yoga Mat,4,1747.3,0,2024-07-19,51.9,6,3.0,Credit Card
+100428,1093,Male,35.0,Delhi,Beauty,Perfume,2,1315.06,5,2024-02-07,52.07,2,4.0,Credit Card
+100079,1105,Male,56.0,Jaipur,Books,Comic,1,418.35,15,2024-02-22,51.71,6,,UPI
+101598,1342,Male,39.0,Pune,Beauty,Perfume,1,838.28,0,2023-07-02,152.65,8,4.0,Cash on Delivery
+101010,1283,Male,43.0,Patna,Sports,Football,1,973.38,15,2023-02-10,59.63,5,2.0,Credit Card
+101996,1036,Male,56.0,Delhi,Books,Textbook,1,343.44,10,2023-01-30,,7,5.0,Credit Card
+101662,1278,Female,18.0,Chennai,Fashion,T-Shirt,1,1218.17,0,2023-02-06,21.88,3,4.0,Cash on Delivery
+100608,1272,Female,42.0,Chennai,Home & Kitchen,Mixer Grinder,1,1938.45,10,2023-06-09,130.08,7,4.0,Net Banking
+101806,1059,Female,30.0,Mumbai,Books,Novel,2,395.24,5,2024-05-14,19.39,4,4.0,Net Banking
+101814,1024,Male,26.0,Patna,Books,Biography,2,462.29,5,2023-12-08,122.81,5,5.0,Cash on Delivery
+101845,1055,Female,38.0,Pune,Home & Kitchen,Bedsheet,1,1554.14,0,2024-06-12,119.17,7,5.0,Net Banking
+101058,1084,Other,24.0,Chennai,Electronics,Headphones,1,9762.69,0,2024-07-03,136.54,6,5.0,Credit Card
+101441,1251,Female,23.0,Bangalore,Books,Biography,1,291.72,10,2023-01-17,33.76,2,1.0,Cash on Delivery
+101515,1003,Female,16.0,Delhi,Home & Kitchen,Lamp,1,3729.34,10,2024-08-12,38.4,1,4.0,Net Banking
+101586,1002,Male,37.0,Jaipur,Home & Kitchen,Mixer Grinder,2,284.64,0,2024-02-07,94.07,7,4.0,UPI
+101092,1311,Male,53.0,Patna,Home & Kitchen,Lamp,1,3448.48,10,2023-10-24,133.73,4,,Net Banking
+101561,1017,Male,36.0,Chennai,Books,Comic,4,203.62,25,2024-04-17,145.85,6,3.0,Cash on Delivery
+101102,1018,Male,33.0,Kolkata,Sports,Football,1,1704.32,25,2023-10-24,57.28,3,4.0,UPI
+101130,1241,Female,30.0,Pune,Home & Kitchen,Mixer Grinder,1,2210.3,10,2024-01-05,42.87,3,3.0,Cash on Delivery
+101236,1070,Male,52.0,Mumbai,Electronics,Laptop,1,17837.69,0,2023-03-12,122.57,3,2.0,Credit Card
+101788,1078,Male,36.0,Jaipur,Fashion,Handbag,1,1543.71,20,2023-11-06,110.87,7,4.0,Net Banking
+100959,1349,Female,23.0,Kolkata,Books,Biography,1,209.92,0,2023-08-22,155.92,4,3.0,Cash on Delivery
+101663,1269,Male,,Ahmedabad,Books,Novel,1,491.11,0,2024-01-16,86.53,1,5.0,Cash on Delivery
+100560,1268,Male,33.0,Kolkata,Home & Kitchen,Lamp,1,2578.95,30,2023-02-07,105.78,3,5.0,UPI
+100847,1071,Female,48.0,Jaipur,Beauty,Hair Dryer,1,717.95,0,2024-09-14,65.03,7,5.0,UPI
+101768,1386,Female,52.0,Delhi,Home & Kitchen,Vacuum Cleaner,1,4895.64,0,2023-12-31,136.28,6,4.0,Cash on Delivery
+100691,1346,Male,40.0,Ahmedabad,Books,Novel,2,517.56,20,2024-12-26,95.06,3,,Net Banking
+101520,1235,Female,37.0,Hyderabad,Sports,Dumbbells,1,1502.01,10,2023-02-01,106.49,6,4.0,Net Banking
+101961,1020,Male,40.0,Pune,Electronics,Headphones,1,12643.14,20,2023-08-18,89.78,2,4.0,Net Banking
+101888,1266,Female,29.0,Kolkata,Books,Comic,1,542.83,20,2024-08-10,24.78,4,5.0,UPI
+100437,1442,Male,16.0,Delhi,Sports,Yoga Mat,1,1964.41,5,2024-05-19,67.14,2,3.0,UPI
+100491,1405,Male,51.0,Hyderabad,Fashion,T-Shirt,1,984.21,25,2024-07-09,78.94,7,5.0,Credit Card
+100232,1338,Male,27.0,Hyderabad,Sports,Yoga Mat,5,2151.34,0,2024-04-25,80.44,7,4.0,UPI
+101922,1002,Female,31.0,Ahmedabad,Home & Kitchen,Vacuum Cleaner,1,4280.6,10,2024-07-23,54.21,6,4.0,Net Banking
+101630,1244,Female,44.0,kolkata,Books,Comic,1,432.54,30,2024-03-17,100.77,4,3.0,Net Banking
+101388,1001,Male,54.0,Bangalore,Fashion,T-Shirt,1,2321.53,25,2024-09-06,137.62,5,5.0,UPI
+100070,1044,Female,16.0,Chennai,Home & Kitchen,Mixer Grinder,1,3977.38,0,2024-10-16,,5,5.0,Net Banking
+101573,1233,Male,40.0,Kolkata,Fashion,Handbag,1,1864.51,15,2024-10-03,44.53,3,4.0,Net Banking
+100809,1339,Male,51.0,Kolkata,Sports,Football,1,1979.03,0,2024-12-15,158.82,3,4.0,Debit Card
+101185,1499,Female,33.0,Mumbai,Electronics,Headphones,1,7753.52,20,2023-04-03,69.18,8,5.0,Debit Card
+100012,1378,Male,51.0,Kolkata,Fashion,Jeans,1,1687.36,10,2024-08-02,42.94,4,4.0,Credit Card
+100145,1112,Male,30.0,Ahmedabad,Sports,Yoga Mat,2,1428.4,0,2024-12-02,33.46,5,4.0,Debit Card
+100918,1231,Female,37.0,Ahmedabad,Home & Kitchen,Bedsheet,3,3825.93,0,2023-06-26,47.64,2,5.0,Debit Card
+101542,1422,Female,45.0,Chennai,Home & Kitchen,Vacuum Cleaner,1,3295.8,25,2023-03-21,143.59,5,5.0,Net Banking
+101452,1016,Male,26.0,Mumbai,Beauty,Perfume,1,808.88,30,2024-10-14,52.99,7,4.0,Net Banking
+100640,1084,Male,27.0,Pune,Books,Cookbook,1,699.34,20,2023-12-29,63.32,4,,Net Banking
+100177,1098,Other,41.0,Jaipur,Sports,Yoga Mat,1,50.0,15,2023-12-18,121.01,4,5.0,UPI
+100995,1276,Female,39.0,Bangalore,Books,Comic,3,496.38,5,2023-11-09,117.28,4,5.0,Debit Card
+100441,1299,Female,49.0,Mumbai,Home & Kitchen,Cookware Set,2,1961.34,0,2023-03-20,88.0,1,3.0,Net Banking
+100522,1160,Male,42.0,Bangalore,Sports,Cricket Bat,1,697.03,30,2024-09-21,0.48,1,3.0,Cash on Delivery
+101316,1162,Female,29.0,Patna,Home & Kitchen,Lamp,2,3564.14,5,2023-08-16,54.3,4,5.0,Net Banking
+101965,1447,Male,28.0,Ahmedabad,Books,Comic,1,456.96,10,2024-07-16,37.42,5,3.0,Net Banking
+101713,1203,Male,16.0,Hyderabad,Beauty,Hair Dryer,1,740.82,20,2024-01-16,32.39,5,5.0,Cash on Delivery
+101005,1176,Female,53.0,Pune,Beauty,Hair Dryer,1,470.38,5,2023-03-16,43.27,4,3.0,Debit Card
+101256,1469,Female,27.0,Jaipur,Fashion,Sneakers,4,1091.18,20,2023-11-16,48.59,8,5.0,UPI
+101235,1104,Male,61.0,Mumbai,Electronics,Laptop,1,15847.77,5,2023-08-25,110.78,5,5.0,Debit Card
+101665,1426,Male,18.0,Bangalore,Home & Kitchen,Bedsheet,2,1661.62,20,2023-07-15,75.33,7,5.0,UPI
+100144,1497,Male,,Chennai,Fashion,T-Shirt,4,1119.72,10,2023-02-13,54.87,3,3.0,Cash on Delivery
+100754,1105,Female,32.0,Chennai,Fashion,T-Shirt,3,1833.05,25,2024-06-16,123.89,5,5.0,Cash on Delivery
+100520,1146,Female,40.0,Pune,Fashion,Jacket,1,1599.62,0,2023-01-13,129.15,5,5.0,Credit Card
+100872,1444,Male,23.0,Ahmedabad,Electronics,Headphones,3,10889.33,5,2024-04-09,88.6,4,5.0,Debit Card
+101323,1132,Male,32.0,Patna,Home & Kitchen,Bedsheet,1,3367.17,0,2024-04-15,74.95,7,2.0,UPI
+100823,1156,Male,24.0,Ahmedabad,Electronics,Laptop,1,6984.85,10,2023-10-23,87.58,6,4.0,Cash on Delivery
+100429,1197,Male,20.0,Ahmedabad,Fashion,Sneakers,1,870.31,25,2023-06-04,55.78,8,2.0,UPI
+100613,1047,Female,33.0,Kolkata,Fashion,Handbag,2,2244.93,10,2023-04-15,100.39,4,3.0,Net Banking
+101506,1229,Female,30.0,Chennai,Sports,Football,1,2353.35,25,2024-08-25,60.69,3,5.0,UPI
+101033,1366,Male,31.0,Delhi,Home & Kitchen,Lamp,1,2901.42,10,2023-09-07,97.27,1,,Cash on Delivery
+100157,1208,Male,16.0,Jaipur,Beauty,Hair Dryer,1,651.07,10,2023-10-26,174.98,1,1.0,Net Banking
+100540,1368,Other,46.0,Chennai,Sports,Dumbbells,1,1975.74,0,2023-01-10,79.55,5,5.0,Net Banking
+101531,1364,Female,,Chennai,Sports,Dumbbells,1,1840.34,20,2023-11-01,88.88,4,5.0,Cash on Delivery
+101461,1477,Female,53.0,Jaipur,Sports,Cricket Bat,1,2715.19,0,2024-03-12,41.74,4,4.0,Debit Card
+101291,1269,Male,44.0,Kolkata,Sports,Cricket Bat,1,3277.9,0,2023-06-26,,3,2.0,Cash on Delivery
+100462,1169,Male,40.0,Jaipur,Fashion,Jacket,1,1319.79,10,2024-05-23,69.68,4,4.0,Net Banking
+100577,1459,Male,33.0,Jaipur,Beauty,Shampoo,1,1042.08,15,2023-02-18,70.49,4,4.0,Net Banking
+101363,1258,Male,39.0,Delhi,Fashion,Sneakers,1,2443.79,20,2024-08-30,141.97,1,5.0,Debit Card
+100256,1064,Male,44.0,Bangalore,Fashion,Handbag,1,1802.77,15,2023-12-27,185.39,6,5.0,Debit Card
+100980,1121,Female,46.0,Hyderabad,Electronics,Headphones,2,17234.35,5,2023-08-29,133.59,4,1.0,Debit Card
+101186,1024,Male,26.0,Mumbai,Beauty,Hair Dryer,1,606.78,0,2024-05-15,57.31,4,5.0,Net Banking
+101007,1421,Female,25.0,Jaipur,Fashion,Jeans,2,1966.23,5,2024-08-12,47.02,7,1.0,Cash on Delivery
+101522,1484,Male,21.0,Kolkata,Home & Kitchen,Mixer Grinder,4,2792.38,15,2023-06-04,113.67,7,2.0,
+101690,1133,Male,27.0,Jaipur,Fashion,Sneakers,1,2203.25,5,2024-09-03,136.07,3,1.0,Debit Card
+100561,1193,Male,28.0,Patna,Electronics,Tablet,0,324137.62270521314,5,2024-04-05,145.71,5,4.0,UPI
+100209,1316,Other,25.0,Ahmedabad,Home & Kitchen,Cookware Set,1,2795.27,5,2023-07-20,71.43,1,,Credit Card
+100911,1084,Female,25.0,Kolkata,Fashion,T-Shirt,2,1579.36,15,2024-07-02,105.49,5,3.0,Credit Card
+101312,1299,Other,32.0,Jaipur,Sports,Football,1,2879.31,25,2023-04-22,112.92,5,1.0,Credit Card
+100002,1091,Female,48.0,Jaipur,Beauty,Lipstick,1,559.4,0,2024-09-18,78.0,4,4.0,Cash on Delivery
+101366,1337,Male,35.0,Delhi,Home & Kitchen,Bedsheet,4,4155.01,0,2023-06-12,55.51,1,5.0,UPI
+100270,1096,Male,,Delhi,Books,Biography,1,431.4,20,2024-11-08,115.94,6,4.0,Cash on Delivery
+100266,1077,Male,,Jaipur,Books,Novel,1,455.5,5,2024-01-29,125.63,4,3.0,Net Banking
+100915,1318,Female,47.0,Ahmedabad,Fashion,Jacket,1,1449.07,0,2023-10-07,30.64,4,4.0,Cash on Delivery
+100231,1379,Male,49.0,Jaipur,Books,Novel,1,434.85,0,2024-08-18,116.78,8,4.0,Net Banking
+101999,1018,Male,20.0,Hyderabad,Electronics,Smartphone,1,18606.14,5,2023-07-08,55.36,8,4.0,Net Banking
+101120,1438,Female,,Pune,Books,Textbook,1,456.41,20,2024-06-15,69.01,5,5.0,Cash on Delivery
+101993,1333,Female,,Kolkata,Beauty,Perfume,3,634.68,0,2023-08-11,51.48,3,4.0,Cash on Delivery
+100865,1011,Male,20.0,Hyderabad,Sports,Yoga Mat,1,1646.07,15,2023-11-28,53.5,1,2.0,Credit Card
+101067,1107,Male,26.0,Bangalore,Electronics,Smartwatch,2,22657.74,15,2023-02-22,54.01,2,,Net Banking
+100874,1278,Female,50.0,Mumbai,Home & Kitchen,Bedsheet,1,2556.21,0,2024-11-13,96.17,5,1.0,Cash on Delivery
+101817,1333,Female,16.0,Delhi,Fashion,Jeans,2,2792.66,15,2023-05-02,132.27,4,4.0,Cash on Delivery
+100399,1477,Male,34.0,Chennai,Sports,Cricket Bat,1,2429.13,15,2023-06-25,51.37,5,3.0,Debit Card
+101848,1007,Male,27.0,Jaipur,Books,Comic,1,545.15,5,2024-07-04,37.26,6,5.0,Cash on Delivery
+101653,1036,Male,29.0,Patna,Electronics,Laptop,1,4671.41,10,2023-05-17,106.4,6,,Debit Card
+100046,1279,Female,34.0,Ahmedabad,Sports,Cricket Bat,1,1454.36,20,2023-10-08,104.5,6,5.0,UPI
+100162,1476,Female,28.0,Hyderabad,Books,Textbook,1,331.16,15,2024-04-19,53.75,3,3.0,Cash on Delivery
+100992,1390,Female,36.0,Pune,Home & Kitchen,Vacuum Cleaner,1,1622.28,20,2023-01-01,90.11,6,1.0,UPI
+100728,1283,Female,25.0,ahmedabad,Fashion,Sneakers,3,1468.76,0,2023-01-27,57.49,4,5.0,Credit Card
+100630,1147,Male,42.0,Chennai,Books,Novel,2,336.66,30,2023-02-01,64.39,5,4.0,Cash on Delivery
+100289,1289,Male,41.0,Delhi,Beauty,Shampoo,3,915.61,15,2024-01-19,53.21,5,2.0,Cash on Delivery
+101614,1088,Male,49.0,Pune,Books,Biography,1,457.43,20,2024-09-04,82.72,5,5.0,Credit Card
+101060,1034,Male,55.0,Chennai,Home & Kitchen,Cookware Set,3,2824.05,5,2023-04-26,91.22,5,5.0,Credit Card
+101977,1195,Male,22.0,Chennai,Sports,Dumbbells,2,1899.3,25,2023-05-09,70.97,3,3.0,UPI
+100576,1336,Male,45.0,Ahmedabad,Beauty,Shampoo,1,1215.84,20,2024-03-22,80.95,4,2.0,Credit Card
+100851,1221,Female,56.0,Pune,Electronics,Smartphone,1,13498.3,0,2023-07-27,62.29,4,4.0,Net Banking
+101340,1496,Male,38.0,Kolkata,Books,Biography,1,622.86,5,2023-11-12,17.24,9,3.0,Cash on Delivery
+100912,1225,Female,20.0,,Books,Comic,1,432.37,5,2023-05-06,8.29,2,4.0,Cash on Delivery
+101255,1271,Male,,Chennai,Books,Biography,1,271.97,5,2023-10-06,89.75,1,2.0,Net Banking
+101723,1108,Male,60.0,Bangalore,Electronics,Smartwatch,1,328.87,0,2023-09-17,65.41,3,3.0,Net Banking
+101914,1134,Female,28.0,Jaipur,Home & Kitchen,Bedsheet,1,3290.01,5,2023-10-06,126.75,2,4.0,Credit Card
+101736,1063,Male,46.0,Chennai,Books,Novel,1,301.31,25,2024-02-14,74.09,3,4.0,Debit Card
+100933,1236,Female,71.0,Mumbai,Sports,Running Shoes,2,1367.67,20,2023-12-11,91.78,1,,Cash on Delivery
+101101,1141,Male,36.0,Mumbai,Beauty,Lipstick,2,776.05,20,2023-09-08,43.99,5,4.0,Net Banking
+101658,1307,Male,55.0,Jaipur,Beauty,Hair Dryer,1,1366.46,0,2023-07-17,114.73,6,,Cash on Delivery
+101208,1086,Male,,Bangalore,Sports,Yoga Mat,1,2198.63,0,2024-12-04,135.91,2,5.0,Cash on Delivery
+100248,1266,Female,46.0,Mumbai,Home & Kitchen,Lamp,1,1440.18,10,2024-12-23,131.47,1,5.0,Credit Card
+100477,1371,Female,40.0,Mumbai,Fashion,Jeans,1,388.45,0,2024-07-25,87.07,3,4.0,Credit Card
+101695,1110,Male,49.0,Jaipur,Beauty,Face Cream,1,893.33,10,2023-01-10,95.24,5,5.0,UPI
+100086,1373,Female,51.0,Patna,Fashion,Jeans,4,1333.1,25,2023-01-03,73.35,8,4.0,Net Banking
+100470,1346,Male,23.0,Mumbai,Home & Kitchen,Mixer Grinder,1,3104.7,25,2023-04-24,40.97,3,3.0,Credit Card
+100226,1373,Female,30.0,Ahmedabad,Beauty,Shampoo,2,1015.31,5,2024-09-08,101.65,3,4.0,Credit Card
+100775,1140,Male,46.0,hyderabad,Electronics,Laptop,1,12530.59,20,2024-03-02,76.15,7,4.0,Debit Card
+100332,1462,Female,51.0,Pune,Books,Biography,1,462.74,15,2023-01-01,57.15,1,3.0,Credit Card
+100234,1433,Male,48.0,Patna,Electronics,Headphones,3,16284.58,15,2024-09-22,45.2,3,2.0,Credit Card
+100589,1032,Male,48.0,Jaipur,Books,Cookbook,5,550.59,5,2023-07-17,81.39,3,3.0,Credit Card
+100476,1446,Female,54.0,Ahmedabad,Home & Kitchen,Vacuum Cleaner,2,3002.26,25,2023-10-28,81.87,7,5.0,Debit Card
+101285,1477,Male,38.0,delhi,Beauty,Hair Dryer,1,1149.37,15,2024-05-10,86.65,4,4.0,UPI
+101891,1454,Male,30.0,Kolkata,Home & Kitchen,Vacuum Cleaner,1,2622.63,5,2024-03-15,104.11,2,4.0,Cash on Delivery
+100600,1374,Female,16.0,Patna,Electronics,Smartphone,3,13700.03,5,2024-06-25,,6,4.0,Net Banking
+100422,1346,Male,26.0,Bangalore,Books,Novel,1,368.15,0,2023-01-28,87.16,6,5.0,Credit Card
+101712,1440,Male,28.0,Chennai,Home & Kitchen,Bedsheet,2,615.05,10,2024-07-15,138.63,2,5.0,Cash on Delivery
+100183,1164,Male,37.0,Hyderabad,Home & Kitchen,Cookware Set,1,3513.1,20,2023-01-05,69.92,3,1.0,Debit Card
+100989,1306,Female,46.0,Chennai,Home & Kitchen,Cookware Set,4,2436.11,15,2024-08-04,77.33,5,5.0,UPI
+101001,1334,Male,32.0,Chennai,Books,Cookbook,2,491.82,0,2024-05-23,61.66,4,5.0,Net Banking
+101642,1242,Male,30.0,Delhi,Beauty,Shampoo,1,708.85,25,2023-04-09,116.67,6,4.0,Cash on Delivery
+101357,1358,Male,29.0,Delhi,Sports,Cricket Bat,1,1255.27,10,2023-02-25,89.79,5,4.0,UPI
+101463,1250,Female,37.0,Pune,Sports,Cricket Bat,1,2046.81,0,2023-08-20,88.7,2,4.0,UPI
+100050,1251,Male,52.0,Kolkata,Books,Textbook,1,436.15,0,2023-08-12,62.06,5,3.0,Credit Card
+101898,1331,Female,36.0,Kolkata,Sports,Yoga Mat,1,2407.44,20,2023-08-29,49.43,1,5.0,Net Banking
+101030,1021,Male,47.0,Mumbai,Fashion,Sneakers,2,1708.39,20,2024-04-04,,4,5.0,UPI
+100530,1143,Female,28.0,Hyderabad,Beauty,Perfume,2,426.07,0,2023-06-07,81.7,4,2.0,Credit Card
+101259,1354,Female,49.0,Delhi,Fashion,Handbag,3,1737.52,20,2024-08-29,78.66,1,4.0,Cash on Delivery
+100487,1201,Female,23.0,Kolkata,Home & Kitchen,Cookware Set,1,1417.53,10,2024-03-26,114.9,7,5.0,UPI
+101974,1487,Male,37.0,Patna,Books,Textbook,2,355.66,0,2024-08-17,153.39,4,,Cash on Delivery
+100498,1079,Male,26.0,chennai,Electronics,Headphones,1,23019.54,30,2024-03-29,42.78,4,4.0,Credit Card
+101647,1227,Male,48.0,Kolkata,Sports,Dumbbells,1,1530.18,15,2023-06-07,45.39,5,4.0,Credit Card
+100107,1324,Male,,Pune,Home & Kitchen,Mixer Grinder,2,4070.0,5,2024-05-25,90.91,3,4.0,Cash on Delivery
+100444,1435,Female,45.0,Patna,Beauty,Hair Dryer,1,680.7,0,2024-06-15,79.43,6,4.0,Debit Card
+101513,1052,Male,37.0,Jaipur,Books,Biography,5,448.42,25,2023-10-15,86.58,6,5.0,Cash on Delivery
+100647,1212,Female,27.0,Pune,Home & Kitchen,Lamp,1,2445.8,0,2023-05-11,107.85,7,4.0,UPI
+101037,1495,Male,61.0,Ahmedabad,Books,Novel,1,463.62,0,2023-10-20,46.36,5,5.0,Net Banking
+101763,1062,Female,30.0,Delhi,Fashion,Sneakers,1,2053.66,0,2023-11-30,77.64,3,1.0,Credit Card
+100727,1148,Female,37.0,Chennai,Home & Kitchen,Lamp,2,2754.21,25,2023-01-08,39.03,4,5.0,UPI
+100191,1244,Male,39.0,Patna,Sports,Cricket Bat,1,1878.99,0,2023-02-23,72.16,4,2.0,Cash on Delivery
+101789,1371,Male,25.0,Patna,Electronics,Tablet,4,12342.24,5,2024-05-16,76.18,8,5.0,Cash on Delivery
+101857,1033,Other,40.0,chennai,Sports,Cricket Bat,1,1443.18,20,2024-06-25,71.86,5,1.0,UPI
+100283,1116,Male,31.0,Jaipur,Fashion,Jacket,2,1604.6,0,2023-02-22,80.17,5,3.0,Net Banking
+100030,1480,Female,44.0,Ahmedabad,Beauty,Lipstick,1,818.63,15,2023-01-26,111.29,4,4.0,Debit Card
+100170,1018,Female,41.0,Patna,Fashion,Sneakers,1,1615.28,15,2024-08-12,56.51,5,3.0,Debit Card
+101002,1274,Female,21.0,Delhi,Books,Comic,2,442.98,10,2024-07-29,175.88,4,4.0,UPI
+101205,1149,Female,16.0,Pune,Fashion,Jacket,2,1365.63,15,2023-04-08,48.24,3,2.0,Cash on Delivery
+100101,1144,Male,33.0,jaipur,Beauty,Shampoo,3,817.34,15,2023-11-27,18.25,6,,Credit Card
+100198,1113,Female,33.0,Ahmedabad,Electronics,Tablet,1,29195.92,15,2023-07-09,42.29,6,2.0,Credit Card
+100496,1409,Male,58.0,Mumbai,Beauty,Perfume,1,881.68,5,2023-12-03,80.21,8,4.0,Cash on Delivery
+101746,1057,Male,20.0,Hyderabad,Books,Comic,3,541.33,25,2024-08-27,2.65,3,5.0,Net Banking
+100648,1418,Male,40.0,Patna,Books,Comic,1,275.31,5,2024-09-05,108.28,1,2.0,UPI
+100988,1325,Female,43.0,Jaipur,Fashion,Jeans,3,1485.52,5,2024-01-15,110.01,8,5.0,Net Banking
+100045,1294,Female,37.0,Pune,Beauty,Perfume,1,705.01,10,2024-01-22,183.91,5,5.0,Net Banking
+101958,1010,Female,30.0,Mumbai,Books,Comic,1,522.14,20,2024-01-13,92.66,5,4.0,UPI
+100711,1499,Male,26.0,Bangalore,Books,Novel,2,434.17,30,2024-01-24,89.87,4,4.0,Cash on Delivery
+100374,1086,Male,28.0,Pune,Sports,Yoga Mat,1,2042.71,5,2023-02-13,58.34,6,4.0,Credit Card
+100679,1455,Male,51.0,Patna,Beauty,Perfume,1,513.57,0,2023-04-02,106.68,4,4.0,Debit Card
+100567,1308,Male,31.0,Chennai,Home & Kitchen,Lamp,1,3820.83,15,2023-11-05,71.57,4,4.0,Credit Card
+101673,1008,Female,34.0,Ahmedabad,Home & Kitchen,Cookware Set,2,2036.84,10,2024-06-13,145.62,4,,Net Banking
+101822,1007,Female,29.0,Ahmedabad,Electronics,Tablet,1,8532.28,15,2024-12-16,114.9,4,5.0,Cash on Delivery
+100848,1018,Female,37.0,Kolkata,Home & Kitchen,Vacuum Cleaner,1,5475.69,15,2023-10-29,65.39,7,5.0,Cash on Delivery
+100461,1337,Female,57.0,Delhi,Fashion,Sneakers,1,1720.24,10,2024-05-16,113.09,1,5.0,Cash on Delivery
+101438,1086,Female,38.0,Chennai,Sports,Cricket Bat,1,2190.47,15,2024-06-25,25.96,4,3.0,Debit Card
+101156,1265,Male,36.0,Mumbai,Electronics,Laptop,3,17773.68,25,2024-08-29,112.47,4,1.0,Debit Card
+100040,1228,Male,33.0,Bangalore,Beauty,Shampoo,2,825.8,0,2024-08-16,44.47,4,5.0,Net Banking
+100435,1329,Male,47.0,kolkata,Sports,Cricket Bat,1,2554.99,15,2023-11-25,109.01,6,4.0,Debit Card
+100974,1034,Male,37.0,Delhi,Fashion,Handbag,4,1441.74,0,2023-09-28,121.21,6,5.0,UPI
+101240,1180,Female,25.0,Jaipur,Beauty,Lipstick,2,819.53,10,2024-07-18,27.52,7,3.0,Cash on Delivery
+101008,1017,Female,30.0,Ahmedabad,Beauty,Face Cream,2,1288.7,30,2024-10-14,74.93,7,5.0,UPI
+101580,1352,Female,35.0,,Fashion,Jeans,1,1712.02,10,2024-07-31,115.43,7,4.0,Net Banking
+101591,1236,Other,39.0,Mumbai,Fashion,Sneakers,1,1445.86,0,2023-11-21,50.86,3,5.0,UPI
+101787,1400,Male,35.0,Mumbai,Home & Kitchen,Lamp,3,1509.24,0,2024-04-17,117.4,4,4.0,Credit Card
+101499,1010,Male,29.0,Patna,Books,Cookbook,1,584.73,25,2023-08-21,61.7,5,4.0,Net Banking
+100457,1489,Male,23.0,,Sports,Yoga Mat,1,1634.87,25,2023-07-27,155.58,7,3.0,UPI
+101836,1274,Male,23.0,Jaipur,Books,Novel,3,586.95,0,2023-12-10,23.74,3,,Debit Card
+100261,1165,Male,43.0,Bangalore,Home & Kitchen,Mixer Grinder,1,3009.63,30,2024-02-20,13.43,9,2.0,Net Banking
+101841,1275,Female,41.0,Bangalore,Electronics,Tablet,3,18997.88,15,2024-09-12,70.25,7,5.0,UPI
+100036,1061,Female,29.0,Mumbai,Beauty,Face Cream,2,1166.67,5,2024-12-07,48.23,5,5.0,UPI
+100828,1495,Female,41.0,Chennai,Books,Textbook,1,110.62,0,2023-10-01,71.67,5,,Net Banking
+100310,1345,Female,25.0,Jaipur,Fashion,Sneakers,1,80.5,0,2023-04-21,39.22,5,1.0,UPI
+100277,1035,Male,20.0,kolkata,Electronics,Smartwatch,1,19302.1,30,2023-02-20,158.65,1,5.0,Cash on Delivery
+100637,1266,Male,,Patna,Electronics,Laptop,1,6042.99,10,2023-08-12,71.01,5,3.0,UPI
+100655,1146,Female,42.0,Ahmedabad,Beauty,Face Cream,3,544.55,15,2023-09-15,74.6,6,4.0,Credit Card
+100623,1292,Female,16.0,Delhi,Home & Kitchen,Cookware Set,1,2894.47,5,2023-02-22,107.05,8,5.0,UPI
+101860,1291,Male,16.0,Delhi,Sports,Football,1,2692.49,10,2023-09-21,48.97,4,5.0,Debit Card
+100845,1214,Male,16.0,Chennai,Fashion,Jacket,5,2006.17,15,2024-02-20,103.84,4,4.0,Net Banking
+100394,1355,Female,38.0,Bangalore,Books,Comic,1,334.65,10,2023-11-17,48.03,5,2.0,Credit Card
+101770,1038,Female,60.0,Pune,Home & Kitchen,Lamp,4,3804.17,10,2023-06-30,89.48,5,5.0,Credit Card
+100108,1458,Female,,Patna,Books,Comic,1,201.52,15,2024-11-22,19.71,3,4.0,Debit Card
+100350,1290,Male,35.0,Jaipur,Electronics,Tablet,1,12412.44,15,2024-01-17,108.89,2,5.0,Cash on Delivery
+100525,1386,Male,35.0,Ahmedabad,Sports,Cricket Bat,1,1770.3,15,2023-12-25,89.26,6,3.0,UPI
+100785,1083,Female,36.0,Delhi,Beauty,Perfume,1,767.06,20,2024-03-01,91.03,9,3.0,UPI
+100048,1119,Male,16.0,Hyderabad,Beauty,Hair Dryer,2,1477.72,5,2024-07-16,17.56,4,4.0,Net Banking
+100204,1132,Female,29.0,Jaipur,Books,Textbook,1,485.52,15,2024-01-29,131.67,8,4.0,Cash on Delivery
+101260,1180,Male,26.0,Pune,Beauty,Perfume,1,803.81,20,2024-02-17,106.58,7,4.0,Cash on Delivery
+101656,1261,Male,54.0,Mumbai,Home & Kitchen,Bedsheet,1,3404.28,15,2023-07-08,116.05,6,1.0,Debit Card
+100022,1090,Female,17.0,Jaipur,Beauty,Shampoo,1,888.37,20,2023-07-02,0.0,4,4.0,Net Banking
+100403,1365,Male,29.0,Kolkata,Fashion,Handbag,1,1685.04,0,2023-09-21,0.0,6,5.0,Net Banking
+101108,1077,Female,44.0,mumbai,Home & Kitchen,Vacuum Cleaner,1,2557.09,15,2024-08-17,42.66,2,3.0,Credit Card
+101155,1376,Female,34.0,Mumbai,Books,Novel,2,408.04,0,2023-12-16,77.62,3,5.0,UPI
+101440,1206,Female,57.0,,Beauty,Shampoo,1,1159.65,20,2023-11-04,137.08,4,4.0,UPI
+101150,1330,Female,19.0,Patna,Sports,Football,1,2110.54,0,2024-04-02,47.54,4,5.0,UPI
+100990,1412,Male,42.0,Hyderabad,Fashion,Handbag,1,1775.29,15,2023-11-11,111.66,7,4.0,Debit Card
+101866,1436,Male,46.0,mumbai,Fashion,Jacket,1,2160.7,10,2024-07-10,116.26,3,5.0,Cash on Delivery
+100742,1416,Male,25.0,Hyderabad,Sports,Running Shoes,1,974.15,20,2024-11-23,104.58,6,5.0,Debit Card
+101722,1444,Male,32.0,Delhi,Electronics,Headphones,1,4175.67,0,2024-05-07,48.69,5,5.0,Credit Card
+101311,1308,Female,,Jaipur,Beauty,Face Cream,1,484.9,10,2023-05-27,53.02,8,4.0,Debit Card
+101148,1328,Male,37.0,Mumbai,Books,Textbook,1,446.46,5,2023-06-08,72.9,6,2.0,Credit Card
+100034,1369,Female,38.0,Ahmedabad,Sports,Dumbbells,1,1896.73,0,2023-03-04,37.66,4,5.0,Cash on Delivery
+100788,1145,Female,35.0,Kolkata,Sports,Cricket Bat,5,2282.95,5,2023-03-22,62.34,8,4.0,Credit Card
+101541,1472,Female,30.0,Pune,Electronics,Smartwatch,1,50.0,25,2023-08-31,80.07,8,3.0,Cash on Delivery
+100924,1356,Female,45.0,Bangalore,Beauty,Perfume,1,720.12,0,2023-06-30,16.96,1,5.0,Debit Card
+101044,1201,Male,18.0,Mumbai,Sports,Football,1,2559.05,20,2023-05-26,30.22,5,5.0,Cash on Delivery
+101955,1011,Female,47.0,Ahmedabad,Beauty,Face Cream,1,1251.77,20,2023-06-13,9.85,8,5.0,UPI
+101244,1256,Male,22.0,Pune,Beauty,Shampoo,1,1105.24,0,2023-08-06,108.14,3,3.0,Net Banking
+101916,1436,Other,48.0,Pune,Books,Cookbook,1,439.77,10,2024-02-12,107.04,7,2.0,Cash on Delivery
+100580,1310,Female,31.0,chennai,Fashion,T-Shirt,1,1527.07,5,2023-04-05,76.83,4,4.0,UPI
+100482,1223,Male,39.0,Mumbai,Fashion,Jacket,2,1211.55,5,2024-09-30,48.69,7,4.0,Debit Card
+100932,1404,Male,34.0,Chennai,Sports,Dumbbells,1,1353.01,25,2024-07-08,59.87,6,1.0,Debit Card
+100357,1315,Female,54.0,Jaipur,Electronics,Headphones,4,9264.09,0,2023-02-12,102.51,5,5.0,Debit Card
+101686,1123,Male,29.0,Hyderabad,Home & Kitchen,Bedsheet,4,3259.64,5,2023-12-16,57.27,3,3.0,Credit Card
+101249,1363,Female,35.0,Patna,Books,Novel,2,85.95,15,2024-01-06,142.34,4,3.0,Net Banking
+100760,1179,Male,22.0,Hyderabad,Fashion,Handbag,2,1714.38,5,2023-02-11,101.0,2,5.0,Credit Card
+100093,1180,Male,50.0,Jaipur,Home & Kitchen,Bedsheet,2,3370.36,10,2024-06-13,112.95,4,4.0,Cash on Delivery
+101176,1257,Female,55.0,Patna,Books,Cookbook,1,-409.16,0,2024-11-09,79.3,3,5.0,Credit Card
+101416,1343,Female,38.0,Ahmedabad,Beauty,Face Cream,1,410.62,25,2023-08-23,65.51,7,4.0,Cash on Delivery
+101342,1120,Female,26.0,Bangalore,Home & Kitchen,Vacuum Cleaner,1,3808.62,15,2023-07-19,166.21,2,5.0,Cash on Delivery
+101473,1098,Female,26.0,Mumbai,Home & Kitchen,Lamp,1,2815.99,5,2024-08-07,62.7,5,5.0,Net Banking
+100804,1477,Male,31.0,Patna,Home & Kitchen,Vacuum Cleaner,1,2529.47,25,2024-06-05,66.76,7,4.0,Debit Card
+100746,1301,Female,23.0,Bangalore,Beauty,Perfume,2,952.29,25,2024-11-08,36.59,6,3.0,Net Banking
+101547,1405,Female,48.0,Hyderabad,Electronics,Laptop,1,21490.87,25,2024-04-30,78.37,2,5.0,Credit Card
+100280,1309,Male,43.0,bangalore,Fashion,T-Shirt,2,1058.5,15,2023-02-13,30.82,5,3.0,Net Banking
+101608,1158,Male,35.0,Chennai,Books,Comic,1,351.96,10,2024-02-14,124.52,4,5.0,
+100765,1023,Female,51.0,chennai,Fashion,Sneakers,1,1320.37,0,2023-04-23,190.14,6,4.0,Debit Card
+100605,1248,Female,48.0,Pune,Fashion,Jacket,1,738.66,10,2024-10-12,70.63,4,4.0,UPI
+101469,1188,Female,30.0,Jaipur,Sports,Cricket Bat,1,3380.35,10,2023-08-10,,5,4.0,UPI
+101374,1476,Female,32.0,Mumbai,Sports,Running Shoes,1,2021.31,0,2023-06-29,113.12,8,5.0,Cash on Delivery
+101952,1168,Male,52.0,Chennai,Beauty,Lipstick,1,1036.02,10,2023-12-22,67.56,9,3.0,Cash on Delivery
+101399,1279,Male,48.0,Hyderabad,Books,Novel,5,594.03,5,2024-05-22,73.69,3,4.0,Credit Card
+100401,1154,Male,36.0,Bangalore,Fashion,Jeans,3,1515.25,0,2024-10-22,76.76,4,4.0,UPI
+101729,1156,Female,37.0,Bangalore,Sports,Football,1,996.87,10,2023-02-05,0.0,5,5.0,Debit Card
+100258,1155,Male,,Ahmedabad,Fashion,Handbag,1,1228.94,15,2023-01-05,102.41,4,4.0,UPI
+100945,1472,Male,35.0,Mumbai,Sports,Dumbbells,2,854.98,20,2023-07-20,112.53,7,4.0,Debit Card
+101876,1300,Female,23.0,Jaipur,Electronics,Laptop,1,26889.65,30,2023-08-21,40.76,3,5.0,Credit Card
+101097,1223,Female,30.0,Ahmedabad,Beauty,Shampoo,2,1364.86,15,2024-01-15,23.14,4,4.0,Credit Card
+101220,1148,Male,42.0,Patna,Books,Biography,2,183.22,10,2024-02-04,74.84,7,5.0,Debit Card
+101508,1189,Female,22.0,Mumbai,Beauty,Lipstick,1,1306.85,10,2024-11-04,78.75,9,3.0,Debit Card
+101880,1162,Female,52.0,Hyderabad,Electronics,Smartphone,1,12091.7,20,2023-12-19,82.39,3,4.0,Net Banking
+101162,1213,Male,38.0,Mumbai,Fashion,T-Shirt,2,1367.04,5,2023-10-10,102.03,6,5.0,Debit Card
+100495,1460,Male,46.0,Bangalore,Beauty,Hair Dryer,1,744.13,5,2024-11-12,77.7,4,5.0,Debit Card
+100773,1401,Female,19.0,Mumbai,Home & Kitchen,Cookware Set,1,492.98,25,2023-05-07,83.71,3,5.0,Debit Card
+100551,1066,Other,16.0,Hyderabad,Electronics,Headphones,1,13914.45,10,2024-06-28,22.07,7,4.0,Credit Card
+101487,1169,Female,43.0,Patna,Fashion,Sneakers,4,2152.1,25,2023-09-18,131.85,4,4.0,Net Banking
+100202,1222,Female,16.0,Delhi,Home & Kitchen,Vacuum Cleaner,1,2872.1,5,2024-09-26,109.04,3,4.0,UPI
+100313,1235,Male,,Pune,Sports,Football,1,1649.57,5,2023-12-19,10.94,3,4.0,Debit Card
+100291,1037,Male,45.0,Patna,Electronics,Smartwatch,1,24327.78,20,2024-12-17,96.74,4,4.0,Net Banking
+101985,1484,Female,23.0,Hyderabad,Electronics,Headphones,1,14632.16,10,2024-01-05,140.32,6,4.0,Net Banking
+101214,1098,Male,43.0,Ahmedabad,Beauty,Shampoo,1,1106.57,0,2024-08-18,85.06,5,4.0,UPI
+100764,1157,Female,36.0,Jaipur,Sports,Cricket Bat,1,1481.46,15,2023-09-16,90.11,4,4.0,Cash on Delivery
+101137,1161,Male,36.0,Pune,Sports,Football,1,1142.52,15,2024-09-17,128.9,5,5.0,Debit Card
+100950,1084,Female,30.0,Delhi,Fashion,Sneakers,1,1190.92,0,2024-05-20,131.34,5,4.0,UPI
+100184,1316,Male,25.0,chennai,Sports,Yoga Mat,4,2273.51,0,2024-12-16,83.51,5,5.0,Net Banking
+101177,1416,Male,16.0,Hyderabad,Home & Kitchen,Vacuum Cleaner,1,1360.53,15,2023-10-20,65.4,1,4.0,Cash on Delivery
+101849,1291,Female,40.0,Pune,Electronics,Headphones,1,9429.56,0,2024-09-18,,5,5.0,Credit Card
+101350,1238,Male,47.0,Ahmedabad,Home & Kitchen,Mixer Grinder,4,3799.28,10,2023-02-23,93.28,3,5.0,Net Banking
+101728,1398,Female,39.0,Hyderabad,Electronics,Headphones,1,18120.09,20,2023-06-03,83.17,3,5.0,Net Banking
+101069,1386,Female,44.0,Delhi,Books,Textbook,1,463.0,10,2024-08-26,88.14,6,2.0,Net Banking
+101469,1188,Female,30.0,Jaipur,Sports,Cricket Bat,1,3380.35,10,2023-08-10,,5,4.0,UPI
+101812,1004,Male,44.0,Delhi,Electronics,Tablet,1,13310.73,5,2023-07-13,116.43,6,5.0,Credit Card
+101031,1464,Female,73.0,Mumbai,Sports,Yoga Mat,2,2815.65,0,2023-07-08,90.29,5,1.0,Credit Card
+100251,1301,Female,35.0,Patna,Electronics,Laptop,1,15850.08,0,2023-03-09,131.6,1,5.0,Net Banking
+100824,1408,Female,44.0,ahmedabad,Sports,Running Shoes,2,1105.53,30,2024-05-21,102.81,6,4.0,Debit Card
+101100,1280,Male,33.0,Hyderabad,Home & Kitchen,Mixer Grinder,1,2646.0,15,2023-07-31,16.31,4,3.0,Credit Card
+101537,1108,Male,34.0,Chennai,Electronics,Tablet,1,13272.36,15,2023-11-10,59.73,4,1.0,UPI
+100941,1025,Male,47.0,Kolkata,Home & Kitchen,Bedsheet,2,1757.34,10,2024-10-26,76.85,4,3.0,Net Banking
+100392,1397,Female,35.0,Chennai,Electronics,Smartphone,1,9113.81,15,2023-09-08,88.89,4,4.0,Cash on Delivery
+101920,1203,Female,16.0,Chennai,Fashion,T-Shirt,1,1841.05,15,2023-08-04,61.63,2,4.0,UPI
+101457,1304,Male,41.0,Bangalore,Beauty,Face Cream,1,802.05,10,2023-02-23,82.78,4,5.0,Cash on Delivery
+101093,1016,Male,39.0,Mumbai,Sports,Cricket Bat,2,2331.82,0,2024-12-01,66.84,4,5.0,Net Banking
+101192,1264,Male,39.0,Chennai,Home & Kitchen,Bedsheet,3,2800.93,10,2024-06-01,110.49,1,,
+100905,1409,Other,16.0,Patna,Electronics,Smartphone,1,13962.21,25,2023-06-02,30.18,4,5.0,Net Banking
+100731,1052,Other,28.0,Bangalore,Electronics,Tablet,1,20681.54,10,2023-06-14,103.0,2,5.0,Cash on Delivery
+100555,1434,Male,17.0,Mumbai,Sports,Yoga Mat,1,3129.41,15,2024-05-17,77.87,6,5.0,Net Banking
+100367,1376,Female,,Mumbai,Electronics,Smartwatch,1,16231.63,25,2024-10-06,92.51,4,4.0,Credit Card
+100346,1401,Female,,Jaipur,Home & Kitchen,Lamp,1,2614.99,5,2023-02-27,131.97,4,5.0,UPI
+101609,1216,Female,25.0,chennai,Electronics,Tablet,1,20746.38,10,2024-07-27,,7,3.0,UPI
+100536,1321,Male,48.0,Ahmedabad,Beauty,Perfume,1,909.77,5,2023-06-16,48.98,5,5.0,UPI
+101423,1252,Female,47.0,Delhi,Home & Kitchen,Bedsheet,1,3961.8,30,2023-03-24,,4,4.0,UPI
+101210,1234,Female,,Delhi,Fashion,Jacket,1,2557.55,20,2023-08-16,101.56,4,3.0,Debit Card
+101373,1148,Male,34.0,Pune,Beauty,Face Cream,1,863.62,10,2023-11-10,70.35,7,5.0,UPI
+101640,1257,Female,38.0,Patna,Fashion,Handbag,1,1129.7,0,2023-03-12,68.54,4,1.0,Debit Card
+100920,1268,Female,64.0,Bangalore,Beauty,Perfume,1,306.23,25,2023-10-15,123.0,4,,Credit Card
+100212,1258,Male,48.0,Pune,Electronics,Smartphone,2,28505.72,0,2023-08-08,60.39,3,3.0,Credit Card
+101604,1214,Male,26.0,Patna,Fashion,T-Shirt,1,1962.71,5,2024-03-04,55.58,4,5.0,Credit Card
+100503,1462,Male,23.0,Jaipur,Books,Novel,2,317.5,0,2024-08-16,79.77,2,4.0,Credit Card
+100538,1454,Male,44.0,Patna,Sports,Yoga Mat,1,2190.79,10,2023-03-04,64.69,2,1.0,Credit Card
+101221,1252,Female,24.0,Mumbai,Electronics,Smartwatch,1,12616.34,25,2023-03-19,121.71,7,,UPI
+100176,1041,Female,28.0,Mumbai,Home & Kitchen,Cookware Set,1,3633.08,25,2024-01-14,81.29,5,5.0,Cash on Delivery
