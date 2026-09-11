@@ -1,0 +1,5 @@
+OrderID,CustomerID,Gender,Age,City,ProductCategory,ProductName,Quantity,Price,OrderDate,PaymentMethod,ShippingCost,Rating,DiscountPercent,TotalAmount,OrderMonth,OrderYear,AgeGroup,Price_Capped,Quantity_Capped
+ORD-1001,CUST-101,Male,28,New York,Electronics,Laptop,2,800,2024-01-15,Credit Card,25,4.5,10,1440.0,1,2024,26-35,728.75,2
+ORD-1002,CUST-102,Female,35,Chicago,Home,Lamp,3,200,2024-02-20,Debit Card,15,3.0,20,480.0,2,2024,26-35,200.0,3
+ORD-1003,CUST-103,Male,42,Boston,Fashion,Sneakers,1,120,2024-03-18,Upi,18,5.0,5,114.0,3,2024,36-45,120.0,1
+ORD-1004,CUST-104,Female,50,Seattle,Grocery,Organic Tea,5,30,2024-04-07,Credit Card,12,4.0,15,127.5,4,2024,46-55,30.0,5
